@@ -1,0 +1,2742 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Внешний Курс | Hugo Academic CV Theme</title>
+    <link>https://example.com/tags/%D0%B2%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B8-%D0%BA%D1%83%D1%80%D1%81/</link>
+      <atom:link href="https://example.com/tags/%D0%B2%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B8-%D0%BA%D1%83%D1%80%D1%81/index.xml" rel="self" type="application/rss+xml" />
+    <description>Внешний Курс</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
+      <title>Внешний Курс</title>
+      <link>https://example.com/tags/%D0%B2%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B8-%D0%BA%D1%83%D1%80%D1%81/</link>
+    </image>
+    
+    <item>
+      <title>Прохождение внешнего курса на Stepik (&#34;Введение в Linux&#34;)</title>
+      <link>https://example.com/post/stepik/</link>
+      <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/stepik/</guid>
+      <description>&lt;p&gt;Моё подробное прохождение курса &amp;ldquo;Введение в Linux&amp;rdquo;&lt;/p&gt;
+&lt;h2 id=&#34;цель&#34;&gt;Цель&lt;/h2&gt;
+&lt;p&gt;Познакомятся с операционной системой Linux и её базовыми возможностями. &lt;/p&gt;
+&lt;h2 id=&#34;задания&#34;&gt;Задания&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Введение&lt;/li&gt;
+&lt;li&gt;Общая информация о курсе&lt;/li&gt;
+&lt;li&gt;Как установить Linux&lt;/li&gt;
+&lt;li&gt;Осваиваем Linux&lt;/li&gt;
+&lt;li&gt;Terminal: основы&lt;/li&gt;
+&lt;li&gt;Запуск исполняемых файлов&lt;/li&gt;
+&lt;li&gt;Ввод / вывод&lt;/li&gt;
+&lt;li&gt;Скачивание файлов из интернета&lt;/li&gt;
+&lt;li&gt;Работа с архивами&lt;/li&gt;
+&lt;li&gt;Поиск файлов и слов в файлах&lt;/li&gt;
+&lt;li&gt;Работа на сервере&lt;/li&gt;
+&lt;li&gt;Знакомство с сервером&lt;/li&gt;
+&lt;li&gt;Обмен файлами&lt;/li&gt;
+&lt;li&gt;Запуск приложений&lt;/li&gt;
+&lt;li&gt;Контроль запускаемых программ&lt;/li&gt;
+&lt;li&gt;Многопоточные приложения&lt;/li&gt;
+&lt;li&gt;Менеджер терминалов tmux&lt;/li&gt;
+&lt;li&gt;Как установить Linux: расширенное руководство&lt;/li&gt;
+&lt;li&gt;Продвинутые темы&lt;/li&gt;
+&lt;li&gt;Текстовый редактор vim&lt;/li&gt;
+&lt;li&gt;Скрипты на bash: основы&lt;/li&gt;
+&lt;li&gt;Скрипты на bash: ветвления и циклы&lt;/li&gt;
+&lt;li&gt;Скрипты на bash: разное&lt;/li&gt;
+&lt;li&gt;Продвинутый поиск и редактирование&lt;/li&gt;
+&lt;li&gt;Строим графики в gnuplot&lt;/li&gt;
+&lt;li&gt;Разное&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;этап-1&#34;&gt;Этап 1&lt;/h2&gt;
+&lt;p&gt;В первом этапе внешнего курса мне нужно было: рассмотреть общую информацию, рассмотреть способы установки Linux, освоить Linux, запустить Terminal, а также изучить несколько базовых команд для работы в нём, рассмотреть запуск исполняемых файлов, рассмотреть ввод/вывод, рассмотреть скачивание файлов из интернета, рассмотреть работу с архивами, рассмотреть способы поиска файлов и ответить на тестовые вопросы.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;После просмотра общей информации, мне нужно было ответить на следующие тестовые вопросы:&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&#34;задание-113&#34;&gt;Задание 1.1.3&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/1_hu_f56462f67ce87a54.webp 400w,
+               /post/stepik/image/1_hu_62815215702ef908.webp 760w,
+               /post/stepik/image/1_hu_f848c90ae6475cf0.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/1_hu_f56462f67ce87a54.webp&#34;
+               width=&#34;651&#34;
+               height=&#34;380&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-115&#34;&gt;Задание 1.1.5&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/2_hu_9121d7b241d60f1e.webp 400w,
+               /post/stepik/image/2_hu_2cd8c86fb0ded11e.webp 760w,
+               /post/stepik/image/2_hu_9d12c0ab3725ceae.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/2_hu_9121d7b241d60f1e.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;358&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;После просмотра способов установки Linux, мне нужно было ответить на следующие тестовые вопросы:&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&#34;задание-126&#34;&gt;Задание 1.2.6&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/3_hu_b5a55c2471d3a61c.webp 400w,
+               /post/stepik/image/3_hu_eab81ed725224043.webp 760w,
+               /post/stepik/image/3_hu_5d04198c30fa7fa3.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/3_hu_b5a55c2471d3a61c.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;328&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-128&#34;&gt;Задание 1.2.8&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/4_hu_65ae7f1883f74eb9.webp 400w,
+               /post/stepik/image/4_hu_24ce5fcf48a6e03e.webp 760w,
+               /post/stepik/image/4_hu_29bb51b702adb93f.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/4_hu_65ae7f1883f74eb9.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;340&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-1210&#34;&gt;Задание 1.2.10&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/5_hu_c7075024b89c3fd7.webp 400w,
+               /post/stepik/image/5_hu_8b24929ad0007f81.webp 760w,
+               /post/stepik/image/5_hu_a8a55a299fcc501.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/5_hu_c7075024b89c3fd7.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;299&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;После освоения Linux, мне нужно было ответить на следующие тестовые вопросы:&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&#34;задание-134&#34;&gt;Задание 1.3.4&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/6_hu_e729546496d8ed40.webp 400w,
+               /post/stepik/image/6_hu_49d7cfe5de3deace.webp 760w,
+               /post/stepik/image/6_hu_aa6f503d391126df.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/6_hu_e729546496d8ed40.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;485&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-136&#34;&gt;Задание 1.3.6&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/7_hu_d2aab39c202a469a.webp 400w,
+               /post/stepik/image/7_hu_b4da6f67273d5698.webp 760w,
+               /post/stepik/image/7_hu_e12555756a17ca20.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/7_hu_d2aab39c202a469a.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;381&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-138&#34;&gt;Задание 1.3.8&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/8_hu_c731df089418b2b.webp 400w,
+               /post/stepik/image/8_hu_b2f10e3e05fcc6d5.webp 760w,
+               /post/stepik/image/8_hu_dfdaffc08a4e50f9.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/8_hu_c731df089418b2b.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;346&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-1310&#34;&gt;Задание 1.3.10&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/9_hu_1479373354ac1b71.webp 400w,
+               /post/stepik/image/9_hu_e60dd2c8bd8abc2d.webp 760w,
+               /post/stepik/image/9_hu_852ebf693553562e.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/9_hu_1479373354ac1b71.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;387&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;После запуска Terminal, а также изучения нескольких базовых команд для работы в нём, мне нужно было ответить на следующие тестовые вопросы:&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&#34;задание-143&#34;&gt;Задание 1.4.3&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/10_hu_61f5b314d51d6cd2.webp 400w,
+               /post/stepik/image/10_hu_38bbe13901d5ed3f.webp 760w,
+               /post/stepik/image/10_hu_c4eed26e70b771dc.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/10_hu_61f5b314d51d6cd2.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;350&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-145&#34;&gt;Задание 1.4.5&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/11_hu_3dc2a03ba3db6330.webp 400w,
+               /post/stepik/image/11_hu_9f8d44a65c65b020.webp 760w,
+               /post/stepik/image/11_hu_be93e3e683b21da7.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/11_hu_3dc2a03ba3db6330.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;353&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-147&#34;&gt;Задание 1.4.7&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/12_hu_6d429a0a17e04ff2.webp 400w,
+               /post/stepik/image/12_hu_949ec098c672cce.webp 760w,
+               /post/stepik/image/12_hu_2e78eff7c78a8352.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/12_hu_6d429a0a17e04ff2.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;518&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-1410&#34;&gt;Задание 1.4.10&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/13_hu_c42de503c1d820a5.webp 400w,
+               /post/stepik/image/13_hu_2a53579e93459305.webp 760w,
+               /post/stepik/image/13_hu_43bbb404ae16edb6.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/13_hu_c42de503c1d820a5.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;447&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-1412&#34;&gt;Задание 1.4.12&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/14_hu_194dfe549b8fa63b.webp 400w,
+               /post/stepik/image/14_hu_f60e16682a35e15d.webp 760w,
+               /post/stepik/image/14_hu_ca8f052103ed75ce.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/14_hu_194dfe549b8fa63b.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;349&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;После просмотра запуска исполняемых файлов, мне нужно было ответить на следующие тестовые вопросы:&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&#34;задание-153&#34;&gt;Задание 1.5.3&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/15_hu_ed3d973e12ac1460.webp 400w,
+               /post/stepik/image/15_hu_e95791d084b09d.webp 760w,
+               /post/stepik/image/15_hu_2b1d9e5c06f8f07.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/15_hu_ed3d973e12ac1460.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;398&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-156&#34;&gt;Задание 1.5.6&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/16_hu_293822a2e566b76c.webp 400w,
+               /post/stepik/image/16_hu_d44d22d368bc03b9.webp 760w,
+               /post/stepik/image/16_hu_29bd6daec69ed719.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/16_hu_293822a2e566b76c.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;319&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-157&#34;&gt;Задание 1.5.7&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/17_hu_7d18d694ac374137.webp 400w,
+               /post/stepik/image/17_hu_9431e7322a7b3b14.webp 760w,
+               /post/stepik/image/17_hu_643c17db2a9b6243.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/17_hu_7d18d694ac374137.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;333&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;После просмотра ввода/вывода, мне нужно было ответить на следующие тестовые вопросы:&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&#34;задание-164&#34;&gt;Задание 1.6.4&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/18_hu_11611cc985f9434b.webp 400w,
+               /post/stepik/image/18_hu_7a2f10e948337a48.webp 760w,
+               /post/stepik/image/18_hu_566ae57f9491c088.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/18_hu_11611cc985f9434b.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;323&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-165&#34;&gt;Задание 1.6.5&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/19_hu_457ca3a272422328.webp 400w,
+               /post/stepik/image/19_hu_ce9b557299d6cb7e.webp 760w,
+               /post/stepik/image/19_hu_836adce6b20d704e.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/19_hu_457ca3a272422328.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;388&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-168&#34;&gt;Задание 1.6.8&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/20_hu_d9f05e7779eb0f4f.webp 400w,
+               /post/stepik/image/20_hu_d7132feffd297a16.webp 760w,
+               /post/stepik/image/20_hu_5e032c90a3319dfa.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/20_hu_d9f05e7779eb0f4f.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;388&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;После просмотра скачивания файлов из интернета, мне нужно было ответить на следующие тестовые вопросы:&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&#34;задание-173&#34;&gt;Задание 1.7.3&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/21_hu_f6ad3f8221c20f13.webp 400w,
+               /post/stepik/image/21_hu_db605e3be616d713.webp 760w,
+               /post/stepik/image/21_hu_1d357f20b9f2e3fd.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/21_hu_f6ad3f8221c20f13.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;367&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-175&#34;&gt;Задание 1.7.5&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/21_hu_f6ad3f8221c20f13.webp 400w,
+               /post/stepik/image/21_hu_db605e3be616d713.webp 760w,
+               /post/stepik/image/21_hu_1d357f20b9f2e3fd.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/21_hu_f6ad3f8221c20f13.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;367&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-177&#34;&gt;Задание 1.7.7&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/23_hu_33500ac9257c699.webp 400w,
+               /post/stepik/image/23_hu_9e7c3f3ba3b1f508.webp 760w,
+               /post/stepik/image/23_hu_2f3ed6be61f36e32.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/23_hu_33500ac9257c699.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;431&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;После просмотра работы с архивами, мне нужно было ответить на следующие тестовые вопросы:&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&#34;задание-183&#34;&gt;Задание 1.8.3&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/24_hu_a7fdbc021f383bed.webp 400w,
+               /post/stepik/image/24_hu_14f3f097e2c331f0.webp 760w,
+               /post/stepik/image/24_hu_5f633f15b45afad6.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/24_hu_a7fdbc021f383bed.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;380&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-185&#34;&gt;Задание 1.8.5&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/25_hu_9a8e6b37cadcde6d.webp 400w,
+               /post/stepik/image/25_hu_eaa26a8b21c5e6d4.webp 760w,
+               /post/stepik/image/25_hu_3c905d268f41693b.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/25_hu_9a8e6b37cadcde6d.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;345&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-187&#34;&gt;Задание 1.8.7&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/26_hu_1122180fe8fc9e5a.webp 400w,
+               /post/stepik/image/26_hu_3920c5a77a326713.webp 760w,
+               /post/stepik/image/26_hu_9e83987dc047e8cd.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/26_hu_1122180fe8fc9e5a.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;362&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;После просмотра способов поиска файлов и слов, мне нужно было ответить на следующие тестовые вопросы:&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&#34;задание-193&#34;&gt;Задание 1.9.3&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/27_hu_4f0fd99e1183de5c.webp 400w,
+               /post/stepik/image/27_hu_e0d507e3620e01fb.webp 760w,
+               /post/stepik/image/27_hu_c505db31a6c05426.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/27_hu_4f0fd99e1183de5c.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;406&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-195&#34;&gt;Задание 1.9.5&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/28_hu_5dd62b0caf365c2.webp 400w,
+               /post/stepik/image/28_hu_f6bf72e689a5c9c.webp 760w,
+               /post/stepik/image/28_hu_715e784f6832a93a.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/28_hu_5dd62b0caf365c2.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;447&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-196&#34;&gt;Задание 1.9.6&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/29_hu_a47cc2e60b506ec6.webp 400w,
+               /post/stepik/image/29_hu_f34550c2dee39185.webp 760w,
+               /post/stepik/image/29_hu_ec3bddd61fa8e15d.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/29_hu_a47cc2e60b506ec6.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;340&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Я закончила выполнение первого этапа внешнего курса, приступила к второму этапу.&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;этап-2&#34;&gt;Этап 2&lt;/h2&gt;
+&lt;p&gt;Во втором этапе внешнего курса мне нужно было: познакомиться с сервером, рассмотреть обмен файлами, рассмотреть запуск приложений, рассмотреть контроль запускаемых приложений, познакомиться с многопоточными приложениями, познакомиться с Менеджером терминалов tmux и ответить на тестовые вопросы.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;После знакомства с сервером, мне нужно было ответить на следующие тестовые вопросы:&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&#34;задание-213&#34;&gt;Задание 2.1.3&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/30_hu_c42f97dd24c68a4b.webp 400w,
+               /post/stepik/image/30_hu_a1d0fad2a61f7941.webp 760w,
+               /post/stepik/image/30_hu_ae11235d8139d3a8.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/30_hu_c42f97dd24c68a4b.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;320&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-216&#34;&gt;Задание 2.1.6&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/31_hu_1b225d63d2f4a3d1.webp 400w,
+               /post/stepik/image/31_hu_e8796e4c8590505e.webp 760w,
+               /post/stepik/image/31_hu_429838c29c349fd8.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/31_hu_1b225d63d2f4a3d1.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;336&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;После просмотра обмена файлами, мне нужно было ответить на следующие тестовые вопросы:&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&#34;задание-224&#34;&gt;Задание 2.2.4&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/32_hu_1ddbc7f8086090d1.webp 400w,
+               /post/stepik/image/32_hu_dd37635944ceec49.webp 760w,
+               /post/stepik/image/32_hu_62c228c859b5a3e2.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/32_hu_1ddbc7f8086090d1.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;315&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-226&#34;&gt;Задание 2.2.6&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/33_hu_96f7d1daf3517402.webp 400w,
+               /post/stepik/image/33_hu_d874286b4d69e501.webp 760w,
+               /post/stepik/image/33_hu_268a66a18ccfa241.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/33_hu_96f7d1daf3517402.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;341&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-228&#34;&gt;Задание 2.2.8&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/34_hu_a6a1f8cb928bcd8c.webp 400w,
+               /post/stepik/image/34_hu_4e189b96dde3dc77.webp 760w,
+               /post/stepik/image/34_hu_3a31e3708b367c6c.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/34_hu_a6a1f8cb928bcd8c.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;327&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;После просмотра запуска приложений, мне нужно было ответить на следующие тестовые вопросы:&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&#34;задание-234&#34;&gt;Задание 2.3.4&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/35_hu_60b7bcc5c55e7bf4.webp 400w,
+               /post/stepik/image/35_hu_3d2e0fb968c32a5b.webp 760w,
+               /post/stepik/image/35_hu_9107d6068d32aefa.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/35_hu_60b7bcc5c55e7bf4.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;318&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-236&#34;&gt;Задание 2.3.6&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/36_hu_f2c3b07d979f1f92.webp 400w,
+               /post/stepik/image/36_hu_17bdcf23966d7a7a.webp 760w,
+               /post/stepik/image/36_hu_1b7259d0b91a8af6.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/36_hu_f2c3b07d979f1f92.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;369&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-237&#34;&gt;Задание 2.3.7&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/37_hu_667194cfcbfd6816.webp 400w,
+               /post/stepik/image/37_hu_f1036d00b0198f3d.webp 760w,
+               /post/stepik/image/37_hu_ae914292afbc9af3.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/37_hu_667194cfcbfd6816.webp&#34;
+               width=&#34;755&#34;
+               height=&#34;535&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-238&#34;&gt;Задание 2.3.8&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/38_hu_1a43509a39a0999a.webp 400w,
+               /post/stepik/image/38_hu_8b6fd4bce0276162.webp 760w,
+               /post/stepik/image/38_hu_8fc38083d15a70ad.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/38_hu_1a43509a39a0999a.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;489&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;После просмотра контроля запускаемых приложений, мне нужно было ответить на следующие тестовые вопросы:&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&#34;задание-245&#34;&gt;Задание 2.4.5&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/39_hu_3f612356947b3ef2.webp 400w,
+               /post/stepik/image/39_hu_dfe7f2da33ec620e.webp 760w,
+               /post/stepik/image/39_hu_c232a5b8746bb531.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/39_hu_3f612356947b3ef2.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;438&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-248&#34;&gt;Задание 2.4.8&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/40_hu_e75c15a3424d9735.webp 400w,
+               /post/stepik/image/40_hu_ae8204c89dd24d96.webp 760w,
+               /post/stepik/image/40_hu_3627444e0e074818.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/40_hu_e75c15a3424d9735.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;374&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-2410&#34;&gt;Задание 2.4.10&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/41_hu_bb75f448f18382b4.webp 400w,
+               /post/stepik/image/41_hu_e160d18df87a8d9f.webp 760w,
+               /post/stepik/image/41_hu_484c58c7a89bd72a.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/41_hu_bb75f448f18382b4.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;322&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-2411&#34;&gt;Задание 2.4.11&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/42_hu_2c9dcdde92d5c4fd.webp 400w,
+               /post/stepik/image/42_hu_1c29a711a5b9a30c.webp 760w,
+               /post/stepik/image/42_hu_d9a6d745615ae6c3.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/42_hu_2c9dcdde92d5c4fd.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;343&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;После знакомства с многопоточными приложениями, мне нужно было ответить на следующие тестовые вопросы:&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&#34;задание-257&#34;&gt;Задание 2.5.7&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/43_hu_393b08df5b64f1a1.webp 400w,
+               /post/stepik/image/43_hu_5c36c09b1ccb20d8.webp 760w,
+               /post/stepik/image/43_hu_9d7c91663144ef58.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/43_hu_393b08df5b64f1a1.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;506&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-258&#34;&gt;Задание 2.5.8&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/44_hu_c33b08a60f68106f.webp 400w,
+               /post/stepik/image/44_hu_4da9ef1b0944e9d6.webp 760w,
+               /post/stepik/image/44_hu_d4f46365d14819aa.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/44_hu_c33b08a60f68106f.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;460&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-259&#34;&gt;Задание 2.5.9&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/45_hu_98be8d5bfb6a4824.webp 400w,
+               /post/stepik/image/45_hu_b5d2a0ab5f989337.webp 760w,
+               /post/stepik/image/45_hu_b86bf622b67e44f3.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/45_hu_98be8d5bfb6a4824.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;444&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-2512&#34;&gt;Задание 2.5.12&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/46_hu_c75612c4970b3e74.webp 400w,
+               /post/stepik/image/46_hu_db0a7afaf52695c2.webp 760w,
+               /post/stepik/image/46_hu_ff5e47f2cdd8a063.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/46_hu_c75612c4970b3e74.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;403&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-2513&#34;&gt;Задание 2.5.13&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/47_hu_b9c66f887f200ad8.webp 400w,
+               /post/stepik/image/47_hu_eb63183847e6c5ff.webp 760w,
+               /post/stepik/image/47_hu_d4083c2686b96321.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/47_hu_b9c66f887f200ad8.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;550&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;После знакомства с Менеджером терминалов tmux, мне нужно было ответить на следующие тестовые вопросы:&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&#34;задание-265&#34;&gt;Задание 2.6.5&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/48_hu_faf0fdcb596847f3.webp 400w,
+               /post/stepik/image/48_hu_991cd8bf94937730.webp 760w,
+               /post/stepik/image/48_hu_c6c5293748d3477a.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/48_hu_faf0fdcb596847f3.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;365&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-2610&#34;&gt;Задание 2.6.10&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/49_hu_df6982909d24a2e8.webp 400w,
+               /post/stepik/image/49_hu_b7bc3799b2b17dad.webp 760w,
+               /post/stepik/image/49_hu_607fb966af9813ba.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/49_hu_df6982909d24a2e8.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;347&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-2614&#34;&gt;Задание 2.6.14&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/50_hu_972105bb2f2ef143.webp 400w,
+               /post/stepik/image/50_hu_8104254bf7a54dff.webp 760w,
+               /post/stepik/image/50_hu_ee0f7b725dda06a3.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/50_hu_972105bb2f2ef143.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;382&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-2615&#34;&gt;Задание 2.6.15&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/51_hu_d22e50cbdc3e1de6.webp 400w,
+               /post/stepik/image/51_hu_dad4e114f62565fc.webp 760w,
+               /post/stepik/image/51_hu_e5092a602ebe6756.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/51_hu_d22e50cbdc3e1de6.webp&#34;
+               width=&#34;755&#34;
+               height=&#34;357&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-2618&#34;&gt;Задание 2.6.18&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/52_hu_4c5c120dbd5dc7d3.webp 400w,
+               /post/stepik/image/52_hu_e877acb721d6eb00.webp 760w,
+               /post/stepik/image/52_hu_d5bbe30ee928527a.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/52_hu_4c5c120dbd5dc7d3.webp&#34;
+               width=&#34;751&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-2619&#34;&gt;Задание 2.6.19&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/53_hu_905e11f496258bd8.webp 400w,
+               /post/stepik/image/53_hu_f4a376e99f503dcf.webp 760w,
+               /post/stepik/image/53_hu_b99d909de4516c3a.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/53_hu_905e11f496258bd8.webp&#34;
+               width=&#34;591&#34;
+               height=&#34;475&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Я закончила выполнение второго этапа внешнего курса, приступила к третьему этапу.&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;этап-3&#34;&gt;Этап 3&lt;/h2&gt;
+&lt;p&gt;В третьем этапе внешнего курса мне нужно было: познакомиться с Текстовым редактор vim, познакомиться с основами скриптов на bash, изучить скрипты на bash: ветвления и циклы, изучить скрипты на bash: разное, изучить продвинутый поиск и редактирование, изучить построение графиков в gnuplot, изучить пункт Разное и ответить на тестовые вопросы.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;После знакомства с Текстовым редактор vim, мне нужно было ответить на следующие тестовые вопросы:&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&#34;задание-315&#34;&gt;Задание 3.1.5&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/54_hu_836bea9599637186.webp 400w,
+               /post/stepik/image/54_hu_10bd87c56d7febf8.webp 760w,
+               /post/stepik/image/54_hu_1c407e28d440d823.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/54_hu_836bea9599637186.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;396&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-317&#34;&gt;Задание 3.1.7&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/55_hu_98138bedc250ee1.webp 400w,
+               /post/stepik/image/55_hu_8e24c9f08aeeb9e7.webp 760w,
+               /post/stepik/image/55_hu_6efa1e07fa18742.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/55_hu_98138bedc250ee1.webp&#34;
+               width=&#34;633&#34;
+               height=&#34;499&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-318&#34;&gt;Задание 3.1.8&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/56_hu_57e29d0ee36eb6dd.webp 400w,
+               /post/stepik/image/56_hu_20344c8aa162cfa8.webp 760w,
+               /post/stepik/image/56_hu_dc3ddf1c4c3af15d.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/56_hu_57e29d0ee36eb6dd.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;550&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-3110&#34;&gt;Задание 3.1.10&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/57_hu_14088ad2cf760468.webp 400w,
+               /post/stepik/image/57_hu_9d8d117ac8edadfa.webp 760w,
+               /post/stepik/image/57_hu_4ebca1f25449e991.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/57_hu_14088ad2cf760468.webp&#34;
+               width=&#34;728&#34;
+               height=&#34;429&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-3111&#34;&gt;Задание 3.1.11&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/58_hu_914135b5b205d893.webp 400w,
+               /post/stepik/image/58_hu_7b8113d190350529.webp 760w,
+               /post/stepik/image/58_hu_91be50a2de9b02e2.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/58_hu_914135b5b205d893.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;515&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;После знакомства с основами скриптов на bash, мне нужно было ответить на следующие тестовые вопросы:&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&#34;задание-323&#34;&gt;Задание 3.2.3&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/59_hu_ff176072f9a5b1f9.webp 400w,
+               /post/stepik/image/59_hu_10d2ef131f4ec681.webp 760w,
+               /post/stepik/image/59_hu_8fd0a005f24b5b8.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/59_hu_ff176072f9a5b1f9.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;449&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-325&#34;&gt;Задание 3.2.5&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/60_hu_e2d882a608e3b49a.webp 400w,
+               /post/stepik/image/60_hu_27ee4e4a31762135.webp 760w,
+               /post/stepik/image/60_hu_e04540f1012595b0.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/60_hu_e2d882a608e3b49a.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;490&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-327&#34;&gt;Задание 3.2.7&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/61_hu_a51a6a07fa9ff9df.webp 400w,
+               /post/stepik/image/61_hu_e96a8d4ea9514c11.webp 760w,
+               /post/stepik/image/61_hu_3374e361134b437a.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/61_hu_a51a6a07fa9ff9df.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;499&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-3210&#34;&gt;Задание 3.2.10&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/62_hu_d7823d4f75fa1cab.webp 400w,
+               /post/stepik/image/62_hu_22b10e4d1b930f3.webp 760w,
+               /post/stepik/image/62_hu_711a2ed5c353eecc.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/62_hu_d7823d4f75fa1cab.webp&#34;
+               width=&#34;602&#34;
+               height=&#34;462&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;После изучения скриптов на bash: ветвления и циклы, мне нужно было ответить на следующие тестовые вопросы:&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&#34;задание-333&#34;&gt;Задание 3.3.3&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/63_hu_750ff6619db674db.webp 400w,
+               /post/stepik/image/63_hu_acf41367c8f31d1d.webp 760w,
+               /post/stepik/image/63_hu_b57b3b52b2e59f73.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/63_hu_750ff6619db674db.webp&#34;
+               width=&#34;592&#34;
+               height=&#34;569&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-335&#34;&gt;Задание 3.3.5&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/64_hu_9887101037f38cb1.webp 400w,
+               /post/stepik/image/64_hu_c2aeff8173a93fe2.webp 760w,
+               /post/stepik/image/64_hu_5152e7f7b7a232f7.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/64_hu_9887101037f38cb1.webp&#34;
+               width=&#34;609&#34;
+               height=&#34;485&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-336&#34;&gt;Задание 3.3.6&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/65_hu_a8a8120e3a307dc7.webp 400w,
+               /post/stepik/image/65_hu_15184f3c83d811fa.webp 760w,
+               /post/stepik/image/65_hu_3945453f6df8555d.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/65_hu_a8a8120e3a307dc7.webp&#34;
+               width=&#34;602&#34;
+               height=&#34;577&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-338&#34;&gt;Задание 3.3.8&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/66_hu_e030e8d52b9e49f3.webp 400w,
+               /post/stepik/image/66_hu_f3ee1005bc78b831.webp 760w,
+               /post/stepik/image/66_hu_2c12b76ef7f72db5.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/66_hu_e030e8d52b9e49f3.webp&#34;
+               width=&#34;575&#34;
+               height=&#34;429&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-339&#34;&gt;Задание 3.3.9&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/67_hu_5037e6d537e23a38.webp 400w,
+               /post/stepik/image/67_hu_e5f11ef7761a5661.webp 760w,
+               /post/stepik/image/67_hu_978733c14953a5bd.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/67_hu_5037e6d537e23a38.webp&#34;
+               width=&#34;729&#34;
+               height=&#34;537&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;После изучения скриптов на bash: разное, мне нужно было ответить на следующие тестовые вопросы:&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&#34;задание-343&#34;&gt;Задание 3.4.3&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/68_hu_5e0611a6414a1971.webp 400w,
+               /post/stepik/image/68_hu_1c9e143c50c7b13a.webp 760w,
+               /post/stepik/image/68_hu_d3e8e0d9a6b7f644.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/68_hu_5e0611a6414a1971.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;532&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-345&#34;&gt;Задание 3.4.5&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/69_hu_aab01b21ab544600.webp 400w,
+               /post/stepik/image/69_hu_3d53357b359b907d.webp 760w,
+               /post/stepik/image/69_hu_f11640b470bcea4d.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/69_hu_aab01b21ab544600.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;521&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-346&#34;&gt;Задание 3.4.6&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/70_hu_5e1a6d358f5715be.webp 400w,
+               /post/stepik/image/70_hu_ea0beb570dbfb1f4.webp 760w,
+               /post/stepik/image/70_hu_5e9f71a349a6bbcd.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/70_hu_5e1a6d358f5715be.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;530&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-348&#34;&gt;Задание 3.4.8&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/71_hu_a911e2373da6b383.webp 400w,
+               /post/stepik/image/71_hu_d85a13400f7a9714.webp 760w,
+               /post/stepik/image/71_hu_81af1d075274aaa9.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/71_hu_a911e2373da6b383.webp&#34;
+               width=&#34;610&#34;
+               height=&#34;521&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-349&#34;&gt;Задание 3.4.9&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/72_hu_785615f1a6f5092b.webp 400w,
+               /post/stepik/image/72_hu_64d2dead176d743f.webp 760w,
+               /post/stepik/image/72_hu_f87e36469fffc31a.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/72_hu_785615f1a6f5092b.webp&#34;
+               width=&#34;741&#34;
+               height=&#34;561&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-3410&#34;&gt;Задание 3.4.10&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/73_hu_5bd9884584dcfc77.webp 400w,
+               /post/stepik/image/73_hu_a0b17aff2cfa05f7.webp 760w,
+               /post/stepik/image/73_hu_534c48a66ee2d4a3.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/73_hu_5bd9884584dcfc77.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;515&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;После изучения продвинутого поиска и редактирования, мне нужно было ответить на следующие тестовые вопросы:&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&#34;задание-353&#34;&gt;Задание 3.5.3&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/74_hu_5c40e4e4446c8e52.webp 400w,
+               /post/stepik/image/74_hu_32a19e8f0f077df1.webp 760w,
+               /post/stepik/image/74_hu_a5978de86150a5e1.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/74_hu_5c40e4e4446c8e52.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;472&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-354&#34;&gt;Задание 3.5.4&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/75_hu_3ec13bcda0c2f881.webp 400w,
+               /post/stepik/image/75_hu_5e3113545a9957e3.webp 760w,
+               /post/stepik/image/75_hu_6b9c7f693ec83471.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/75_hu_3ec13bcda0c2f881.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;475&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-355&#34;&gt;Задание 3.5.5&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/76_hu_bf7cc2edb498960a.webp 400w,
+               /post/stepik/image/76_hu_eb289789a754ee51.webp 760w,
+               /post/stepik/image/76_hu_e83d51403b642b29.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/76_hu_bf7cc2edb498960a.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;435&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-357&#34;&gt;Задание 3.5.7&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/77_hu_862a86f92bddc743.webp 400w,
+               /post/stepik/image/77_hu_11765ac22a5e3e91.webp 760w,
+               /post/stepik/image/77_hu_db9836ea68b5630.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/77_hu_862a86f92bddc743.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;435&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-359&#34;&gt;Задание 3.5.9&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/78_hu_55e9412afeaaad66.webp 400w,
+               /post/stepik/image/78_hu_5ebf41c04daa6c25.webp 760w,
+               /post/stepik/image/78_hu_fcb3cfd01bd35e00.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/78_hu_55e9412afeaaad66.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;387&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-3511&#34;&gt;Задание 3.5.11&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/79_hu_42e5c0be0e24d99c.webp 400w,
+               /post/stepik/image/79_hu_532102556827a758.webp 760w,
+               /post/stepik/image/79_hu_45da68dda026fbb0.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/79_hu_42e5c0be0e24d99c.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;384&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-3512&#34;&gt;Задание 3.5.12&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/80_hu_96a18180bcaae648.webp 400w,
+               /post/stepik/image/80_hu_9d984d87f73d2c31.webp 760w,
+               /post/stepik/image/80_hu_56344a26e43ac1c9.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/80_hu_96a18180bcaae648.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;275&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;После изучения построения графиков в gnuplot, мне нужно было ответить на следующие тестовые вопросы:&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&#34;задание-363&#34;&gt;Задание 3.6.3&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/81_hu_ffa45c10aa592b57.webp 400w,
+               /post/stepik/image/81_hu_ac28fb6db1419c14.webp 760w,
+               /post/stepik/image/81_hu_6e1e122be2babc5f.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/81_hu_ffa45c10aa592b57.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;434&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-365&#34;&gt;Задание 3.6.5&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/82_hu_28f1b99f4ed76048.webp 400w,
+               /post/stepik/image/82_hu_c7dfb12566b22c3d.webp 760w,
+               /post/stepik/image/82_hu_79a7c87f79d71496.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/82_hu_28f1b99f4ed76048.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;377&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-367&#34;&gt;Задание 3.6.7&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/83_hu_ed50547f217aba79.webp 400w,
+               /post/stepik/image/83_hu_4ba60af995e6c7a1.webp 760w,
+               /post/stepik/image/83_hu_9cf8e168543bba08.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/83_hu_ed50547f217aba79.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;261&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-3610&#34;&gt;Задание 3.6.10&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/84_hu_6e0108d08965a80.webp 400w,
+               /post/stepik/image/84_hu_db755c4031cdd099.webp 760w,
+               /post/stepik/image/84_hu_eaabfab73b30841b.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/84_hu_6e0108d08965a80.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;346&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;После изучения пункта Разное, мне нужно было ответить на следующие тестовые вопросы:&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&#34;задание-374&#34;&gt;Задание 3.7.4&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/84_hu_6e0108d08965a80.webp 400w,
+               /post/stepik/image/84_hu_db755c4031cdd099.webp 760w,
+               /post/stepik/image/84_hu_eaabfab73b30841b.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/84_hu_6e0108d08965a80.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;346&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-375&#34;&gt;Задание 3.7.5&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/84_hu_6e0108d08965a80.webp 400w,
+               /post/stepik/image/84_hu_db755c4031cdd099.webp 760w,
+               /post/stepik/image/84_hu_eaabfab73b30841b.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/84_hu_6e0108d08965a80.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;346&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-377&#34;&gt;Задание 3.7.7&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/84_hu_6e0108d08965a80.webp 400w,
+               /post/stepik/image/84_hu_db755c4031cdd099.webp 760w,
+               /post/stepik/image/84_hu_eaabfab73b30841b.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/84_hu_6e0108d08965a80.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;346&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-378&#34;&gt;Задание 3.7.8&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/84_hu_6e0108d08965a80.webp 400w,
+               /post/stepik/image/84_hu_db755c4031cdd099.webp 760w,
+               /post/stepik/image/84_hu_eaabfab73b30841b.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/84_hu_6e0108d08965a80.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;346&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;задание-3710&#34;&gt;Задание 3.7.10&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/84_hu_6e0108d08965a80.webp 400w,
+               /post/stepik/image/84_hu_db755c4031cdd099.webp 760w,
+               /post/stepik/image/84_hu_eaabfab73b30841b.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/84_hu_6e0108d08965a80.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;346&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;итог&#34;&gt;Итог&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/90_hu_656762e04eb498b1.webp 400w,
+               /post/stepik/image/90_hu_8317b39b80db33a2.webp 760w,
+               /post/stepik/image/90_hu_898e7deedccc5c62.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/90_hu_656762e04eb498b1.webp&#34;
+               width=&#34;486&#34;
+               height=&#34;411&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Я закончила прохождение внешнего курса и получила сертификат с отличием&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;вывод&#34;&gt;Вывод&lt;/h2&gt;
+&lt;p&gt;Я познакомилась с операционной системой Linux и её базовыми возможностями. &lt;/p&gt;
+&lt;h2 id=&#34;список-литературы&#34;&gt;Список литературы&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;http://rus-linux.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://rus-linux.net/&lt;/a&gt;  &amp;ndash; виртуальная энциклопедия ﻿Linux ﻿&lt;/li&gt;
+&lt;li&gt;﻿http://www.f-notes.info/linux:linux_command &amp;ndash; довольно обширный список полезных команд терминала.&lt;/li&gt;
+&lt;li&gt;﻿http://ru.najomi.org/_nix &amp;ndash; полезные примеры использования команд терминала&lt;/li&gt;
+&lt;li&gt;﻿http://forum.ubuntu.ru/ &amp;ndash; форум русскоязычного сообщества Ubuntu.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ru.najomi.org/vim&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://ru.najomi.org/vim&lt;/a&gt; &amp;ndash; команды vim&lt;/li&gt;
+&lt;li&gt;﻿http://lib.ru/LINUXGUIDE/torvalds_jast_for_fun.txt &amp;ndash; книга создателя Linux Линуса Торвальдса &amp;ldquo;Just for fun&amp;rdquo;.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;мой-сертификат&#34;&gt;Мой сертификат&lt;/h2&gt;
+&lt;p&gt;Ссылка: &lt;a href=&#34;https://stepik.org/cert/2791854&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://stepik.org/cert/2791854&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/stepik/image/1_hu_37a214e8db3242af.webp 400w,
+               /post/stepik/image/1_hu_204050f0fc431521.webp 760w,
+               /post/stepik/image/1_hu_c27e41e9cad4c962.webp 1200w&#34;
+               src=&#34;https://example.com/post/stepik/image/1_hu_37a214e8db3242af.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;545&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;видео-на-прохождение&#34;&gt;Видео на прохождение&lt;/h2&gt;
+&lt;p&gt;Также моё прохождение внешнего курса Вы можете посмотреть на моих каналах:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rutube:&lt;/strong&gt; &lt;a href=&#34;https://rutube.ru/channel/57162217/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://rutube.ru/channel/57162217/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;plvideo:&lt;/strong&gt; &lt;a href=&#34;https://plvideo.ru/@0Z9TEc1ngakg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://plvideo.ru/@0Z9TEc1ngakg&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
