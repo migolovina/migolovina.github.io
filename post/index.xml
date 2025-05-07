@@ -5,12 +5,103 @@
     <link>https://example.com/post/</link>
       <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 26 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 07 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
       <title>Blog</title>
       <link>https://example.com/post/</link>
     </image>
+    
+    <item>
+      <title>Пост по прошедшей недели</title>
+      <link>https://example.com/post/last-week5/</link>
+      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/last-week5/</guid>
+      <description>&lt;p&gt;Моя прошедшая неделя была полна воспоминаний из детства.&lt;/p&gt;
+&lt;h2 id=&#34;понедельник&#34;&gt;Понедельник&lt;/h2&gt;
+&lt;p&gt;В понедельник мне нужно было пройти тест на знание английского, получила результат 52 балла, это B2. Установила игру из детства, на которую смотрела обзоры 12 лет назад, это было так прекрасно играть в то, что давно мечтала.&lt;/p&gt;
+&lt;h2 id=&#34;вторник&#34;&gt;Вторник&lt;/h2&gt;
+&lt;p&gt;Я установила ещё одну игру из своего детства, которая мне не очень понравилась, но я решила её допройти и всё ещё занимаюсь этим.&lt;/p&gt;
+&lt;h2 id=&#34;среда&#34;&gt;Среда&lt;/h2&gt;
+&lt;p&gt;В среду я смогла скачать свою самую желанную игру детства и поиграть в неё, но к сожалению, все игры моего детства предназначены на джостик, которого у меня нету, а на компьютере из-за этого её невозможно пройти. :(&lt;/p&gt;
+&lt;h2 id=&#34;четверг&#34;&gt;Четверг&lt;/h2&gt;
+&lt;p&gt;В четверг был выходной и я решила пойти погулять, там я встретила очень милого рыжего котика, которому я купила покушать корм, после этого всю прогулку он ходил со мной.&lt;/p&gt;
+&lt;h2 id=&#34;пятница&#34;&gt;Пятница&lt;/h2&gt;
+&lt;p&gt;В пятницу все пары перенесли на дистант, поэтому я загрузила своё девятое задание по истории на диск и не выступила с ним.&lt;/p&gt;
+&lt;h2 id=&#34;суббота&#34;&gt;Суббота&lt;/h2&gt;
+&lt;p&gt;Я начала делать свой проект по компьютерным наукам и сделала последнюю четырнадцатую лабораторную работу.&lt;/p&gt;
+&lt;h2 id=&#34;воскресенье&#34;&gt;Воскресенье&lt;/h2&gt;
+&lt;p&gt;Я доделала все лабораторные работы и делаю предпоследний этап проекта.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Языки научного программирования</title>
+      <link>https://example.com/post/prog/</link>
+      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/prog/</guid>
+      <description>&lt;h2 id=&#34;языки-научного-программирования-что-выбрать-для-вычислений-анализа-данных-и-моделирования&#34;&gt;Языки научного программирования: что выбрать для вычислений, анализа данных и моделирования?&lt;/h2&gt;
+&lt;p&gt;Научные расчёты, обработка данных и численное моделирование требуют не только знаний математики, но и правильных инструментов. Вот &lt;strong&gt;топ языков&lt;/strong&gt;, которые используют учёные, инженеры и аналитики:&lt;/p&gt;
+&lt;h2 id=&#34;python--универсальный-лидер&#34;&gt;Python — универсальный лидер&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Плюсы&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;✅ Простота синтаксиса + огромные библиотеки (&lt;code&gt;NumPy&lt;/code&gt;, &lt;code&gt;SciPy&lt;/code&gt;, &lt;code&gt;Pandas&lt;/code&gt;, &lt;code&gt;Matplotlib&lt;/code&gt;).&lt;/p&gt;
+&lt;p&gt;✅ Подходит для машинного обучения (&lt;code&gt;TensorFlow&lt;/code&gt;, &lt;code&gt;PyTorch&lt;/code&gt;).&lt;/p&gt;
+&lt;p&gt;✅ Интеграция с Jupyter Notebook для интерактивных отчётов.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Минусы&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;❌ Медленнее компилируемых языков (но ускоряется за счёт &lt;code&gt;Cython&lt;/code&gt; или &lt;code&gt;Numba&lt;/code&gt;).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Где применяется&lt;/strong&gt;: анализ данных, биоинформатика, физическое моделирование.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;r--статистика-и-визуализация&#34;&gt;R — статистика и визуализация&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Плюсы&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;✅ Лучший для сложной статистики и графиков (&lt;code&gt;ggplot2&lt;/code&gt;, &lt;code&gt;dplyr&lt;/code&gt;).&lt;/p&gt;
+&lt;p&gt;✅ Готовые решения для медицины, экономики, социологии.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Минусы&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;❌ Неудобен для общего программирования.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Пример&lt;/strong&gt;: расчёты в психологии, финансовая аналитика.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;julia--новый-конкурент&#34;&gt;Julia — новый конкурент&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Плюсы&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;✅ Скорость как у C, удобство как у Python.&lt;/p&gt;
+&lt;p&gt;✅ Создана специально для науки (&lt;code&gt;DifferentialEquations.jl&lt;/code&gt;, &lt;code&gt;Flux.jl&lt;/code&gt; для ML).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Минусы&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;❌ Меньше библиотек, чем у Python.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Где используют&lt;/strong&gt;: квантовая физика, климатическое моделирование.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;matlab--классика-инженерии&#34;&gt;MATLAB — классика инженерии&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Плюсы&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;✅ Готовые тулбоксы для математики, сигналов, робототехники.&lt;/p&gt;
+&lt;p&gt;✅ Удобная работа с матрицами.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Минусы&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;❌ Дорогая лицензия (есть бесплатные аналоги — Octave, Scilab).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Для чего&lt;/strong&gt;: расчёты в авиации, обработка изображений.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fortran--cc--для-высокопроизводительных-вычислений-hpc&#34;&gt;Fortran &amp;amp; C/C++ — для высокопроизводительных вычислений (HPC)&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Плюсы&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;✅ Максимальная скорость (используют в суперкомпьютерах).&lt;/p&gt;
+&lt;p&gt;✅ Оптимизация под задачи физики, астрономии, метеорологии.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Минусы&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;❌ Сложный синтаксис, требует глубоких знаний.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Примеры&lt;/strong&gt;: моделирование ядерных реакций, прогноз погоды.&lt;/p&gt;
+&lt;h2 id=&#34;как-выбрать&#34;&gt;Как выбрать?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Для старта&lt;/strong&gt;: Python (+ библиотеки).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Статистика&lt;/strong&gt;: R.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Скорость + наука&lt;/strong&gt;: Julia.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Инженерия&lt;/strong&gt;: MATLAB.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Экстремальная производительность&lt;/strong&gt;: Fortran/C++.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Отчёт</title>
@@ -248,7 +339,7 @@
 
 
 
-&lt;div id=&#34;chart-378294615&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-915376428&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -266,7 +357,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-378294615&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-915376428&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

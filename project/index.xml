@@ -5,12 +5,20 @@
     <link>https://example.com/project/</link>
       <atom:link href="https://example.com/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 07 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
       <title>Projects</title>
       <link>https://example.com/project/</link>
     </image>
+    
+    <item>
+      <title>Генератор безопасных паролей</title>
+      <link>https://example.com/project/generation/</link>
+      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/generation/</guid>
+      <description>&lt;p&gt;Я написала программу, которая создаёт случайные пароли заданной длины с использованием букв, цифр и спецсимволов.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Прохождение внешнего курса на Stepik (&#34;Введение в Linux&#34;)</title>

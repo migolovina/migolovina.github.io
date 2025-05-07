@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Safely | Hugo Academic CV Theme</title>
+    <link>https://example.com/tags/safely/</link>
+      <atom:link href="https://example.com/tags/safely/index.xml" rel="self" type="application/rss+xml" />
+    <description>Safely</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 07 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
+      <title>Safely</title>
+      <link>https://example.com/tags/safely/</link>
+    </image>
+    
+    <item>
+      <title>Генератор безопасных паролей</title>
+      <link>https://example.com/project/generation/</link>
+      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/generation/</guid>
+      <description>&lt;p&gt;Я написала программу, которая создаёт случайные пароли заданной длины с использованием букв, цифр и спецсимволов.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
