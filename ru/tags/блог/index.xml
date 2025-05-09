@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Блог | My Multilingual Site</title>
-    <link>https://example.com/ru/tags/%D0%B1%D0%BB%D0%BE%D0%B3/</link>
-      <atom:link href="https://example.com/ru/tags/%D0%B1%D0%BB%D0%BE%D0%B3/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/ru/tags/%D0%B1%D0%BB%D0%BE%D0%B3/</link>
+      <atom:link href="http://localhost:1313/ru/tags/%D0%B1%D0%BB%D0%BE%D0%B3/index.xml" rel="self" type="application/rss+xml" />
     <description>Блог</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru</language><lastBuildDate>Wed, 07 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_ad98b3d5ac1ecd6f.png</url>
+      <url>http://localhost:1313/media/icon_hu_ad98b3d5ac1ecd6f.png</url>
       <title>Блог</title>
-      <link>https://example.com/ru/tags/%D0%B1%D0%BB%D0%BE%D0%B3/</link>
+      <link>http://localhost:1313/ru/tags/%D0%B1%D0%BB%D0%BE%D0%B3/</link>
     </image>
     
     <item>
       <title>Пост по прошедшей недели</title>
-      <link>https://example.com/ru/post/last-week5/</link>
+      <link>http://localhost:1313/ru/post/last-week5/</link>
       <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/last-week5/</guid>
+      <guid>http://localhost:1313/ru/post/last-week5/</guid>
       <description>&lt;p&gt;Моя прошедшая неделя была полна воспоминаний из детства.&lt;/p&gt;
 &lt;h2 id=&#34;понедельник&#34;&gt;Понедельник&lt;/h2&gt;
 &lt;p&gt;В понедельник мне нужно было пройти тест на знание английского, получила результат 52 балла, это B2. Установила игру из детства, на которую смотрела обзоры 12 лет назад, это было так прекрасно играть в то, что давно мечтала.&lt;/p&gt;
@@ -37,9 +37,9 @@
     
     <item>
       <title>Пост по прошедшей недели</title>
-      <link>https://example.com/ru/post/last-week4/</link>
+      <link>http://localhost:1313/ru/post/last-week4/</link>
       <pubDate>Sat, 26 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/last-week4/</guid>
+      <guid>http://localhost:1313/ru/post/last-week4/</guid>
       <description>&lt;p&gt;Моя прошедшая неделя была очень интересной!&lt;/p&gt;
 &lt;h2 id=&#34;понедельник&#34;&gt;Понедельник&lt;/h2&gt;
 &lt;p&gt;У меня начался понедельник с диктанта по русскому языку, среди всего первого курса, а далее он прошёл, как обычно шесть пар (три пары английского с 15:00 по 19:20, линейная алгебра лекция с 13:30 по 14:50, компьютерные науки и технологии программирования(дистанционно) с 9:00 по 10:20.&lt;/p&gt;
@@ -60,9 +60,9 @@
     
     <item>
       <title>Легковесный язык разметки Markdown</title>
-      <link>https://example.com/ru/post/markdown/</link>
+      <link>http://localhost:1313/ru/post/markdown/</link>
       <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/markdown/</guid>
+      <guid>http://localhost:1313/ru/post/markdown/</guid>
       <description>&lt;p&gt;Удобство и простота&lt;/p&gt;
 &lt;h2 id=&#34;markdown&#34;&gt;Markdown&lt;/h2&gt;
 &lt;p&gt;Markdown - облегчённый язык разметки, созданный с целью обозначения форматирования в простом тексте, с максимальным сохранением его читаемость человеком, и пригодным для машинного преобразования в языки продвинутых публикаций (HTML, Rich Text и других).&lt;/p&gt;
@@ -112,9 +112,9 @@
     
     <item>
       <title>Пост по второй прошедшей недели</title>
-      <link>https://example.com/ru/post/last-week-8/</link>
+      <link>http://localhost:1313/ru/post/last-week-8/</link>
       <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/last-week-8/</guid>
+      <guid>http://localhost:1313/ru/post/last-week-8/</guid>
       <description>&lt;p&gt;Мне очень понравились события, которые произошли со мной на этой недели.&lt;/p&gt;
 &lt;h2 id=&#34;понедельник&#34;&gt;Понедельник&lt;/h2&gt;
 &lt;p&gt;Понедельник на этой неделе был чудесным. Утро у меня началось прекрасно с дистанционной пары по одному из моих любимых предметов, дискретной математики. Далее я поехала в университет, там у нас был фестиваль весны, где я выступала в двух сценках, пела песню Despacito и рассказывала стих про весну. Поехала домой в прекрасном настроении и легла спать.&lt;/p&gt;
@@ -135,9 +135,9 @@
     
     <item>
       <title>Пост по прошедшей недели</title>
-      <link>https://example.com/ru/post/last-week/</link>
+      <link>http://localhost:1313/ru/post/last-week/</link>
       <pubDate>Sun, 16 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/last-week/</guid>
+      <guid>http://localhost:1313/ru/post/last-week/</guid>
       <description>&lt;p&gt;Моя прошедшая неделя была очень насыщенной и интересной!&lt;/p&gt;
 &lt;h2 id=&#34;понедельник&#34;&gt;Понедельник&lt;/h2&gt;
 &lt;p&gt;Понедельник - день тяжёлый, у меня шесть пар (три пары английского с 15:00 по 19:20, линейная алгебра лекция с 13:30 по 14:50, компьютерные науки и технологии программирования(дистанционно) с 9:00 по 10:20, сразу же после них я выхожу из дома и спешу на линейную алгебру.&lt;/p&gt;
@@ -158,9 +158,9 @@
     
     <item>
       <title>Пост по прошедшей недели</title>
-      <link>https://example.com/ru/post/last-week6/</link>
+      <link>http://localhost:1313/ru/post/last-week6/</link>
       <pubDate>Sun, 16 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/last-week6/</guid>
+      <guid>http://localhost:1313/ru/post/last-week6/</guid>
       <description>&lt;p&gt;Моя прошедшая неделя была очень насыщенной и интересной!&lt;/p&gt;
 &lt;h2 id=&#34;понедельник&#34;&gt;Понедельник&lt;/h2&gt;
 &lt;p&gt;Понедельник - день тяжёлый, у меня шесть пар (три пары английского с 15:00 по 19:20, линейная алгебра лекция с 13:30 по 14:50, компьютерные науки и технологии программирования(дистанционно) с 9:00 по 10:20, сразу же после них я выхожу из дома и спешу на линейную алгебру. После них я пошла гулять со своей подругой.&lt;/p&gt;

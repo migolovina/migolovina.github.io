@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Возможности И Риски | My Multilingual Site</title>
-    <link>https://example.com/ru/tags/%D0%B2%D0%BE%D0%B7%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D0%B8-%D1%80%D0%B8%D1%81%D0%BA%D0%B8/</link>
-      <atom:link href="https://example.com/ru/tags/%D0%B2%D0%BE%D0%B7%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D0%B8-%D1%80%D0%B8%D1%81%D0%BA%D0%B8/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/ru/tags/%D0%B2%D0%BE%D0%B7%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D0%B8-%D1%80%D0%B8%D1%81%D0%BA%D0%B8/</link>
+      <atom:link href="http://localhost:1313/ru/tags/%D0%B2%D0%BE%D0%B7%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D0%B8-%D1%80%D0%B8%D1%81%D0%BA%D0%B8/index.xml" rel="self" type="application/rss+xml" />
     <description>Возможности И Риски</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru</language><lastBuildDate>Fri, 09 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_ad98b3d5ac1ecd6f.png</url>
+      <url>http://localhost:1313/media/icon_hu_ad98b3d5ac1ecd6f.png</url>
       <title>Возможности И Риски</title>
-      <link>https://example.com/ru/tags/%D0%B2%D0%BE%D0%B7%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D0%B8-%D1%80%D0%B8%D1%81%D0%BA%D0%B8/</link>
+      <link>http://localhost:1313/ru/tags/%D0%B2%D0%BE%D0%B7%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D0%B8-%D1%80%D0%B8%D1%81%D0%BA%D0%B8/</link>
     </image>
     
     <item>
       <title>Искусственный интеллект</title>
-      <link>https://example.com/ru/post/ii/</link>
+      <link>http://localhost:1313/ru/post/ii/</link>
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/ii/</guid>
+      <guid>http://localhost:1313/ru/post/ii/</guid>
       <description>&lt;p&gt;Искусственный интеллект в повседневной жизни: возможности и риски&lt;/p&gt;
 &lt;h2 id=&#34;введение&#34;&gt;&lt;strong&gt;Введение&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;Искусственный интеллект (ИИ) — это технология, которая позволяет машинам выполнять задачи, требующие человеческого интеллекта: распознавание речи, принятие решений, анализ данных. Сегодня ИИ окружает нас повсюду, упрощая жизнь, но и создавая новые вызовы.&lt;/p&gt;

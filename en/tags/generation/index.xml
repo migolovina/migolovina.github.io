@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Generation | My Multilingual Site</title>
+    <link>https://migolovina.github.io/en/tags/generation/</link>
+      <atom:link href="https://migolovina.github.io/en/tags/generation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Generation</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language><lastBuildDate>Wed, 07 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://migolovina.github.io/media/icon_hu_ad98b3d5ac1ecd6f.png</url>
+      <title>Generation</title>
+      <link>https://migolovina.github.io/en/tags/generation/</link>
+    </image>
+    
+    <item>
+      <title>Secure Password Generator</title>
+      <link>https://migolovina.github.io/en/project/generation/</link>
+      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://migolovina.github.io/en/project/generation/</guid>
+      <description>&lt;p&gt;I wrote a program that creates random passwords of a given length using letters, numbers and special characters.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

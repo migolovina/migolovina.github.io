@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News | My Multilingual Site</title>
-    <link>https://example.com/tags/news/</link>
-      <atom:link href="https://example.com/tags/news/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/news/</link>
+      <atom:link href="http://localhost:1313/tags/news/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language><lastBuildDate>Sat, 22 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_ad98b3d5ac1ecd6f.png</url>
+      <url>http://localhost:1313/media/icon_hu_ad98b3d5ac1ecd6f.png</url>
       <title>News</title>
-      <link>https://example.com/tags/news/</link>
+      <link>http://localhost:1313/tags/news/</link>
     </image>
     
     <item>
       <title>Markdown Lightweight Markup Language</title>
-      <link>https://example.com/post/markdown/</link>
+      <link>http://localhost:1313/post/markdown/</link>
       <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/markdown/</guid>
+      <guid>http://localhost:1313/post/markdown/</guid>
       <description>&lt;p&gt;Convenience and Simplicity&lt;/p&gt;
 &lt;h2 id=&#34;markdown&#34;&gt;Markdown&lt;/h2&gt;
 &lt;p&gt;Markdown is a lightweight markup language created to indicate formatting in plain text, with maximum preservation of its human readability, and suitable for machine transformation into advanced publishing languages ​​(HTML, Rich Text, and others).&lt;/p&gt;

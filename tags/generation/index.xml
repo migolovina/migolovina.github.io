@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Generation | My Multilingual Site</title>
-    <link>https://example.com/tags/generation/</link>
-      <atom:link href="https://example.com/tags/generation/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://migolovina.github.io/tags/generation/</link>
+      <atom:link href="https://migolovina.github.io/tags/generation/index.xml" rel="self" type="application/rss+xml" />
     <description>Generation</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language><lastBuildDate>Wed, 07 May 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru</language><lastBuildDate>Wed, 07 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_ad98b3d5ac1ecd6f.png</url>
+      <url>https://migolovina.github.io/media/icon_hu_ad98b3d5ac1ecd6f.png</url>
       <title>Generation</title>
-      <link>https://example.com/tags/generation/</link>
+      <link>https://migolovina.github.io/tags/generation/</link>
     </image>
     
     <item>
       <title>Генератор безопасных паролей</title>
-      <link>https://example.com/project/generation/</link>
+      <link>https://migolovina.github.io/project/generation/</link>
       <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/generation/</guid>
+      <guid>https://migolovina.github.io/project/generation/</guid>
       <description>&lt;p&gt;Я написала программу, которая создаёт случайные пароли заданной длины с использованием букв, цифр и спецсимволов.&lt;/p&gt;</description>
     </item>
     

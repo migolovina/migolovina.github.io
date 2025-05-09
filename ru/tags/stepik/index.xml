@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stepik | My Multilingual Site</title>
-    <link>https://example.com/ru/tags/stepik/</link>
-      <atom:link href="https://example.com/ru/tags/stepik/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/ru/tags/stepik/</link>
+      <atom:link href="http://localhost:1313/ru/tags/stepik/index.xml" rel="self" type="application/rss+xml" />
     <description>Stepik</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru</language><lastBuildDate>Mon, 24 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_ad98b3d5ac1ecd6f.png</url>
+      <url>http://localhost:1313/media/icon_hu_ad98b3d5ac1ecd6f.png</url>
       <title>Stepik</title>
-      <link>https://example.com/ru/tags/stepik/</link>
+      <link>http://localhost:1313/ru/tags/stepik/</link>
     </image>
     
     <item>
       <title>Прохождение внешнего курса на Stepik (&#34;Введение в Linux&#34;)</title>
-      <link>https://example.com/ru/project/stepik/</link>
+      <link>http://localhost:1313/ru/project/stepik/</link>
       <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/project/stepik/</guid>
+      <guid>http://localhost:1313/ru/project/stepik/</guid>
       <description>&lt;p&gt;Моё подробное прохождение курса &amp;ldquo;Введение в Linux&amp;rdquo;&lt;/p&gt;
 &lt;h2 id=&#34;цель&#34;&gt;Цель&lt;/h2&gt;
 &lt;p&gt;Познакомиться с операционной системой Linux и её базовыми возможностями. &lt;/p&gt;
@@ -75,7 +75,7 @@
                /ru/project/stepik/image/1_hu_a2be4eb268d07a1f.webp 400w,
                /ru/project/stepik/image/1_hu_ef96d976615b2bf6.webp 760w,
                /ru/project/stepik/image/1_hu_76fb1a14600a0078.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/1_hu_a2be4eb268d07a1f.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/1_hu_a2be4eb268d07a1f.webp&#34;
                width=&#34;651&#34;
                height=&#34;380&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -104,7 +104,7 @@
                /ru/project/stepik/image/2_hu_79141a2cd2a1d077.webp 400w,
                /ru/project/stepik/image/2_hu_8d5e14755892bfaf.webp 760w,
                /ru/project/stepik/image/2_hu_310f0c1992c78934.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/2_hu_79141a2cd2a1d077.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/2_hu_79141a2cd2a1d077.webp&#34;
                width=&#34;760&#34;
                height=&#34;358&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -134,7 +134,7 @@
                /ru/project/stepik/image/3_hu_6778a28bdc7a0879.webp 400w,
                /ru/project/stepik/image/3_hu_1a05f344069ae0c8.webp 760w,
                /ru/project/stepik/image/3_hu_df41156a66b6bcf1.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/3_hu_6778a28bdc7a0879.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/3_hu_6778a28bdc7a0879.webp&#34;
                width=&#34;760&#34;
                height=&#34;328&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -163,7 +163,7 @@
                /ru/project/stepik/image/4_hu_633622397cf6df68.webp 400w,
                /ru/project/stepik/image/4_hu_2ad6d696eaf37a4e.webp 760w,
                /ru/project/stepik/image/4_hu_70fdd7055e6d80fd.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/4_hu_633622397cf6df68.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/4_hu_633622397cf6df68.webp&#34;
                width=&#34;760&#34;
                height=&#34;340&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -192,7 +192,7 @@
                /ru/project/stepik/image/5_hu_a48075a7472cc1e5.webp 400w,
                /ru/project/stepik/image/5_hu_989f4f2055bb1e.webp 760w,
                /ru/project/stepik/image/5_hu_f3f78448110d354a.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/5_hu_a48075a7472cc1e5.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/5_hu_a48075a7472cc1e5.webp&#34;
                width=&#34;760&#34;
                height=&#34;299&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -222,7 +222,7 @@
                /ru/project/stepik/image/6_hu_279ef4d20bed9c29.webp 400w,
                /ru/project/stepik/image/6_hu_fc9b398f5537bfd.webp 760w,
                /ru/project/stepik/image/6_hu_c4019a06b128928b.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/6_hu_279ef4d20bed9c29.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/6_hu_279ef4d20bed9c29.webp&#34;
                width=&#34;760&#34;
                height=&#34;485&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -251,7 +251,7 @@
                /ru/project/stepik/image/7_hu_25234c685a97bb64.webp 400w,
                /ru/project/stepik/image/7_hu_3eee3ed0dab711f2.webp 760w,
                /ru/project/stepik/image/7_hu_744d12a817f4597f.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/7_hu_25234c685a97bb64.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/7_hu_25234c685a97bb64.webp&#34;
                width=&#34;760&#34;
                height=&#34;381&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -280,7 +280,7 @@
                /ru/project/stepik/image/8_hu_38817533829863d7.webp 400w,
                /ru/project/stepik/image/8_hu_cc2e769054e05a4b.webp 760w,
                /ru/project/stepik/image/8_hu_ee514a5ab424c65f.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/8_hu_38817533829863d7.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/8_hu_38817533829863d7.webp&#34;
                width=&#34;760&#34;
                height=&#34;346&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -309,7 +309,7 @@
                /ru/project/stepik/image/9_hu_535d970f99fdd6bb.webp 400w,
                /ru/project/stepik/image/9_hu_c458724a1f59675e.webp 760w,
                /ru/project/stepik/image/9_hu_b034c7ff7ffe32a2.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/9_hu_535d970f99fdd6bb.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/9_hu_535d970f99fdd6bb.webp&#34;
                width=&#34;760&#34;
                height=&#34;387&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -339,7 +339,7 @@
                /ru/project/stepik/image/10_hu_b122a157ada2f55c.webp 400w,
                /ru/project/stepik/image/10_hu_edc5d3fdcbc88e5.webp 760w,
                /ru/project/stepik/image/10_hu_b7e8ea89109c2b2.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/10_hu_b122a157ada2f55c.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/10_hu_b122a157ada2f55c.webp&#34;
                width=&#34;760&#34;
                height=&#34;350&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -368,7 +368,7 @@
                /ru/project/stepik/image/11_hu_f1ea65e55b13169.webp 400w,
                /ru/project/stepik/image/11_hu_e5e558ac92eeea09.webp 760w,
                /ru/project/stepik/image/11_hu_53d03e9ee95df353.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/11_hu_f1ea65e55b13169.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/11_hu_f1ea65e55b13169.webp&#34;
                width=&#34;760&#34;
                height=&#34;353&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -397,7 +397,7 @@
                /ru/project/stepik/image/12_hu_7b0d32359791fe45.webp 400w,
                /ru/project/stepik/image/12_hu_54d9668f4cbbf9c7.webp 760w,
                /ru/project/stepik/image/12_hu_59752f28fbc8810e.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/12_hu_7b0d32359791fe45.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/12_hu_7b0d32359791fe45.webp&#34;
                width=&#34;760&#34;
                height=&#34;518&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -426,7 +426,7 @@
                /ru/project/stepik/image/13_hu_59150dea4556972f.webp 400w,
                /ru/project/stepik/image/13_hu_8ec527aa6b2c5485.webp 760w,
                /ru/project/stepik/image/13_hu_9de81bec140d3b2b.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/13_hu_59150dea4556972f.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/13_hu_59150dea4556972f.webp&#34;
                width=&#34;760&#34;
                height=&#34;447&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -455,7 +455,7 @@
                /ru/project/stepik/image/14_hu_1b273a22cdea6d22.webp 400w,
                /ru/project/stepik/image/14_hu_9106d3e52a73db55.webp 760w,
                /ru/project/stepik/image/14_hu_d72faff63cd2caf9.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/14_hu_1b273a22cdea6d22.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/14_hu_1b273a22cdea6d22.webp&#34;
                width=&#34;760&#34;
                height=&#34;349&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -485,7 +485,7 @@
                /ru/project/stepik/image/15_hu_3634985a63e59315.webp 400w,
                /ru/project/stepik/image/15_hu_4c6d96a5bbc451fe.webp 760w,
                /ru/project/stepik/image/15_hu_ec20a6e5826720fb.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/15_hu_3634985a63e59315.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/15_hu_3634985a63e59315.webp&#34;
                width=&#34;760&#34;
                height=&#34;398&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -514,7 +514,7 @@
                /ru/project/stepik/image/16_hu_8e9594a949f0ae45.webp 400w,
                /ru/project/stepik/image/16_hu_107ff4d2036a5f46.webp 760w,
                /ru/project/stepik/image/16_hu_4520dfac545642a9.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/16_hu_8e9594a949f0ae45.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/16_hu_8e9594a949f0ae45.webp&#34;
                width=&#34;760&#34;
                height=&#34;319&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -543,7 +543,7 @@
                /ru/project/stepik/image/17_hu_4c662d0d272e0e03.webp 400w,
                /ru/project/stepik/image/17_hu_8a976ed301bf3575.webp 760w,
                /ru/project/stepik/image/17_hu_71bef7132d63c7e9.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/17_hu_4c662d0d272e0e03.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/17_hu_4c662d0d272e0e03.webp&#34;
                width=&#34;760&#34;
                height=&#34;333&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -573,7 +573,7 @@
                /ru/project/stepik/image/18_hu_9c090db685086a49.webp 400w,
                /ru/project/stepik/image/18_hu_dd9037ae7441a73d.webp 760w,
                /ru/project/stepik/image/18_hu_8a6382684de41b0e.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/18_hu_9c090db685086a49.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/18_hu_9c090db685086a49.webp&#34;
                width=&#34;760&#34;
                height=&#34;323&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -602,7 +602,7 @@
                /ru/project/stepik/image/19_hu_4737150e79bb9822.webp 400w,
                /ru/project/stepik/image/19_hu_e146dc413cd733ee.webp 760w,
                /ru/project/stepik/image/19_hu_47ecfde9a9de5491.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/19_hu_4737150e79bb9822.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/19_hu_4737150e79bb9822.webp&#34;
                width=&#34;760&#34;
                height=&#34;388&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -631,7 +631,7 @@
                /ru/project/stepik/image/20_hu_15a458c4f9172818.webp 400w,
                /ru/project/stepik/image/20_hu_6391df94b084bfe1.webp 760w,
                /ru/project/stepik/image/20_hu_d750869fe6513ad1.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/20_hu_15a458c4f9172818.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/20_hu_15a458c4f9172818.webp&#34;
                width=&#34;760&#34;
                height=&#34;388&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -661,7 +661,7 @@
                /ru/project/stepik/image/21_hu_80cce54207b308d.webp 400w,
                /ru/project/stepik/image/21_hu_ea0ec2aa4373e222.webp 760w,
                /ru/project/stepik/image/21_hu_a41746c502f5e028.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/21_hu_80cce54207b308d.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/21_hu_80cce54207b308d.webp&#34;
                width=&#34;760&#34;
                height=&#34;367&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -690,7 +690,7 @@
                /ru/project/stepik/image/21_hu_80cce54207b308d.webp 400w,
                /ru/project/stepik/image/21_hu_ea0ec2aa4373e222.webp 760w,
                /ru/project/stepik/image/21_hu_a41746c502f5e028.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/21_hu_80cce54207b308d.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/21_hu_80cce54207b308d.webp&#34;
                width=&#34;760&#34;
                height=&#34;367&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -719,7 +719,7 @@
                /ru/project/stepik/image/23_hu_c8a80839588ef7e0.webp 400w,
                /ru/project/stepik/image/23_hu_179cf7bc5081fa53.webp 760w,
                /ru/project/stepik/image/23_hu_cbe1174b285f9fc7.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/23_hu_c8a80839588ef7e0.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/23_hu_c8a80839588ef7e0.webp&#34;
                width=&#34;760&#34;
                height=&#34;431&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -749,7 +749,7 @@
                /ru/project/stepik/image/24_hu_36cda087b5e487f.webp 400w,
                /ru/project/stepik/image/24_hu_816def6a32d9dc56.webp 760w,
                /ru/project/stepik/image/24_hu_9bc05211f5911911.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/24_hu_36cda087b5e487f.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/24_hu_36cda087b5e487f.webp&#34;
                width=&#34;760&#34;
                height=&#34;380&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -778,7 +778,7 @@
                /ru/project/stepik/image/25_hu_1566eb306784a0b1.webp 400w,
                /ru/project/stepik/image/25_hu_2f3b98d650cd663e.webp 760w,
                /ru/project/stepik/image/25_hu_6976d65817a1a901.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/25_hu_1566eb306784a0b1.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/25_hu_1566eb306784a0b1.webp&#34;
                width=&#34;760&#34;
                height=&#34;345&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -807,7 +807,7 @@
                /ru/project/stepik/image/26_hu_86d3a35543a0c885.webp 400w,
                /ru/project/stepik/image/26_hu_69377aaf64fd15b5.webp 760w,
                /ru/project/stepik/image/26_hu_b9877b1e67d4a39a.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/26_hu_86d3a35543a0c885.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/26_hu_86d3a35543a0c885.webp&#34;
                width=&#34;760&#34;
                height=&#34;362&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -837,7 +837,7 @@
                /ru/project/stepik/image/27_hu_840f2dc2abf7634c.webp 400w,
                /ru/project/stepik/image/27_hu_986f47fd4ddaad86.webp 760w,
                /ru/project/stepik/image/27_hu_5bc5103e195551c7.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/27_hu_840f2dc2abf7634c.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/27_hu_840f2dc2abf7634c.webp&#34;
                width=&#34;760&#34;
                height=&#34;406&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -866,7 +866,7 @@
                /ru/project/stepik/image/28_hu_e7dd9623d4e4a1eb.webp 400w,
                /ru/project/stepik/image/28_hu_88760f71218b9244.webp 760w,
                /ru/project/stepik/image/28_hu_dd701890107badfc.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/28_hu_e7dd9623d4e4a1eb.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/28_hu_e7dd9623d4e4a1eb.webp&#34;
                width=&#34;760&#34;
                height=&#34;447&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -895,7 +895,7 @@
                /ru/project/stepik/image/29_hu_bc1a05cb2e36c12e.webp 400w,
                /ru/project/stepik/image/29_hu_4eca8e5b4755325a.webp 760w,
                /ru/project/stepik/image/29_hu_809b497423ccf799.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/29_hu_bc1a05cb2e36c12e.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/29_hu_bc1a05cb2e36c12e.webp&#34;
                width=&#34;760&#34;
                height=&#34;340&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -928,7 +928,7 @@
                /ru/project/stepik/image/30_hu_1f6bcacbf88e418e.webp 400w,
                /ru/project/stepik/image/30_hu_a519b1de0faa2c31.webp 760w,
                /ru/project/stepik/image/30_hu_49cb5bb3e7916106.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/30_hu_1f6bcacbf88e418e.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/30_hu_1f6bcacbf88e418e.webp&#34;
                width=&#34;760&#34;
                height=&#34;320&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -957,7 +957,7 @@
                /ru/project/stepik/image/31_hu_1bfc5197ad97b588.webp 400w,
                /ru/project/stepik/image/31_hu_d8fb81dac6da9f85.webp 760w,
                /ru/project/stepik/image/31_hu_6df761e8618df85f.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/31_hu_1bfc5197ad97b588.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/31_hu_1bfc5197ad97b588.webp&#34;
                width=&#34;760&#34;
                height=&#34;336&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -987,7 +987,7 @@
                /ru/project/stepik/image/32_hu_533a92c8f5a0f5aa.webp 400w,
                /ru/project/stepik/image/32_hu_e183fdb8ccf2f3b7.webp 760w,
                /ru/project/stepik/image/32_hu_39d24152cc347b3.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/32_hu_533a92c8f5a0f5aa.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/32_hu_533a92c8f5a0f5aa.webp&#34;
                width=&#34;760&#34;
                height=&#34;315&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1016,7 +1016,7 @@
                /ru/project/stepik/image/33_hu_953164f24aa2c8a8.webp 400w,
                /ru/project/stepik/image/33_hu_73de7581734592c1.webp 760w,
                /ru/project/stepik/image/33_hu_92b3e15705638ee5.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/33_hu_953164f24aa2c8a8.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/33_hu_953164f24aa2c8a8.webp&#34;
                width=&#34;760&#34;
                height=&#34;341&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1045,7 +1045,7 @@
                /ru/project/stepik/image/34_hu_518a82de0b290515.webp 400w,
                /ru/project/stepik/image/34_hu_cd167b6c29017c00.webp 760w,
                /ru/project/stepik/image/34_hu_bf7dc1dc3e29f4ec.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/34_hu_518a82de0b290515.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/34_hu_518a82de0b290515.webp&#34;
                width=&#34;760&#34;
                height=&#34;327&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1075,7 +1075,7 @@
                /ru/project/stepik/image/35_hu_83bc28a0ae56e513.webp 400w,
                /ru/project/stepik/image/35_hu_f8543d4f4b033b30.webp 760w,
                /ru/project/stepik/image/35_hu_b3aea63670bb3c05.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/35_hu_83bc28a0ae56e513.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/35_hu_83bc28a0ae56e513.webp&#34;
                width=&#34;760&#34;
                height=&#34;318&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1104,7 +1104,7 @@
                /ru/project/stepik/image/36_hu_5be5086feaf07efd.webp 400w,
                /ru/project/stepik/image/36_hu_30f780a3db7afefe.webp 760w,
                /ru/project/stepik/image/36_hu_b822478b766278a9.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/36_hu_5be5086feaf07efd.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/36_hu_5be5086feaf07efd.webp&#34;
                width=&#34;760&#34;
                height=&#34;369&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1133,7 +1133,7 @@
                /ru/project/stepik/image/37_hu_f50697acdbcf4dca.webp 400w,
                /ru/project/stepik/image/37_hu_1e44e4900b9b48e2.webp 760w,
                /ru/project/stepik/image/37_hu_8af7c48b11184492.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/37_hu_f50697acdbcf4dca.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/37_hu_f50697acdbcf4dca.webp&#34;
                width=&#34;755&#34;
                height=&#34;535&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1162,7 +1162,7 @@
                /ru/project/stepik/image/38_hu_692a879059a5bf2c.webp 400w,
                /ru/project/stepik/image/38_hu_95000e4432ddbced.webp 760w,
                /ru/project/stepik/image/38_hu_de42986a4d70a859.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/38_hu_692a879059a5bf2c.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/38_hu_692a879059a5bf2c.webp&#34;
                width=&#34;760&#34;
                height=&#34;489&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1192,7 +1192,7 @@
                /ru/project/stepik/image/39_hu_4f41e08247d97dc3.webp 400w,
                /ru/project/stepik/image/39_hu_c2ff852221a332f0.webp 760w,
                /ru/project/stepik/image/39_hu_87fe9b3c763678f0.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/39_hu_4f41e08247d97dc3.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/39_hu_4f41e08247d97dc3.webp&#34;
                width=&#34;760&#34;
                height=&#34;438&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1221,7 +1221,7 @@
                /ru/project/stepik/image/40_hu_2a5ac60bf2a52ef2.webp 400w,
                /ru/project/stepik/image/40_hu_b3519c6c4ec1d953.webp 760w,
                /ru/project/stepik/image/40_hu_ad2cb7e61b979faa.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/40_hu_2a5ac60bf2a52ef2.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/40_hu_2a5ac60bf2a52ef2.webp&#34;
                width=&#34;760&#34;
                height=&#34;374&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1250,7 +1250,7 @@
                /ru/project/stepik/image/41_hu_f2774665d88a8018.webp 400w,
                /ru/project/stepik/image/41_hu_539e08aedf90e784.webp 760w,
                /ru/project/stepik/image/41_hu_f456fbddc39bdbb4.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/41_hu_f2774665d88a8018.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/41_hu_f2774665d88a8018.webp&#34;
                width=&#34;760&#34;
                height=&#34;322&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1279,7 +1279,7 @@
                /ru/project/stepik/image/42_hu_75c857f9ca40a36b.webp 400w,
                /ru/project/stepik/image/42_hu_891d23881055bdc4.webp 760w,
                /ru/project/stepik/image/42_hu_4eb61543684ee5b9.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/42_hu_75c857f9ca40a36b.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/42_hu_75c857f9ca40a36b.webp&#34;
                width=&#34;760&#34;
                height=&#34;343&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1309,7 +1309,7 @@
                /ru/project/stepik/image/43_hu_4f2ec11153ed9cb.webp 400w,
                /ru/project/stepik/image/43_hu_93b1b797fc53c323.webp 760w,
                /ru/project/stepik/image/43_hu_eb359f5bbac1e5f4.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/43_hu_4f2ec11153ed9cb.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/43_hu_4f2ec11153ed9cb.webp&#34;
                width=&#34;760&#34;
                height=&#34;506&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1338,7 +1338,7 @@
                /ru/project/stepik/image/44_hu_c6f93ffe29c45647.webp 400w,
                /ru/project/stepik/image/44_hu_6c4ab65a21c09d3c.webp 760w,
                /ru/project/stepik/image/44_hu_de9a3c85702480e1.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/44_hu_c6f93ffe29c45647.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/44_hu_c6f93ffe29c45647.webp&#34;
                width=&#34;760&#34;
                height=&#34;460&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1367,7 +1367,7 @@
                /ru/project/stepik/image/45_hu_64c69d8782b04f97.webp 400w,
                /ru/project/stepik/image/45_hu_c520fede7a915079.webp 760w,
                /ru/project/stepik/image/45_hu_9b0a18f0c537fe8c.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/45_hu_64c69d8782b04f97.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/45_hu_64c69d8782b04f97.webp&#34;
                width=&#34;760&#34;
                height=&#34;444&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1396,7 +1396,7 @@
                /ru/project/stepik/image/46_hu_bee0cd1f88ae1860.webp 400w,
                /ru/project/stepik/image/46_hu_95b33a2dcc95bce6.webp 760w,
                /ru/project/stepik/image/46_hu_f277da1939675383.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/46_hu_bee0cd1f88ae1860.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/46_hu_bee0cd1f88ae1860.webp&#34;
                width=&#34;760&#34;
                height=&#34;403&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1425,7 +1425,7 @@
                /ru/project/stepik/image/47_hu_520771d93b1a8e9e.webp 400w,
                /ru/project/stepik/image/47_hu_81d790df423d094b.webp 760w,
                /ru/project/stepik/image/47_hu_39b94bb055a00f00.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/47_hu_520771d93b1a8e9e.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/47_hu_520771d93b1a8e9e.webp&#34;
                width=&#34;760&#34;
                height=&#34;550&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1455,7 +1455,7 @@
                /ru/project/stepik/image/48_hu_340d1b7a94df5ae0.webp 400w,
                /ru/project/stepik/image/48_hu_52e6a14ca3e422ff.webp 760w,
                /ru/project/stepik/image/48_hu_d8bd53a0fb1aa217.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/48_hu_340d1b7a94df5ae0.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/48_hu_340d1b7a94df5ae0.webp&#34;
                width=&#34;760&#34;
                height=&#34;365&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1484,7 +1484,7 @@
                /ru/project/stepik/image/49_hu_fb1d4e68a488afc8.webp 400w,
                /ru/project/stepik/image/49_hu_61e93cece981f481.webp 760w,
                /ru/project/stepik/image/49_hu_d987ce126c06a517.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/49_hu_fb1d4e68a488afc8.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/49_hu_fb1d4e68a488afc8.webp&#34;
                width=&#34;760&#34;
                height=&#34;347&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1513,7 +1513,7 @@
                /ru/project/stepik/image/50_hu_cd0af7b3bcc65b14.webp 400w,
                /ru/project/stepik/image/50_hu_63cf11afc95f5ccf.webp 760w,
                /ru/project/stepik/image/50_hu_30c231865bb169a1.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/50_hu_cd0af7b3bcc65b14.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/50_hu_cd0af7b3bcc65b14.webp&#34;
                width=&#34;760&#34;
                height=&#34;382&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1542,7 +1542,7 @@
                /ru/project/stepik/image/51_hu_d6c42db5343fa526.webp 400w,
                /ru/project/stepik/image/51_hu_6df133ee831a2163.webp 760w,
                /ru/project/stepik/image/51_hu_53e19970d044490a.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/51_hu_d6c42db5343fa526.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/51_hu_d6c42db5343fa526.webp&#34;
                width=&#34;755&#34;
                height=&#34;357&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1571,7 +1571,7 @@
                /ru/project/stepik/image/52_hu_ed7ee2875e7418a0.webp 400w,
                /ru/project/stepik/image/52_hu_d9fa1472b09cba0e.webp 760w,
                /ru/project/stepik/image/52_hu_23eb47b73d803c54.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/52_hu_ed7ee2875e7418a0.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/52_hu_ed7ee2875e7418a0.webp&#34;
                width=&#34;751&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1600,7 +1600,7 @@
                /ru/project/stepik/image/53_hu_190622b1540e24ca.webp 400w,
                /ru/project/stepik/image/53_hu_19463d7b9632eb78.webp 760w,
                /ru/project/stepik/image/53_hu_a352f54faa9b1673.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/53_hu_190622b1540e24ca.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/53_hu_190622b1540e24ca.webp&#34;
                width=&#34;591&#34;
                height=&#34;475&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1633,7 +1633,7 @@
                /ru/project/stepik/image/54_hu_1bfcad9666f691ca.webp 400w,
                /ru/project/stepik/image/54_hu_80ec6dc8467d8494.webp 760w,
                /ru/project/stepik/image/54_hu_90b0619bf6c3be40.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/54_hu_1bfcad9666f691ca.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/54_hu_1bfcad9666f691ca.webp&#34;
                width=&#34;760&#34;
                height=&#34;396&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1662,7 +1662,7 @@
                /ru/project/stepik/image/55_hu_8cbf1648ceb4d2d6.webp 400w,
                /ru/project/stepik/image/55_hu_358c14d2e9b978a7.webp 760w,
                /ru/project/stepik/image/55_hu_f68cb4789e66ef1f.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/55_hu_8cbf1648ceb4d2d6.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/55_hu_8cbf1648ceb4d2d6.webp&#34;
                width=&#34;633&#34;
                height=&#34;499&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1691,7 +1691,7 @@
                /ru/project/stepik/image/56_hu_ef42c7187e052d3f.webp 400w,
                /ru/project/stepik/image/56_hu_c61b58f3ce46c18b.webp 760w,
                /ru/project/stepik/image/56_hu_2c53bdab429a0309.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/56_hu_ef42c7187e052d3f.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/56_hu_ef42c7187e052d3f.webp&#34;
                width=&#34;760&#34;
                height=&#34;550&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1720,7 +1720,7 @@
                /ru/project/stepik/image/57_hu_c9f7e4d9ec310a9.webp 400w,
                /ru/project/stepik/image/57_hu_7f56108ca98575db.webp 760w,
                /ru/project/stepik/image/57_hu_f5d1a5c09181b85e.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/57_hu_c9f7e4d9ec310a9.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/57_hu_c9f7e4d9ec310a9.webp&#34;
                width=&#34;728&#34;
                height=&#34;429&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1749,7 +1749,7 @@
                /ru/project/stepik/image/58_hu_fc51b96193df5e23.webp 400w,
                /ru/project/stepik/image/58_hu_99106f53c7184571.webp 760w,
                /ru/project/stepik/image/58_hu_105f06af855869ef.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/58_hu_fc51b96193df5e23.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/58_hu_fc51b96193df5e23.webp&#34;
                width=&#34;760&#34;
                height=&#34;515&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1779,7 +1779,7 @@
                /ru/project/stepik/image/59_hu_f4c379158139e427.webp 400w,
                /ru/project/stepik/image/59_hu_669a07b9bc6216ad.webp 760w,
                /ru/project/stepik/image/59_hu_ae2d2a84a39dc944.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/59_hu_f4c379158139e427.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/59_hu_f4c379158139e427.webp&#34;
                width=&#34;760&#34;
                height=&#34;449&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1808,7 +1808,7 @@
                /ru/project/stepik/image/60_hu_4e3eb028e95ac420.webp 400w,
                /ru/project/stepik/image/60_hu_801168ce905f2f89.webp 760w,
                /ru/project/stepik/image/60_hu_4b169b08af93054a.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/60_hu_4e3eb028e95ac420.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/60_hu_4e3eb028e95ac420.webp&#34;
                width=&#34;760&#34;
                height=&#34;490&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1837,7 +1837,7 @@
                /ru/project/stepik/image/61_hu_fb597d297c62294.webp 400w,
                /ru/project/stepik/image/61_hu_878de1107a19b033.webp 760w,
                /ru/project/stepik/image/61_hu_a2339536129ff16f.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/61_hu_fb597d297c62294.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/61_hu_fb597d297c62294.webp&#34;
                width=&#34;760&#34;
                height=&#34;499&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1866,7 +1866,7 @@
                /ru/project/stepik/image/62_hu_32fbda0803b694a7.webp 400w,
                /ru/project/stepik/image/62_hu_ac54be38ebc02a84.webp 760w,
                /ru/project/stepik/image/62_hu_3ee151969308f4b3.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/62_hu_32fbda0803b694a7.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/62_hu_32fbda0803b694a7.webp&#34;
                width=&#34;602&#34;
                height=&#34;462&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1896,7 +1896,7 @@
                /ru/project/stepik/image/63_hu_da3f4682f3a1f8a4.webp 400w,
                /ru/project/stepik/image/63_hu_b4bb386336e515e5.webp 760w,
                /ru/project/stepik/image/63_hu_673a01608a870654.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/63_hu_da3f4682f3a1f8a4.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/63_hu_da3f4682f3a1f8a4.webp&#34;
                width=&#34;592&#34;
                height=&#34;569&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1925,7 +1925,7 @@
                /ru/project/stepik/image/64_hu_ffef6e7fad9c7787.webp 400w,
                /ru/project/stepik/image/64_hu_37058f021c70e79e.webp 760w,
                /ru/project/stepik/image/64_hu_1a5bc70c96137571.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/64_hu_ffef6e7fad9c7787.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/64_hu_ffef6e7fad9c7787.webp&#34;
                width=&#34;609&#34;
                height=&#34;485&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1954,7 +1954,7 @@
                /ru/project/stepik/image/65_hu_a70468abcff535f0.webp 400w,
                /ru/project/stepik/image/65_hu_66725de6bbf037dc.webp 760w,
                /ru/project/stepik/image/65_hu_7aa7574d173f9990.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/65_hu_a70468abcff535f0.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/65_hu_a70468abcff535f0.webp&#34;
                width=&#34;602&#34;
                height=&#34;577&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1983,7 +1983,7 @@
                /ru/project/stepik/image/66_hu_c72ddb605975c0c2.webp 400w,
                /ru/project/stepik/image/66_hu_99bfb9f7b5ed5b86.webp 760w,
                /ru/project/stepik/image/66_hu_9e299581557e551a.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/66_hu_c72ddb605975c0c2.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/66_hu_c72ddb605975c0c2.webp&#34;
                width=&#34;575&#34;
                height=&#34;429&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2012,7 +2012,7 @@
                /ru/project/stepik/image/67_hu_c7cb6f6f8dbf2743.webp 400w,
                /ru/project/stepik/image/67_hu_9cbbd09478a5e272.webp 760w,
                /ru/project/stepik/image/67_hu_8f9985403ad0afed.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/67_hu_c7cb6f6f8dbf2743.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/67_hu_c7cb6f6f8dbf2743.webp&#34;
                width=&#34;729&#34;
                height=&#34;537&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2042,7 +2042,7 @@
                /ru/project/stepik/image/68_hu_503bf626fea15ac7.webp 400w,
                /ru/project/stepik/image/68_hu_533837108eae415c.webp 760w,
                /ru/project/stepik/image/68_hu_1b10fe21fa219579.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/68_hu_503bf626fea15ac7.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/68_hu_503bf626fea15ac7.webp&#34;
                width=&#34;760&#34;
                height=&#34;532&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2071,7 +2071,7 @@
                /ru/project/stepik/image/69_hu_387db27618f9098e.webp 400w,
                /ru/project/stepik/image/69_hu_ea90609c71e1f1a3.webp 760w,
                /ru/project/stepik/image/69_hu_193a4f0a1bcf4d1c.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/69_hu_387db27618f9098e.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/69_hu_387db27618f9098e.webp&#34;
                width=&#34;760&#34;
                height=&#34;521&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2100,7 +2100,7 @@
                /ru/project/stepik/image/70_hu_5722a53fa33fc832.webp 400w,
                /ru/project/stepik/image/70_hu_d53168b220f41726.webp 760w,
                /ru/project/stepik/image/70_hu_3d331e4f8fbdaa7f.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/70_hu_5722a53fa33fc832.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/70_hu_5722a53fa33fc832.webp&#34;
                width=&#34;760&#34;
                height=&#34;530&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2129,7 +2129,7 @@
                /ru/project/stepik/image/71_hu_a9a660dfd0794772.webp 400w,
                /ru/project/stepik/image/71_hu_395f9ba5480017ac.webp 760w,
                /ru/project/stepik/image/71_hu_d78a9e4c38b532a0.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/71_hu_a9a660dfd0794772.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/71_hu_a9a660dfd0794772.webp&#34;
                width=&#34;610&#34;
                height=&#34;521&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2158,7 +2158,7 @@
                /ru/project/stepik/image/72_hu_a9a0ac0edf979b03.webp 400w,
                /ru/project/stepik/image/72_hu_4c16f64aa3e43cdd.webp 760w,
                /ru/project/stepik/image/72_hu_7dbe1007e866d93.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/72_hu_a9a0ac0edf979b03.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/72_hu_a9a0ac0edf979b03.webp&#34;
                width=&#34;741&#34;
                height=&#34;561&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2187,7 +2187,7 @@
                /ru/project/stepik/image/73_hu_c79c27362309de5f.webp 400w,
                /ru/project/stepik/image/73_hu_19e83fb0a50dbe57.webp 760w,
                /ru/project/stepik/image/73_hu_2dc5d26c2c05034b.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/73_hu_c79c27362309de5f.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/73_hu_c79c27362309de5f.webp&#34;
                width=&#34;760&#34;
                height=&#34;515&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2217,7 +2217,7 @@
                /ru/project/stepik/image/74_hu_42cf1d1c9eceec25.webp 400w,
                /ru/project/stepik/image/74_hu_59cfc27b5663938.webp 760w,
                /ru/project/stepik/image/74_hu_ef3b259a00d4eea7.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/74_hu_42cf1d1c9eceec25.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/74_hu_42cf1d1c9eceec25.webp&#34;
                width=&#34;760&#34;
                height=&#34;472&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2246,7 +2246,7 @@
                /ru/project/stepik/image/75_hu_2eeb6b3ef45d7838.webp 400w,
                /ru/project/stepik/image/75_hu_71af55630067d78c.webp 760w,
                /ru/project/stepik/image/75_hu_fdbd1dcbc14597a5.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/75_hu_2eeb6b3ef45d7838.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/75_hu_2eeb6b3ef45d7838.webp&#34;
                width=&#34;760&#34;
                height=&#34;475&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2275,7 +2275,7 @@
                /ru/project/stepik/image/76_hu_a38a26abc6cfd2d5.webp 400w,
                /ru/project/stepik/image/76_hu_83a0db18a31ed268.webp 760w,
                /ru/project/stepik/image/76_hu_2c35be335afa3b08.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/76_hu_a38a26abc6cfd2d5.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/76_hu_a38a26abc6cfd2d5.webp&#34;
                width=&#34;760&#34;
                height=&#34;435&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2304,7 +2304,7 @@
                /ru/project/stepik/image/77_hu_31906511be5eccfc.webp 400w,
                /ru/project/stepik/image/77_hu_22d1a2ba42a57406.webp 760w,
                /ru/project/stepik/image/77_hu_454c7d221ae6ede8.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/77_hu_31906511be5eccfc.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/77_hu_31906511be5eccfc.webp&#34;
                width=&#34;760&#34;
                height=&#34;435&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2333,7 +2333,7 @@
                /ru/project/stepik/image/78_hu_9e86084ccd71aa3a.webp 400w,
                /ru/project/stepik/image/78_hu_7bee89e43ac0458c.webp 760w,
                /ru/project/stepik/image/78_hu_52f16486ce3afa4b.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/78_hu_9e86084ccd71aa3a.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/78_hu_9e86084ccd71aa3a.webp&#34;
                width=&#34;760&#34;
                height=&#34;387&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2362,7 +2362,7 @@
                /ru/project/stepik/image/79_hu_66e8ad2369caf9c6.webp 400w,
                /ru/project/stepik/image/79_hu_1b43934cdad521f9.webp 760w,
                /ru/project/stepik/image/79_hu_c6bf97ec4e9a0f1c.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/79_hu_66e8ad2369caf9c6.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/79_hu_66e8ad2369caf9c6.webp&#34;
                width=&#34;760&#34;
                height=&#34;384&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2391,7 +2391,7 @@
                /ru/project/stepik/image/80_hu_c70cf1e343000295.webp 400w,
                /ru/project/stepik/image/80_hu_d187604e9ea3d816.webp 760w,
                /ru/project/stepik/image/80_hu_3938ecf3dca2ae73.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/80_hu_c70cf1e343000295.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/80_hu_c70cf1e343000295.webp&#34;
                width=&#34;760&#34;
                height=&#34;275&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2421,7 +2421,7 @@
                /ru/project/stepik/image/81_hu_4d0a75b178aad120.webp 400w,
                /ru/project/stepik/image/81_hu_9436c5e4ebf30f4e.webp 760w,
                /ru/project/stepik/image/81_hu_2bc445e4668f73d.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/81_hu_4d0a75b178aad120.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/81_hu_4d0a75b178aad120.webp&#34;
                width=&#34;760&#34;
                height=&#34;434&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2450,7 +2450,7 @@
                /ru/project/stepik/image/82_hu_2e916f7ccf756368.webp 400w,
                /ru/project/stepik/image/82_hu_ca5953a806bc09fe.webp 760w,
                /ru/project/stepik/image/82_hu_7e07a1475067bca5.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/82_hu_2e916f7ccf756368.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/82_hu_2e916f7ccf756368.webp&#34;
                width=&#34;760&#34;
                height=&#34;377&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2479,7 +2479,7 @@
                /ru/project/stepik/image/83_hu_b34a1ddc1da6e89e.webp 400w,
                /ru/project/stepik/image/83_hu_eecd5187247c1ac.webp 760w,
                /ru/project/stepik/image/83_hu_b446a1876dd0e18f.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/83_hu_b34a1ddc1da6e89e.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/83_hu_b34a1ddc1da6e89e.webp&#34;
                width=&#34;760&#34;
                height=&#34;261&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2508,7 +2508,7 @@
                /ru/project/stepik/image/84_hu_e3eb1ede9ae42239.webp 400w,
                /ru/project/stepik/image/84_hu_36daf386f3aa253b.webp 760w,
                /ru/project/stepik/image/84_hu_81f844f3363b70a1.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/84_hu_e3eb1ede9ae42239.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/84_hu_e3eb1ede9ae42239.webp&#34;
                width=&#34;760&#34;
                height=&#34;346&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2538,7 +2538,7 @@
                /ru/project/stepik/image/84_hu_e3eb1ede9ae42239.webp 400w,
                /ru/project/stepik/image/84_hu_36daf386f3aa253b.webp 760w,
                /ru/project/stepik/image/84_hu_81f844f3363b70a1.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/84_hu_e3eb1ede9ae42239.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/84_hu_e3eb1ede9ae42239.webp&#34;
                width=&#34;760&#34;
                height=&#34;346&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2567,7 +2567,7 @@
                /ru/project/stepik/image/84_hu_e3eb1ede9ae42239.webp 400w,
                /ru/project/stepik/image/84_hu_36daf386f3aa253b.webp 760w,
                /ru/project/stepik/image/84_hu_81f844f3363b70a1.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/84_hu_e3eb1ede9ae42239.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/84_hu_e3eb1ede9ae42239.webp&#34;
                width=&#34;760&#34;
                height=&#34;346&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2596,7 +2596,7 @@
                /ru/project/stepik/image/84_hu_e3eb1ede9ae42239.webp 400w,
                /ru/project/stepik/image/84_hu_36daf386f3aa253b.webp 760w,
                /ru/project/stepik/image/84_hu_81f844f3363b70a1.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/84_hu_e3eb1ede9ae42239.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/84_hu_e3eb1ede9ae42239.webp&#34;
                width=&#34;760&#34;
                height=&#34;346&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2625,7 +2625,7 @@
                /ru/project/stepik/image/84_hu_e3eb1ede9ae42239.webp 400w,
                /ru/project/stepik/image/84_hu_36daf386f3aa253b.webp 760w,
                /ru/project/stepik/image/84_hu_81f844f3363b70a1.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/84_hu_e3eb1ede9ae42239.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/84_hu_e3eb1ede9ae42239.webp&#34;
                width=&#34;760&#34;
                height=&#34;346&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2654,7 +2654,7 @@
                /ru/project/stepik/image/84_hu_e3eb1ede9ae42239.webp 400w,
                /ru/project/stepik/image/84_hu_36daf386f3aa253b.webp 760w,
                /ru/project/stepik/image/84_hu_81f844f3363b70a1.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/84_hu_e3eb1ede9ae42239.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/84_hu_e3eb1ede9ae42239.webp&#34;
                width=&#34;760&#34;
                height=&#34;346&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2683,7 +2683,7 @@
                /ru/project/stepik/image/90_hu_ca110736dea4aed7.webp 400w,
                /ru/project/stepik/image/90_hu_4a55bf4d2566e2c3.webp 760w,
                /ru/project/stepik/image/90_hu_8cec28791f1f0b31.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/90_hu_ca110736dea4aed7.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/90_hu_ca110736dea4aed7.webp&#34;
                width=&#34;486&#34;
                height=&#34;411&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2725,7 +2725,7 @@
                /ru/project/stepik/image/1_hu_82ad71534b974804.webp 400w,
                /ru/project/stepik/image/1_hu_9488d3c12ff3b76d.webp 760w,
                /ru/project/stepik/image/1_hu_b6d4e9079a926d35.webp 1200w&#34;
-               src=&#34;https://example.com/ru/project/stepik/image/1_hu_82ad71534b974804.webp&#34;
+               src=&#34;http://localhost:1313/ru/project/stepik/image/1_hu_82ad71534b974804.webp&#34;
                width=&#34;760&#34;
                height=&#34;545&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog | My Multilingual Site</title>
+    <link>https://migolovina.github.io/en/post/</link>
+      <atom:link href="https://migolovina.github.io/en/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Blog</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language><lastBuildDate>Fri, 09 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://migolovina.github.io/media/icon_hu_ad98b3d5ac1ecd6f.png</url>
+      <title>Blog</title>
+      <link>https://migolovina.github.io/en/post/</link>
+    </image>
+    
+    <item>
+      <title>Artificial intelligence</title>
+      <link>https://migolovina.github.io/en/post/ii/</link>
+      <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://migolovina.github.io/en/post/ii/</guid>
+      <description>&lt;p&gt;Artificial Intelligence in Everyday Life: Opportunities and Risks&lt;/p&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Artificial intelligence (AI) is a technology that allows machines to perform tasks that require human intelligence: speech recognition, decision making, data analysis. Today, AI is all around us, making our lives easier but also creating new challenges.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;where-do-we-meet-ai&#34;&gt;&lt;strong&gt;Where do we meet AI?&lt;/strong&gt;&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Voice assistants&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Examples&lt;/em&gt;: Siri, Alexa, Google Assistant.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;How it helps&lt;/em&gt;: smart home control, information search, reminders.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Recommender systems&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Examples&lt;/em&gt;: Netflix, Spotify, YouTube.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;How it works&lt;/em&gt;: analyzes your preferences and suggests content.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Medicine&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Examples&lt;/em&gt;: diagnostics from images (X-ray, MRI), epidemic forecasting.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Benefits&lt;/em&gt;: speeds up diagnosis, reduces errors.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Transportation&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Examples&lt;/em&gt;: self-driving cars (Tesla), navigators (Google Maps).&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Advantages&lt;/em&gt;: reduced traffic jams, increased safety.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;risks-and-problems-of-ai&#34;&gt;&lt;strong&gt;Risks and problems of AI&lt;/strong&gt;&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Privacy&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;AI collects data about users: where you have been, what you bought, what you talked about.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Danger&lt;/em&gt;: data leaks, surveillance.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Unemployment&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Automation replaces people: cashiers, drivers, call centers.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Solution&lt;/em&gt;: retraining and new professions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Errors and bias&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Algorithms can discriminate by gender, race (for example, when hiring).&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Example&lt;/em&gt;: Amazon fired an AI recruiter due to bias against women.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Security&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;AI can be used for fraud (deep fakes, hacks).&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Example&lt;/em&gt;: fake voice messages asking to transfer money.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;the-future-of-ai&#34;&gt;&lt;strong&gt;The Future of AI&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Prospects&lt;/strong&gt;:&lt;/li&gt;
+&lt;li&gt;Personalized medicine.&lt;/li&gt;
+&lt;li&gt;Fight against climate change (optimization of energy consumption).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Important&lt;/strong&gt;:&lt;/li&gt;
+&lt;li&gt;Development of ethical standards and laws (for example, AI regulation in the EU).&lt;/li&gt;
+&lt;li&gt;Training people to work with AI.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;AI is not just a technology of the future, but a part of the present. It makes life more convenient, but requires caution. The question is not “will AI develop”, but “how will we manage it”.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Post about the past week</title>
+      <link>https://migolovina.github.io/en/post/last-week6/</link>
+      <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://migolovina.github.io/en/post/last-week6/</guid>
+      <description>&lt;p&gt;My past week was very busy and interesting!&lt;/p&gt;
+&lt;h2 id=&#34;monday&#34;&gt;Monday&lt;/h2&gt;
+&lt;p&gt;Monday is a hard day, I have six classes (three English classes from 15:00 to 19:20, linear algebra lecture from 13:30 to 14:50, computer science and programming technologies (remote) from 9:00 to 10:20, immediately after them I leave the house and hurry to linear algebra. After them I went for a walk with my friend.&lt;/p&gt;
+&lt;h2 id=&#34;tuesday&#34;&gt;Tuesday&lt;/h2&gt;
+&lt;p&gt;I went to a Spanish class and went with a friend to Ozon for a tablet, on which I now write all the lectures.&lt;/p&gt;
+&lt;h2 id=&#34;wednesday&#34;&gt;Wednesday&lt;/h2&gt;
+&lt;p&gt;Wednesday is a very hard day for me, in the morning I had discrete mathematics, then mathematical analysis. Immediately after it I went to the main building of RUDN for my next class on Fundamentals of Military Training.&lt;/p&gt;
+&lt;h2 id=&#34;thursday&#34;&gt;Thursday&lt;/h2&gt;
+&lt;p&gt;Thursday - a very relaxed day, with only 2 classes: linear algebra and history of religion in Russia. I got 28 points for two essays and activity in the history of religions in Russia class.&lt;/p&gt;
+&lt;h2 id=&#34;friday&#34;&gt;Friday&lt;/h2&gt;
+&lt;p&gt;I have two lectures on mathematical analysis in the morning, then I have a class on the foundations of Russian statehood, where I worked and got 2 points, and the final class on Friday is the history of Russia. Then I went for a walk.&lt;/p&gt;
+&lt;h2 id=&#34;saturday&#34;&gt;Saturday&lt;/h2&gt;
+&lt;p&gt;Saturday started with morning distance lectures on the history of Russia and the history of religions in Russia. I wrote a detailed summary for the history of religions in Russia. Then I studied Computer Science and Programming Technologies and posted the fourteenth lab assignment.&lt;/p&gt;
+&lt;h2 id=&#34;sunday&#34;&gt;Sunday&lt;/h2&gt;
+&lt;p&gt;I study Computer Science and Programming Technologies and am doing an individual project, stage 6.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Last week&#39;s post</title>
+      <link>https://migolovina.github.io/en/post/last-week5/</link>
+      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://migolovina.github.io/en/post/last-week5/</guid>
+      <description>&lt;p&gt;My last week was full of childhood memories.&lt;/p&gt;
+&lt;h2 id=&#34;monday&#34;&gt;Monday&lt;/h2&gt;
+&lt;p&gt;On Monday I had to take an English test, I got 52 points, that&amp;rsquo;s B2. I installed a game from my childhood, which I watched reviews on 12 years ago, it was so wonderful to play something I&amp;rsquo;ve been dreaming about for a long time.&lt;/p&gt;
+&lt;h2 id=&#34;tuesday&#34;&gt;Tuesday&lt;/h2&gt;
+&lt;p&gt;I installed another game from my childhood, which I didn&amp;rsquo;t really like, but I decided to finish it and I&amp;rsquo;m still doing it.&lt;/p&gt;
+&lt;h2 id=&#34;wednesday&#34;&gt;Wednesday&lt;/h2&gt;
+&lt;p&gt;On Wednesday I was able to download my most desired childhood game and play it, but unfortunately, all the games from my childhood are designed for a joystick, which I don’t have, and on the computer it’s impossible to complete it because of this. :(&lt;/p&gt;
+&lt;h2 id=&#34;thursday&#34;&gt;Thursday&lt;/h2&gt;
+&lt;p&gt;On Thursday I had a day off and decided to go for a walk, there I met a very cute ginger cat, for whom I bought food, after that he walked with me the whole walk.&lt;/p&gt;
+&lt;h2 id=&#34;friday&#34;&gt;Friday&lt;/h2&gt;
+&lt;p&gt;On Friday all the classes were moved to distance learning, so I downloaded my ninth history assignment to disk and didn’t present it.&lt;/p&gt;
+&lt;h2 id=&#34;saturday&#34;&gt;Saturday&lt;/h2&gt;
+&lt;p&gt;I started doing my computer science project and did the last fourteenth lab assignment.&lt;/p&gt;
+&lt;h2 id=&#34;sunday&#34;&gt;Sunday&lt;/h2&gt;
+&lt;p&gt;I finished all the lab assignments and am doing the penultimate stage of the project.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scientific programming languages</title>
+      <link>https://migolovina.github.io/en/post/prog/</link>
+      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://migolovina.github.io/en/post/prog/</guid>
+      <description>&lt;h2 id=&#34;scientific-programming-languages-what-to-choose-for-calculations-data-analysis-and-modeling&#34;&gt;Scientific programming languages: what to choose for calculations, data analysis and modeling?&lt;/h2&gt;
+&lt;p&gt;Scientific calculations, data processing and numerical modeling require not only knowledge of mathematics, but also the right tools. Here are the &lt;strong&gt;top languages&lt;/strong&gt; used by scientists, engineers and analysts:&lt;/p&gt;
+&lt;h2 id=&#34;python-is-a-universal-leader&#34;&gt;Python is a universal leader&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Pros&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;✅ Simple syntax + huge libraries (&lt;code&gt;NumPy&lt;/code&gt;, &lt;code&gt;SciPy&lt;/code&gt;, &lt;code&gt;Pandas&lt;/code&gt;, &lt;code&gt;Matplotlib&lt;/code&gt;).&lt;/p&gt;
+&lt;p&gt;✅ Suitable for machine learning (&lt;code&gt;TensorFlow&lt;/code&gt;, &lt;code&gt;PyTorch&lt;/code&gt;).&lt;/p&gt;
+&lt;p&gt;✅ Integration with Jupyter Notebook for interactive reports.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cons&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;❌ Slower than compiled languages ​​(but accelerated by &lt;code&gt;Cython&lt;/code&gt; or &lt;code&gt;Numba&lt;/code&gt;).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where it is used&lt;/strong&gt;: data analysis, bioinformatics, physical modeling.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;r--statistics-and-visualization&#34;&gt;R — statistics and visualization&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Pros&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;✅ Best for complex statistics and graphs (&lt;code&gt;ggplot2&lt;/code&gt;, &lt;code&gt;dplyr&lt;/code&gt;).&lt;/p&gt;
+&lt;p&gt;✅ Ready-made solutions for medicine, economics, sociology.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cons&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;❌ Inconvenient for general programming.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example&lt;/strong&gt;: calculations in psychology, financial analytics.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;julia--a-new-competitor&#34;&gt;Julia — a new competitor&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Pros&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;✅ Speed ​​like C, convenience like Python.&lt;/p&gt;
+&lt;p&gt;✅ Created specifically for science (&lt;code&gt;DifferentialEquations.jl&lt;/code&gt;, &lt;code&gt;Flux.jl&lt;/code&gt; for ML).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cons&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;❌ Fewer libraries than Python.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where it is used&lt;/strong&gt;: quantum physics, climate modeling.&lt;/p&gt;
+&lt;p&gt;&amp;ndash;&lt;/p&gt;
+&lt;h2 id=&#34;matlab--a-classic-of-engineering&#34;&gt;MATLAB — a classic of engineering&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Pros&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;✅ Ready-made toolboxes for mathematics, signals, robotics.&lt;/p&gt;
+&lt;p&gt;✅ Convenient work with matrices.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cons&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;❌ Expensive license (there are free analogs — Octave, Scilab).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;For what&lt;/strong&gt;: calculations in aviation, image processing.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fortran--cc--for-high-performance-computing-hpc&#34;&gt;Fortran &amp;amp; C/C++ — for high-performance computing (HPC)&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Pros&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;✅ Maximum speed (used in supercomputers).&lt;/p&gt;
+&lt;p&gt;✅ Optimized for physics, astronomy, meteorology.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cons&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;❌ Complex syntax, requires deep knowledge.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Examples&lt;/strong&gt;: nuclear reaction modeling, weather forecast.&lt;/p&gt;
+&lt;h2 id=&#34;how-to-choose&#34;&gt;How to choose?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;To start&lt;/strong&gt;: Python (+ libraries).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Statistics&lt;/strong&gt;: R.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Speed ​​+ science&lt;/strong&gt;: Julia.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Engineering&lt;/strong&gt;: MATLAB.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Extreme performance&lt;/strong&gt;: Fortran/C++.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Post about the past week</title>
+      <link>https://migolovina.github.io/en/post/last-week4/</link>
+      <pubDate>Sat, 26 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://migolovina.github.io/en/post/last-week4/</guid>
+      <description>&lt;p&gt;My past week was very interesting!&lt;/p&gt;
+&lt;h2 id=&#34;monday&#34;&gt;Monday&lt;/h2&gt;
+&lt;p&gt;My Monday started with a dictation in Russian, among the entire first year, and then it went, as usual, six pairs (three English pairs from 15:00 to 19:20, linear algebra lecture from 13:30 to 14:50, computer science and programming technologies (remotely) from 9:00 to 10:20.&lt;/p&gt;
+&lt;h2 id=&#34;tuesday&#34;&gt;Tuesday&lt;/h2&gt;
+&lt;p&gt;I went to Spanish, where we wrote a test, after the pair I went to meet a friend, we had a lot of fun together&lt;/p&gt;
+&lt;h2 id=&#34;wednesday&#34;&gt;Wednesday&lt;/h2&gt;
+&lt;p&gt;Wednesday is a very hard day for me, in the morning I had discrete mathematics, then mathematical analysis. Immediately after it I went to the main building of RUDN for my next pair on Fundamentals of Military Training, where we were taught to operate UAVs, on April 30 there will be the last test and a pair on this subject.&lt;/p&gt;
+&lt;h2 id=&#34;thursday&#34;&gt;Thursday&lt;/h2&gt;
+&lt;p&gt;Thursday is a very relaxed day, with only 2 classes: linear algebra and history of religion in Russia. I didn&amp;rsquo;t have time to present my report on Easter in the class on the history of religions in Russia because I didn&amp;rsquo;t have enough time. After the classes, I went to meet a friend and we went for a boat ride, the photo in the post is from there.&lt;/p&gt;
+&lt;h2 id=&#34;friday&#34;&gt;Friday&lt;/h2&gt;
+&lt;p&gt;In the morning, I have two lectures on mathematical analysis, then I have a class on the foundations of Russian statehood, where I presented a project, got 14 points, and the final class on Friday is the history of Russia.&lt;/p&gt;
+&lt;h2 id=&#34;saturday&#34;&gt;Saturday&lt;/h2&gt;
+&lt;p&gt;Saturday began with morning distance lectures on the history of Russia and the history of religions in Russia. I wrote a detailed summary for the history of religions in Russia. Then I studied Computer Science and Programming Technologies and posted the twelfth lab work.&lt;/p&gt;
+&lt;h2 id=&#34;sunday&#34;&gt;Sunday&lt;/h2&gt;
+&lt;p&gt;I am studying Computer Science and Programming Technologies and doing an individual project, stage 4.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Report</title>
+      <link>https://migolovina.github.io/en/post/otchet/</link>
+      <pubDate>Sat, 26 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://migolovina.github.io/en/post/otchet/</guid>
+      <description>&lt;h1 id=&#34;report&#34;&gt;Report&lt;/h1&gt;
+&lt;p&gt;To create a report on any work or research, you need to complete several basic points.&lt;/p&gt;
+&lt;h1 id=&#34;style&#34;&gt;Style&lt;/h1&gt;
+&lt;p&gt;The report uses certain rules. The R&amp;amp;D report must be completed by any printing method on a typewriter or using a computer and printer on one side of a sheet of white A4 paper with one and a half spacing.&lt;/p&gt;
+&lt;p&gt;The report pages should be numbered in Arabic numerals, observing continuous numbering throughout the text of the report. The page number is placed in the center of the bottom of the sheet without a period. The title page is included in the general numbering of the report pages. The page number on the title page is not included. The font color should be black, the height of letters, numbers and other signs - not less than 1.8 mm (point size not less than 12). Bold font is not used.&lt;/p&gt;
+&lt;p&gt;The text of the report should be printed observing the following margin sizes: right - not less than 10 mm, top and bottom - not less than 20 mm, left - not less than 30 mm. The title page is the first page of the R&amp;amp;D report and serves as a source of information necessary for processing and searching for the document. The title page should contain the city and year of publication of the work.&lt;/p&gt;
+&lt;h1 id=&#34;description-of-work&#34;&gt;Description of work&lt;/h1&gt;
+&lt;p&gt;The report describes the main points of the conducted research, supported by images, tables, videos or graphs, which should also be formatted according to the standard.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Markdown Lightweight Markup Language</title>
+      <link>https://migolovina.github.io/en/post/markdown/</link>
+      <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://migolovina.github.io/en/post/markdown/</guid>
+      <description>&lt;p&gt;Convenience and Simplicity&lt;/p&gt;
+&lt;h2 id=&#34;markdown&#34;&gt;Markdown&lt;/h2&gt;
+&lt;p&gt;Markdown is a lightweight markup language created to indicate formatting in plain text, with maximum preservation of its human readability, and suitable for machine transformation into advanced publishing languages ​​(HTML, Rich Text, and others).&lt;/p&gt;
+&lt;h2 id=&#34;history&#34;&gt;History&lt;/h2&gt;
+&lt;p&gt;Originally created in 2004 by John Gruber and Aaron Swartz, many of the ideas for the language were borrowed from existing email markup conventions. Markdown implementations convert Markdown text to valid, well-formed XHTML and replace left angle brackets (&amp;quot;&amp;lt;&amp;quot;) and ampersands (&amp;quot;&amp;amp;&amp;quot;) with the appropriate entity codes. The first implementation of Markdown was Gruber&amp;rsquo;s Perl implementation, but many third-party implementations have appeared since then (see below). The Perl implementation is licensed under a BSD-type license. Markdown implementations in various programming languages ​​are included (or available as a plugin) in many content management systems.&lt;/p&gt;
+&lt;h2 id=&#34;syntax-examples&#34;&gt;Syntax Examples&lt;/h2&gt;
+&lt;p&gt;The following are examples of how to use Markdown, but this is not a complete guide. A full description of the language can be found on the official website. Characters that are normally treated as special in Markdown can be escaped with a backslash. For example, the sequence &amp;ldquo;*&amp;rdquo; will output the &amp;ldquo;*&amp;rdquo; character, rather than indicating the start of selected text. Also, Markdown does not convert text inside &amp;ldquo;raw&amp;rdquo; XHTML blocks. Thus, you can include XHTML sections in a Markdown document by enclosing them in block-level tags.&lt;/p&gt;
+&lt;h2 id=&#34;text-with-emphasis-or-logical-stress&#34;&gt;Text with emphasis or logical stress&lt;/h2&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;*emphasis* (e.g., italics)
+**strong emphasis** (e.g., bold)
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;program-code&#34;&gt;Program code&lt;/h2&gt;
+&lt;p&gt;Code elements can be inline or multi-line blocks. Inline code is marked with the &amp;ldquo;&lt;code&gt;&amp;quot; (backtick) character. An example of inline code is &lt;/code&gt;Hello world!`. A multi-line code block is indented by 4 spaces or one Tab.&lt;/p&gt;
+&lt;p&gt;Below begins a multi-line code block&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;    &amp;lt;!doctype html&amp;gt;
+    &amp;lt;html&amp;gt;
+        &amp;lt;head&amp;gt;
+            &amp;lt;!-- Заголовок документа --&amp;gt;
+        &amp;lt;/head&amp;gt;
+        &amp;lt;body&amp;gt;
+            &amp;lt;!-- Тело документа --&amp;gt;
+        &amp;lt;/body&amp;gt;
+    &amp;lt;/html&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Code block ended&lt;/p&gt;
+&lt;h2 id=&#34;strikethrough-text&#34;&gt;Strikethrough text&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;need to do ~~one~~other thing&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&#34;lists&#34;&gt;Lists&lt;/h2&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;* bulleted list item
+- another unordered list item
++ item bullets can be different
+&lt;/code&gt;&lt;/pre&gt;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;1. Numbered list item
+2. Item #2 of the same list
+9. Item #3 of the list — items are numbered sequentially, the number at the beginning of the line does not matter
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;headings&#34;&gt;Headings&lt;/h2&gt;
+&lt;p&gt;Headings are created by placing a pound sign before the heading text. The number of &amp;ldquo;#&amp;rdquo; signs corresponds to the heading level. HTML provides 6 levels of headings.&lt;/p&gt;
+&lt;h1 id=&#34;first-level-heading&#34;&gt;First level heading&lt;/h1&gt;
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+&lt;h3 id=&#34;third-level-heading&#34;&gt;Third level heading&lt;/h3&gt;
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+&lt;h6 id=&#34;sixth-level-heading&#34;&gt;Sixth level heading&lt;/h6&gt;
+&lt;h2 id=&#34;quotes&#34;&gt;Quotes&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This text will be enclosed in HTML tags &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;http://example.com/&#34; title=&#34;Optional link title&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link text&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Post about the second past week</title>
+      <link>https://migolovina.github.io/en/post/last-week-8/</link>
+      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://migolovina.github.io/en/post/last-week-8/</guid>
+      <description>&lt;p&gt;I really liked the events that happened to me this week.&lt;/p&gt;
+&lt;h2 id=&#34;monday&#34;&gt;Monday&lt;/h2&gt;
+&lt;p&gt;Monday this week was wonderful. My morning started off great with a distance class on one of my favorite subjects, discrete mathematics. Then I went to the university, where we had a spring festival, where I performed in two skits, sang the song Despacito and recited a poem about spring. I went home in a great mood and went to bed.&lt;/p&gt;
+&lt;h2 id=&#34;tuesday&#34;&gt;Tuesday&lt;/h2&gt;
+&lt;p&gt;Unfortunately, on Tuesday they cancelled our Spanish class, but they gave us additional homework, which I did very well. Then I went to the hospital to have my tooth treated, they treated it in two hours and I went home.&lt;/p&gt;
+&lt;h2 id=&#34;wednesday&#34;&gt;Wednesday&lt;/h2&gt;
+&lt;p&gt;Wednesday started off very hard for me, I had to get up at 7:30 in the morning, I woke up very tired and didn&amp;rsquo;t want to go anywhere and dreamed that Thursday would come soon (after all, my mother is coming to visit me on Thursday), I got up and went to my classes, my first was discrete mathematics, then two mathematical analyses, after which I immediately went to the main building of RUDN for OVP. And I returned home at 22:30.&lt;/p&gt;
+&lt;h2 id=&#34;thursday&#34;&gt;Thursday&lt;/h2&gt;
+&lt;p&gt;Thursday was the most anticipated day for me this week. I woke up and immediately went to meet my mother, when we met, we were very happy, because we hadn&amp;rsquo;t seen each other since the New Year. After our meeting, I went to a class on linear algebra. It went very quickly and interestingly. After that, my mom and I went to my dorm to clean up. After that, we went to eat and went to the hotel.&lt;/p&gt;
+&lt;h2 id=&#34;friday&#34;&gt;Friday&lt;/h2&gt;
+&lt;p&gt;In the morning, I went to class, I had mathematical analysis and classes on the basics of Russian statehood and the history of Russia. After that, my mom and I went to eat Hong Kong waffles, my mom had wanted to try them for a long time. After that, we went to the hotel and I sat down to do my assignment on &amp;ldquo;Computer Science and Programming Technologies&amp;rdquo;.&lt;/p&gt;
+&lt;h2 id=&#34;saturday&#34;&gt;Saturday&lt;/h2&gt;
+&lt;p&gt;In the morning, I had lectures on ORG and History of Russia. Then I sat down to do my assignment on &amp;ldquo;Computer Science and Programming Technologies&amp;rdquo;. After that, I had a lunch break and my mom and I went to the &amp;ldquo;Ramen Club&amp;rdquo; and ate very tasty ramen.&lt;/p&gt;
+&lt;h2 id=&#34;sunday&#34;&gt;Sunday&lt;/h2&gt;
+&lt;p&gt;All Sunday, I studied Computer Science and Programming Technologies and am doing an individual project, stage 3.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Git Version Control System</title>
+      <link>https://migolovina.github.io/en/post/git/</link>
+      <pubDate>Sun, 16 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://migolovina.github.io/en/post/git/</guid>
+      <description>&lt;p&gt;Information about Git version control systems and commands&lt;/p&gt;
+&lt;h2 id=&#34;what-is-it&#34;&gt;What is it?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;The Git version control system is a set of command-line programs. They can be accessed from the terminal by entering the git command with various options.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Due to the fact that Git is a distributed version control system, a backup copy of the local repository can be made by simply copying or archiving.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;basic-git-commands&#34;&gt;Basic git commands:&lt;/h2&gt;
+&lt;dl&gt;
+&lt;dt&gt;For example, in the table. @tbl:std-dir provides a brief description of the main Git commands.&lt;/dt&gt;
+&lt;dd&gt;
+&lt;p&gt;Description of some Git version control system commands {#tbl:std-dir}&lt;/p&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Command&lt;/th&gt;
+          &lt;th&gt;Description of the command&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;git init&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;create the main repository tree&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;git pull &lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;get updates (changes) of the current tree from the central repository&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;git push&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;send all changes made to the local tree to the central repository&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;git status&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;view a list of modified files in the current directory&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;git diff&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;view current changes&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;git add&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;file_names add specific modified and/or created files and/or directories&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;git rm&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;remove a file and/or directory from the repository index (while the file and/or directory remains in the local directory)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;git rm имена_файлов&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;remove a file and/or directory from the repository index (while the file and/or directory remains in the local directory)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;git commit -am &#39;Описание коммита&#39;&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Save all added changes with a comment using the built-in editor&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;git checkout -b имя_ветки&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Create a new branch based on the current one&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;git branch -d имя_ветки&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Delete a local branch that has already been merged into the main tree&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;git branch -D имя_ветки&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Force deletion of a local branch&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;The full list of commands can be found on the official website  &lt;a href=&#34;https://docs.github.com/en/get-started/using-github/github-command-palette&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Post about the past week</title>
+      <link>https://migolovina.github.io/en/post/last-week/</link>
+      <pubDate>Sun, 16 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://migolovina.github.io/en/post/last-week/</guid>
+      <description>&lt;p&gt;My past week was very eventful and interesting!&lt;/p&gt;
+&lt;h2 id=&#34;monday&#34;&gt;Monday&lt;/h2&gt;
+&lt;p&gt;Monday is a hard day, I have six classes (three English classes from 15:00 to 19:20, linear algebra lecture from 13:30 to 14:50, computer science and programming technologies (remotely) from 9:00 to 10:20), immediately after them I leave the house and hurry to linear algebra.&lt;/p&gt;
+&lt;h2 id=&#34;tuesday&#34;&gt;Tuesday&lt;/h2&gt;
+&lt;p&gt;I got into the working rhythm. I went to a Spanish class and went shopping with friends, there I saw a beautiful headband, in which I took a photo.&lt;/p&gt;
+&lt;h2 id=&#34;wednesday&#34;&gt;Wednesday&lt;/h2&gt;
+&lt;p&gt;Wednesday is a very hard day for me, in the morning I had discrete mathematics, then a test in mathematical analysis, a rehearsal of a song that my group and I will sing in Spanish on March 17, 2025 at the performance. Immediately after that I went to the main building RUDN for my next class on Fundamentals of Military Training.&lt;/p&gt;
+&lt;h2 id=&#34;thursday&#34;&gt;Thursday&lt;/h2&gt;
+&lt;p&gt;Thursday is a very relaxed day, where there are only 2 classes: linear algebra and history of religion in Russia. In the class on the history of religions in Russia, I presented my report on the topic: &amp;ldquo;The main holidays in Judaism&amp;rdquo;. For this report, I received 9 points out of 10, I think this is a good result, I also worked on the class and received 6 points.&lt;/p&gt;
+&lt;h2 id=&#34;friday&#34;&gt;Friday&lt;/h2&gt;
+&lt;p&gt;In the morning, I have two lectures on mathematical analysis, then I have a class on the foundations of Russian statehood, where I worked and received 2 points, and the final class on Friday is the history of Russia, where I presented a report on Alexander Vasilyevich Suvorov, our teacher said that I was very well prepared and gave me the maximum score for this task.&lt;/p&gt;
+&lt;h2 id=&#34;saturday&#34;&gt;Saturday&lt;/h2&gt;
+&lt;p&gt;Saturday started with morning remote lectures on Russian history and Russian religious history. I wrote detailed notes on Russian religious history to choose a topic for my report and present it next Thursday. Then I studied Computer Science and Programming Technologies and posted the fifth lab assignment.&lt;/p&gt;
+&lt;h2 id=&#34;sunday&#34;&gt;Sunday&lt;/h2&gt;
+&lt;p&gt;I am studying Computer Science and Programming Technologies and doing an individual project, stage 2.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

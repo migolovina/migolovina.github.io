@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Safely | My Multilingual Site</title>
-    <link>https://example.com/ru/tags/safely/</link>
-      <atom:link href="https://example.com/ru/tags/safely/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/ru/tags/safely/</link>
+      <atom:link href="http://localhost:1313/ru/tags/safely/index.xml" rel="self" type="application/rss+xml" />
     <description>Safely</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru</language><lastBuildDate>Wed, 07 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_ad98b3d5ac1ecd6f.png</url>
+      <url>http://localhost:1313/media/icon_hu_ad98b3d5ac1ecd6f.png</url>
       <title>Safely</title>
-      <link>https://example.com/ru/tags/safely/</link>
+      <link>http://localhost:1313/ru/tags/safely/</link>
     </image>
     
     <item>
       <title>Генератор безопасных паролей</title>
-      <link>https://example.com/ru/project/generation/</link>
+      <link>http://localhost:1313/ru/project/generation/</link>
       <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/project/generation/</guid>
+      <guid>http://localhost:1313/ru/project/generation/</guid>
       <description>&lt;p&gt;Я написала программу, которая создаёт случайные пароли заданной длины с использованием букв, цифр и спецсимволов.&lt;/p&gt;</description>
     </item>
     

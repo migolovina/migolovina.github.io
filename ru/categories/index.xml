@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | My Multilingual Site</title>
-    <link>https://example.com/ru/categories/</link>
-      <atom:link href="https://example.com/ru/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/ru/categories/</link>
+      <atom:link href="http://localhost:1313/ru/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru</language>
     <image>
-      <url>https://example.com/media/icon_hu_ad98b3d5ac1ecd6f.png</url>
+      <url>http://localhost:1313/media/icon_hu_ad98b3d5ac1ecd6f.png</url>
       <title>Categories</title>
-      <link>https://example.com/ru/categories/</link>
+      <link>http://localhost:1313/ru/categories/</link>
     </image>
     
   </channel>

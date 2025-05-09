@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teaching | My Multilingual Site</title>
-    <link>https://example.com/teaching/</link>
-      <atom:link href="https://example.com/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://migolovina.github.io/teaching/</link>
+      <atom:link href="https://migolovina.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>Teaching</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru</language>
     <image>
-      <url>https://example.com/media/icon_hu_ad98b3d5ac1ecd6f.png</url>
+      <url>https://migolovina.github.io/media/icon_hu_ad98b3d5ac1ecd6f.png</url>
       <title>Teaching</title>
-      <link>https://example.com/teaching/</link>
+      <link>https://migolovina.github.io/teaching/</link>
     </image>
     
   </channel>

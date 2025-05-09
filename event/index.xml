@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | My Multilingual Site</title>
-    <link>https://example.com/event/</link>
-      <atom:link href="https://example.com/event/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://migolovina.github.io/event/</link>
+      <atom:link href="https://migolovina.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru</language>
     <image>
-      <url>https://example.com/media/icon_hu_ad98b3d5ac1ecd6f.png</url>
+      <url>https://migolovina.github.io/media/icon_hu_ad98b3d5ac1ecd6f.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://example.com/event/</link>
+      <link>https://migolovina.github.io/event/</link>
     </image>
     
   </channel>

@@ -2,391 +2,391 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/post/ii/</loc>
+    <loc>https://migolovina.github.io/en/post/ii/</loc>
     <lastmod>2025-05-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/post/ii/"
+                href="https://migolovina.github.io/post/ii/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/post/ii/"
+                href="https://migolovina.github.io/en/post/ii/"
                 />
   </url><url>
-    <loc>https://example.com/tags/artificial-intelligence/</loc>
+    <loc>https://migolovina.github.io/en/tags/artificial-intelligence/</loc>
     <lastmod>2025-05-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/blog/</loc>
+    <loc>https://migolovina.github.io/en/tags/blog/</loc>
     <lastmod>2025-05-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/</loc>
-    <lastmod>2025-05-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://example.com/ru/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://example.com/post/"
-                />
-  </url><url>
-    <loc>https://example.com/tags/opportunities-and-risks/</loc>
-    <lastmod>2025-05-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/post/last-week6/</loc>
+    <loc>https://migolovina.github.io/en/post/</loc>
     <lastmod>2025-05-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/post/last-week6/"
+                href="https://migolovina.github.io/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/post/last-week6/"
+                href="https://migolovina.github.io/en/post/"
                 />
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://migolovina.github.io/en/tags/opportunities-and-risks/</loc>
+    <lastmod>2025-05-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://migolovina.github.io/en/post/last-week6/</loc>
     <lastmod>2025-05-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/tags/"
+                href="https://migolovina.github.io/post/last-week6/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/"
+                href="https://migolovina.github.io/en/post/last-week6/"
                 />
   </url><url>
-    <loc>https://example.com/tags/week/</loc>
+    <loc>https://migolovina.github.io/en/tags/</loc>
+    <lastmod>2025-05-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://migolovina.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://migolovina.github.io/en/tags/"
+                />
+  </url><url>
+    <loc>https://migolovina.github.io/en/tags/week/</loc>
     <lastmod>2025-05-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/generation/</loc>
+    <loc>https://migolovina.github.io/en/tags/generation/</loc>
     <lastmod>2025-05-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/tags/generation/"
+                href="https://migolovina.github.io/tags/generation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/generation/"
+                href="https://migolovina.github.io/en/tags/generation/"
                 />
   </url><url>
-    <loc>https://example.com/post/last-week5/</loc>
+    <loc>https://migolovina.github.io/en/post/last-week5/</loc>
     <lastmod>2025-05-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/post/last-week5/"
+                href="https://migolovina.github.io/post/last-week5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/post/last-week5/"
+                href="https://migolovina.github.io/en/post/last-week5/"
                 />
   </url><url>
-    <loc>https://example.com/tags/password/</loc>
+    <loc>https://migolovina.github.io/en/tags/password/</loc>
     <lastmod>2025-05-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/tags/password/"
+                href="https://migolovina.github.io/tags/password/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/password/"
+                href="https://migolovina.github.io/en/tags/password/"
                 />
   </url><url>
-    <loc>https://example.com/tags/programming-languages/</loc>
+    <loc>https://migolovina.github.io/en/tags/programming-languages/</loc>
     <lastmod>2025-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/project/</loc>
+    <loc>https://migolovina.github.io/en/project/</loc>
     <lastmod>2025-05-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/project/"
+                href="https://migolovina.github.io/project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/project/"
+                href="https://migolovina.github.io/en/project/"
                 />
   </url><url>
-    <loc>https://example.com/tags/safely/</loc>
+    <loc>https://migolovina.github.io/en/tags/safely/</loc>
     <lastmod>2025-05-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/tags/safely/"
+                href="https://migolovina.github.io/tags/safely/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/safely/"
+                href="https://migolovina.github.io/en/tags/safely/"
                 />
   </url><url>
-    <loc>https://example.com/tags/scientific-programming/</loc>
+    <loc>https://migolovina.github.io/en/tags/scientific-programming/</loc>
     <lastmod>2025-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/prog/</loc>
-    <lastmod>2025-05-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://example.com/ru/post/prog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://example.com/post/prog/"
-                />
-  </url><url>
-    <loc>https://example.com/project/generation/</loc>
+    <loc>https://migolovina.github.io/en/post/prog/</loc>
     <lastmod>2025-05-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/project/generation/"
+                href="https://migolovina.github.io/post/prog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/project/generation/"
+                href="https://migolovina.github.io/en/post/prog/"
                 />
   </url><url>
-    <loc>https://example.com/post/last-week4/</loc>
+    <loc>https://migolovina.github.io/en/project/generation/</loc>
+    <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://migolovina.github.io/project/generation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://migolovina.github.io/en/project/generation/"
+                />
+  </url><url>
+    <loc>https://migolovina.github.io/en/post/last-week4/</loc>
     <lastmod>2025-04-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/post/last-week4/"
+                href="https://migolovina.github.io/post/last-week4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/post/last-week4/"
+                href="https://migolovina.github.io/en/post/last-week4/"
                 />
   </url><url>
-    <loc>https://example.com/tags/report/</loc>
+    <loc>https://migolovina.github.io/en/tags/report/</loc>
     <lastmod>2025-04-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/otchet/</loc>
+    <loc>https://migolovina.github.io/en/post/otchet/</loc>
     <lastmod>2025-04-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/post/otchet/"
+                href="https://migolovina.github.io/post/otchet/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/post/otchet/"
+                href="https://migolovina.github.io/en/post/otchet/"
                 />
   </url><url>
-    <loc>https://example.com/tags/stepik/</loc>
+    <loc>https://migolovina.github.io/en/tags/stepik/</loc>
     <lastmod>2025-03-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/tags/stepik/"
+                href="https://migolovina.github.io/tags/stepik/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/stepik/"
+                href="https://migolovina.github.io/en/tags/stepik/"
                 />
   </url><url>
-    <loc>https://example.com/tags/%D0%B2%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B9-%D0%BA%D1%83%D1%80%D1%81/</loc>
+    <loc>https://migolovina.github.io/en/tags/%D0%B2%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B9-%D0%BA%D1%83%D1%80%D1%81/</loc>
     <lastmod>2025-03-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/tags/%D0%B2%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B9-%D0%BA%D1%83%D1%80%D1%81/"
+                href="https://migolovina.github.io/tags/%D0%B2%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B9-%D0%BA%D1%83%D1%80%D1%81/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/%D0%B2%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B9-%D0%BA%D1%83%D1%80%D1%81/"
+                href="https://migolovina.github.io/en/tags/%D0%B2%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B9-%D0%BA%D1%83%D1%80%D1%81/"
                 />
   </url><url>
-    <loc>https://example.com/project/stepik/</loc>
+    <loc>https://migolovina.github.io/en/project/stepik/</loc>
     <lastmod>2025-03-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/project/stepik/"
+                href="https://migolovina.github.io/project/stepik/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/project/stepik/"
+                href="https://migolovina.github.io/en/project/stepik/"
                 />
   </url><url>
-    <loc>https://example.com/experience/</loc>
+    <loc>https://migolovina.github.io/en/experience/</loc>
     <lastmod>2025-03-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/experience/"
+                href="https://migolovina.github.io/experience/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/experience/"
+                href="https://migolovina.github.io/en/experience/"
                 />
   </url><url>
-    <loc>https://example.com/post/markdown/</loc>
+    <loc>https://migolovina.github.io/en/post/markdown/</loc>
     <lastmod>2025-03-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/post/markdown/"
+                href="https://migolovina.github.io/post/markdown/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/post/markdown/"
+                href="https://migolovina.github.io/en/post/markdown/"
                 />
   </url><url>
-    <loc>https://example.com/tags/news/</loc>
+    <loc>https://migolovina.github.io/en/tags/news/</loc>
     <lastmod>2025-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/last-week-8/</loc>
+    <loc>https://migolovina.github.io/en/post/last-week-8/</loc>
     <lastmod>2025-03-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/post/last-week-8/"
+                href="https://migolovina.github.io/post/last-week-8/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/post/last-week-8/"
+                href="https://migolovina.github.io/en/post/last-week-8/"
                 />
   </url><url>
-    <loc>https://example.com/post/git/</loc>
+    <loc>https://migolovina.github.io/en/post/git/</loc>
     <lastmod>2025-03-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/post/git/"
+                href="https://migolovina.github.io/post/git/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/post/git/"
+                href="https://migolovina.github.io/en/post/git/"
                 />
   </url><url>
-    <loc>https://example.com/tags/github/</loc>
+    <loc>https://migolovina.github.io/en/tags/github/</loc>
     <lastmod>2025-03-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/tags/github/"
+                href="https://migolovina.github.io/tags/github/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/github/"
+                href="https://migolovina.github.io/en/tags/github/"
                 />
   </url><url>
-    <loc>https://example.com/post/last-week/</loc>
+    <loc>https://migolovina.github.io/en/post/last-week/</loc>
     <lastmod>2025-03-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/post/last-week/"
+                href="https://migolovina.github.io/post/last-week/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/post/last-week/"
+                href="https://migolovina.github.io/en/post/last-week/"
                 />
   </url><url>
-    <loc>https://example.com/tags/version-control/</loc>
+    <loc>https://migolovina.github.io/en/tags/version-control/</loc>
     <lastmod>2025-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/projects/</loc>
+    <loc>https://migolovina.github.io/en/projects/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/projects/"
+                href="https://migolovina.github.io/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/projects/"
+                href="https://migolovina.github.io/en/projects/"
                 />
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>https://migolovina.github.io/en/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/"
+                href="https://migolovina.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/"
+                href="https://migolovina.github.io/en/"
                 />
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://migolovina.github.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/categories/"
+                href="https://migolovina.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/"
+                href="https://migolovina.github.io/en/categories/"
                 />
   </url><url>
-    <loc>https://example.com/publication/</loc>
+    <loc>https://migolovina.github.io/en/publication/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/publication/"
+                href="https://migolovina.github.io/publication/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/publication/"
+                href="https://migolovina.github.io/en/publication/"
                 />
   </url><url>
-    <loc>https://example.com/event/</loc>
+    <loc>https://migolovina.github.io/en/event/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/event/"
+                href="https://migolovina.github.io/event/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/event/"
+                href="https://migolovina.github.io/en/event/"
                 />
   </url><url>
-    <loc>https://example.com/teaching/</loc>
+    <loc>https://migolovina.github.io/en/teaching/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/teaching/"
+                href="https://migolovina.github.io/teaching/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/teaching/"
+                href="https://migolovina.github.io/en/teaching/"
                 />
   </url>
 </urlset>

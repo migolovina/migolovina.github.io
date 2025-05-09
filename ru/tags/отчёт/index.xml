@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Отчёт | My Multilingual Site</title>
-    <link>https://example.com/ru/tags/%D0%BE%D1%82%D1%87%D1%91%D1%82/</link>
-      <atom:link href="https://example.com/ru/tags/%D0%BE%D1%82%D1%87%D1%91%D1%82/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/ru/tags/%D0%BE%D1%82%D1%87%D1%91%D1%82/</link>
+      <atom:link href="http://localhost:1313/ru/tags/%D0%BE%D1%82%D1%87%D1%91%D1%82/index.xml" rel="self" type="application/rss+xml" />
     <description>Отчёт</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru</language><lastBuildDate>Sat, 26 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_ad98b3d5ac1ecd6f.png</url>
+      <url>http://localhost:1313/media/icon_hu_ad98b3d5ac1ecd6f.png</url>
       <title>Отчёт</title>
-      <link>https://example.com/ru/tags/%D0%BE%D1%82%D1%87%D1%91%D1%82/</link>
+      <link>http://localhost:1313/ru/tags/%D0%BE%D1%82%D1%87%D1%91%D1%82/</link>
     </image>
     
     <item>
       <title>Отчёт</title>
-      <link>https://example.com/ru/post/otchet/</link>
+      <link>http://localhost:1313/ru/post/otchet/</link>
       <pubDate>Sat, 26 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/otchet/</guid>
+      <guid>http://localhost:1313/ru/post/otchet/</guid>
       <description>&lt;h1 id=&#34;отчёт&#34;&gt;Отчёт&lt;/h1&gt;
 &lt;p&gt;Для создания отчёта по какой либо работе или исследованию, необходимо выполнить несколько основных пунктов.&lt;/p&gt;
 &lt;h1 id=&#34;стилистика&#34;&gt;Стилистика&lt;/h1&gt;

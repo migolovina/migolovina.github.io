@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Report | My Multilingual Site</title>
-    <link>https://example.com/tags/report/</link>
-      <atom:link href="https://example.com/tags/report/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/report/</link>
+      <atom:link href="http://localhost:1313/tags/report/index.xml" rel="self" type="application/rss+xml" />
     <description>Report</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language><lastBuildDate>Sat, 26 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_ad98b3d5ac1ecd6f.png</url>
+      <url>http://localhost:1313/media/icon_hu_ad98b3d5ac1ecd6f.png</url>
       <title>Report</title>
-      <link>https://example.com/tags/report/</link>
+      <link>http://localhost:1313/tags/report/</link>
     </image>
     
     <item>
       <title>Report</title>
-      <link>https://example.com/post/otchet/</link>
+      <link>http://localhost:1313/post/otchet/</link>
       <pubDate>Sat, 26 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/otchet/</guid>
+      <guid>http://localhost:1313/post/otchet/</guid>
       <description>&lt;h1 id=&#34;report&#34;&gt;Report&lt;/h1&gt;
 &lt;p&gt;To create a report on any work or research, you need to complete several basic points.&lt;/p&gt;
 &lt;h1 id=&#34;style&#34;&gt;Style&lt;/h1&gt;

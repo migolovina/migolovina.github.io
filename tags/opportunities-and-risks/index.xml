@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Opportunities and Risks | My Multilingual Site</title>
-    <link>https://example.com/tags/opportunities-and-risks/</link>
-      <atom:link href="https://example.com/tags/opportunities-and-risks/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/opportunities-and-risks/</link>
+      <atom:link href="http://localhost:1313/tags/opportunities-and-risks/index.xml" rel="self" type="application/rss+xml" />
     <description>Opportunities and Risks</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language><lastBuildDate>Fri, 09 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_ad98b3d5ac1ecd6f.png</url>
+      <url>http://localhost:1313/media/icon_hu_ad98b3d5ac1ecd6f.png</url>
       <title>Opportunities and Risks</title>
-      <link>https://example.com/tags/opportunities-and-risks/</link>
+      <link>http://localhost:1313/tags/opportunities-and-risks/</link>
     </image>
     
     <item>
       <title>Artificial intelligence</title>
-      <link>https://example.com/post/ii/</link>
+      <link>http://localhost:1313/post/ii/</link>
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/ii/</guid>
+      <guid>http://localhost:1313/post/ii/</guid>
       <description>&lt;p&gt;Artificial Intelligence in Everyday Life: Opportunities and Risks&lt;/p&gt;
 &lt;h2 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;Artificial intelligence (AI) is a technology that allows machines to perform tasks that require human intelligence: speech recognition, decision making, data analysis. Today, AI is all around us, making our lives easier but also creating new challenges.&lt;/p&gt;

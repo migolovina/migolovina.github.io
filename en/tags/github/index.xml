@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GitHub | My Multilingual Site</title>
+    <link>https://migolovina.github.io/en/tags/github/</link>
+      <atom:link href="https://migolovina.github.io/en/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <description>GitHub</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language><lastBuildDate>Sun, 16 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://migolovina.github.io/media/icon_hu_ad98b3d5ac1ecd6f.png</url>
+      <title>GitHub</title>
+      <link>https://migolovina.github.io/en/tags/github/</link>
+    </image>
+    
+    <item>
+      <title>Git Version Control System</title>
+      <link>https://migolovina.github.io/en/post/git/</link>
+      <pubDate>Sun, 16 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://migolovina.github.io/en/post/git/</guid>
+      <description>&lt;p&gt;Information about Git version control systems and commands&lt;/p&gt;
+&lt;h2 id=&#34;what-is-it&#34;&gt;What is it?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;The Git version control system is a set of command-line programs. They can be accessed from the terminal by entering the git command with various options.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Due to the fact that Git is a distributed version control system, a backup copy of the local repository can be made by simply copying or archiving.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;basic-git-commands&#34;&gt;Basic git commands:&lt;/h2&gt;
+&lt;dl&gt;
+&lt;dt&gt;For example, in the table. @tbl:std-dir provides a brief description of the main Git commands.&lt;/dt&gt;
+&lt;dd&gt;
+&lt;p&gt;Description of some Git version control system commands {#tbl:std-dir}&lt;/p&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Command&lt;/th&gt;
+          &lt;th&gt;Description of the command&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;git init&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;create the main repository tree&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;git pull &lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;get updates (changes) of the current tree from the central repository&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;git push&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;send all changes made to the local tree to the central repository&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;git status&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;view a list of modified files in the current directory&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;git diff&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;view current changes&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;git add&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;file_names add specific modified and/or created files and/or directories&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;git rm&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;remove a file and/or directory from the repository index (while the file and/or directory remains in the local directory)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;git rm имена_файлов&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;remove a file and/or directory from the repository index (while the file and/or directory remains in the local directory)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;git commit -am &#39;Описание коммита&#39;&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Save all added changes with a comment using the built-in editor&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;git checkout -b имя_ветки&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Create a new branch based on the current one&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;git branch -d имя_ветки&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Delete a local branch that has already been merged into the main tree&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;git branch -D имя_ветки&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Force deletion of a local branch&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;The full list of commands can be found on the official website  &lt;a href=&#34;https://docs.github.com/en/get-started/using-github/github-command-palette&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

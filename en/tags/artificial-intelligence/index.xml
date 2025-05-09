@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Artificial Intelligence | My Multilingual Site</title>
+    <link>https://migolovina.github.io/en/tags/artificial-intelligence/</link>
+      <atom:link href="https://migolovina.github.io/en/tags/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    <description>Artificial Intelligence</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language><lastBuildDate>Fri, 09 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://migolovina.github.io/media/icon_hu_ad98b3d5ac1ecd6f.png</url>
+      <title>Artificial Intelligence</title>
+      <link>https://migolovina.github.io/en/tags/artificial-intelligence/</link>
+    </image>
+    
+    <item>
+      <title>Artificial intelligence</title>
+      <link>https://migolovina.github.io/en/post/ii/</link>
+      <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://migolovina.github.io/en/post/ii/</guid>
+      <description>&lt;p&gt;Artificial Intelligence in Everyday Life: Opportunities and Risks&lt;/p&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Artificial intelligence (AI) is a technology that allows machines to perform tasks that require human intelligence: speech recognition, decision making, data analysis. Today, AI is all around us, making our lives easier but also creating new challenges.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;where-do-we-meet-ai&#34;&gt;&lt;strong&gt;Where do we meet AI?&lt;/strong&gt;&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Voice assistants&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Examples&lt;/em&gt;: Siri, Alexa, Google Assistant.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;How it helps&lt;/em&gt;: smart home control, information search, reminders.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Recommender systems&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Examples&lt;/em&gt;: Netflix, Spotify, YouTube.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;How it works&lt;/em&gt;: analyzes your preferences and suggests content.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Medicine&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Examples&lt;/em&gt;: diagnostics from images (X-ray, MRI), epidemic forecasting.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Benefits&lt;/em&gt;: speeds up diagnosis, reduces errors.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Transportation&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Examples&lt;/em&gt;: self-driving cars (Tesla), navigators (Google Maps).&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Advantages&lt;/em&gt;: reduced traffic jams, increased safety.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;risks-and-problems-of-ai&#34;&gt;&lt;strong&gt;Risks and problems of AI&lt;/strong&gt;&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Privacy&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;AI collects data about users: where you have been, what you bought, what you talked about.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Danger&lt;/em&gt;: data leaks, surveillance.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Unemployment&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Automation replaces people: cashiers, drivers, call centers.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Solution&lt;/em&gt;: retraining and new professions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Errors and bias&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Algorithms can discriminate by gender, race (for example, when hiring).&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Example&lt;/em&gt;: Amazon fired an AI recruiter due to bias against women.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Security&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;AI can be used for fraud (deep fakes, hacks).&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Example&lt;/em&gt;: fake voice messages asking to transfer money.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;the-future-of-ai&#34;&gt;&lt;strong&gt;The Future of AI&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Prospects&lt;/strong&gt;:&lt;/li&gt;
+&lt;li&gt;Personalized medicine.&lt;/li&gt;
+&lt;li&gt;Fight against climate change (optimization of energy consumption).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Important&lt;/strong&gt;:&lt;/li&gt;
+&lt;li&gt;Development of ethical standards and laws (for example, AI regulation in the EU).&lt;/li&gt;
+&lt;li&gt;Training people to work with AI.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;AI is not just a technology of the future, but a part of the present. It makes life more convenient, but requires caution. The question is not “will AI develop”, but “how will we manage it”.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

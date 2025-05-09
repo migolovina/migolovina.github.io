@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Programming Languages | My Multilingual Site</title>
-    <link>https://example.com/tags/programming-languages/</link>
-      <atom:link href="https://example.com/tags/programming-languages/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/programming-languages/</link>
+      <atom:link href="http://localhost:1313/tags/programming-languages/index.xml" rel="self" type="application/rss+xml" />
     <description>Programming Languages</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language><lastBuildDate>Wed, 07 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_ad98b3d5ac1ecd6f.png</url>
+      <url>http://localhost:1313/media/icon_hu_ad98b3d5ac1ecd6f.png</url>
       <title>Programming Languages</title>
-      <link>https://example.com/tags/programming-languages/</link>
+      <link>http://localhost:1313/tags/programming-languages/</link>
     </image>
     
     <item>
       <title>Scientific programming languages</title>
-      <link>https://example.com/post/prog/</link>
+      <link>http://localhost:1313/post/prog/</link>
       <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/prog/</guid>
+      <guid>http://localhost:1313/post/prog/</guid>
       <description>&lt;h2 id=&#34;scientific-programming-languages-what-to-choose-for-calculations-data-analysis-and-modeling&#34;&gt;Scientific programming languages: what to choose for calculations, data analysis and modeling?&lt;/h2&gt;
 &lt;p&gt;Scientific calculations, data processing and numerical modeling require not only knowledge of mathematics, but also the right tools. Here are the &lt;strong&gt;top languages&lt;/strong&gt; used by scientists, engineers and analysts:&lt;/p&gt;
 &lt;h2 id=&#34;python-is-a-universal-leader&#34;&gt;Python is a universal leader&lt;/h2&gt;

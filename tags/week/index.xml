@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Week | My Multilingual Site</title>
-    <link>https://example.com/tags/week/</link>
-      <atom:link href="https://example.com/tags/week/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/week/</link>
+      <atom:link href="http://localhost:1313/tags/week/index.xml" rel="self" type="application/rss+xml" />
     <description>Week</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language><lastBuildDate>Fri, 09 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_ad98b3d5ac1ecd6f.png</url>
+      <url>http://localhost:1313/media/icon_hu_ad98b3d5ac1ecd6f.png</url>
       <title>Week</title>
-      <link>https://example.com/tags/week/</link>
+      <link>http://localhost:1313/tags/week/</link>
     </image>
     
     <item>
       <title>Post about the past week</title>
-      <link>https://example.com/post/last-week6/</link>
+      <link>http://localhost:1313/post/last-week6/</link>
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/last-week6/</guid>
+      <guid>http://localhost:1313/post/last-week6/</guid>
       <description>&lt;p&gt;My past week was very busy and interesting!&lt;/p&gt;
 &lt;h2 id=&#34;monday&#34;&gt;Monday&lt;/h2&gt;
 &lt;p&gt;Monday is a hard day, I have six classes (three English classes from 15:00 to 19:20, linear algebra lecture from 13:30 to 14:50, computer science and programming technologies (remote) from 9:00 to 10:20, immediately after them I leave the house and hurry to linear algebra. After them I went for a walk with my friend.&lt;/p&gt;
@@ -37,9 +37,9 @@
     
     <item>
       <title>Last week&#39;s post</title>
-      <link>https://example.com/post/last-week5/</link>
+      <link>http://localhost:1313/post/last-week5/</link>
       <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/last-week5/</guid>
+      <guid>http://localhost:1313/post/last-week5/</guid>
       <description>&lt;p&gt;My last week was full of childhood memories.&lt;/p&gt;
 &lt;h2 id=&#34;monday&#34;&gt;Monday&lt;/h2&gt;
 &lt;p&gt;On Monday I had to take an English test, I got 52 points, that&amp;rsquo;s B2. I installed a game from my childhood, which I watched reviews on 12 years ago, it was so wonderful to play something I&amp;rsquo;ve been dreaming about for a long time.&lt;/p&gt;
@@ -60,9 +60,9 @@
     
     <item>
       <title>Post about the past week</title>
-      <link>https://example.com/post/last-week4/</link>
+      <link>http://localhost:1313/post/last-week4/</link>
       <pubDate>Sat, 26 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/last-week4/</guid>
+      <guid>http://localhost:1313/post/last-week4/</guid>
       <description>&lt;p&gt;My past week was very interesting!&lt;/p&gt;
 &lt;h2 id=&#34;monday&#34;&gt;Monday&lt;/h2&gt;
 &lt;p&gt;My Monday started with a dictation in Russian, among the entire first year, and then it went, as usual, six pairs (three English pairs from 15:00 to 19:20, linear algebra lecture from 13:30 to 14:50, computer science and programming technologies (remotely) from 9:00 to 10:20.&lt;/p&gt;
@@ -83,9 +83,9 @@
     
     <item>
       <title>Report</title>
-      <link>https://example.com/post/otchet/</link>
+      <link>http://localhost:1313/post/otchet/</link>
       <pubDate>Sat, 26 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/otchet/</guid>
+      <guid>http://localhost:1313/post/otchet/</guid>
       <description>&lt;h1 id=&#34;report&#34;&gt;Report&lt;/h1&gt;
 &lt;p&gt;To create a report on any work or research, you need to complete several basic points.&lt;/p&gt;
 &lt;h1 id=&#34;style&#34;&gt;Style&lt;/h1&gt;
@@ -99,9 +99,9 @@
     
     <item>
       <title>Markdown Lightweight Markup Language</title>
-      <link>https://example.com/post/markdown/</link>
+      <link>http://localhost:1313/post/markdown/</link>
       <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/markdown/</guid>
+      <guid>http://localhost:1313/post/markdown/</guid>
       <description>&lt;p&gt;Convenience and Simplicity&lt;/p&gt;
 &lt;h2 id=&#34;markdown&#34;&gt;Markdown&lt;/h2&gt;
 &lt;p&gt;Markdown is a lightweight markup language created to indicate formatting in plain text, with maximum preservation of its human readability, and suitable for machine transformation into advanced publishing languages ​​(HTML, Rich Text, and others).&lt;/p&gt;
@@ -151,9 +151,9 @@
     
     <item>
       <title>Post about the second past week</title>
-      <link>https://example.com/post/last-week-8/</link>
+      <link>http://localhost:1313/post/last-week-8/</link>
       <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/last-week-8/</guid>
+      <guid>http://localhost:1313/post/last-week-8/</guid>
       <description>&lt;p&gt;I really liked the events that happened to me this week.&lt;/p&gt;
 &lt;h2 id=&#34;monday&#34;&gt;Monday&lt;/h2&gt;
 &lt;p&gt;Monday this week was wonderful. My morning started off great with a distance class on one of my favorite subjects, discrete mathematics. Then I went to the university, where we had a spring festival, where I performed in two skits, sang the song Despacito and recited a poem about spring. I went home in a great mood and went to bed.&lt;/p&gt;
@@ -174,9 +174,9 @@
     
     <item>
       <title>Post about the past week</title>
-      <link>https://example.com/post/last-week/</link>
+      <link>http://localhost:1313/post/last-week/</link>
       <pubDate>Sun, 16 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/last-week/</guid>
+      <guid>http://localhost:1313/post/last-week/</guid>
       <description>&lt;p&gt;My past week was very eventful and interesting!&lt;/p&gt;
 &lt;h2 id=&#34;monday&#34;&gt;Monday&lt;/h2&gt;
 &lt;p&gt;Monday is a hard day, I have six classes (three English classes from 15:00 to 19:20, linear algebra lecture from 13:30 to 14:50, computer science and programming technologies (remotely) from 9:00 to 10:20), immediately after them I leave the house and hurry to linear algebra.&lt;/p&gt;

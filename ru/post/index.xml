@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog | My Multilingual Site</title>
-    <link>https://example.com/ru/post/</link>
-      <atom:link href="https://example.com/ru/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/ru/post/</link>
+      <atom:link href="http://localhost:1313/ru/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru</language><lastBuildDate>Fri, 09 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_ad98b3d5ac1ecd6f.png</url>
+      <url>http://localhost:1313/media/icon_hu_ad98b3d5ac1ecd6f.png</url>
       <title>Blog</title>
-      <link>https://example.com/ru/post/</link>
+      <link>http://localhost:1313/ru/post/</link>
     </image>
     
     <item>
       <title>Искусственный интеллект</title>
-      <link>https://example.com/ru/post/ii/</link>
+      <link>http://localhost:1313/ru/post/ii/</link>
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/ii/</guid>
+      <guid>http://localhost:1313/ru/post/ii/</guid>
       <description>&lt;p&gt;Искусственный интеллект в повседневной жизни: возможности и риски&lt;/p&gt;
 &lt;h2 id=&#34;введение&#34;&gt;&lt;strong&gt;Введение&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;Искусственный интеллект (ИИ) — это технология, которая позволяет машинам выполнять задачи, требующие человеческого интеллекта: распознавание речи, принятие решений, анализ данных. Сегодня ИИ окружает нас повсюду, упрощая жизнь, но и создавая новые вызовы.&lt;/p&gt;
@@ -108,9 +108,9 @@
     
     <item>
       <title>Пост по прошедшей недели</title>
-      <link>https://example.com/ru/post/last-week5/</link>
+      <link>http://localhost:1313/ru/post/last-week5/</link>
       <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/last-week5/</guid>
+      <guid>http://localhost:1313/ru/post/last-week5/</guid>
       <description>&lt;p&gt;Моя прошедшая неделя была полна воспоминаний из детства.&lt;/p&gt;
 &lt;h2 id=&#34;понедельник&#34;&gt;Понедельник&lt;/h2&gt;
 &lt;p&gt;В понедельник мне нужно было пройти тест на знание английского, получила результат 52 балла, это B2. Установила игру из детства, на которую смотрела обзоры 12 лет назад, это было так прекрасно играть в то, что давно мечтала.&lt;/p&gt;
@@ -131,9 +131,9 @@
     
     <item>
       <title>Языки научного программирования</title>
-      <link>https://example.com/ru/post/prog/</link>
+      <link>http://localhost:1313/ru/post/prog/</link>
       <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/prog/</guid>
+      <guid>http://localhost:1313/ru/post/prog/</guid>
       <description>&lt;h2 id=&#34;языки-научного-программирования-что-выбрать-для-вычислений-анализа-данных-и-моделирования&#34;&gt;Языки научного программирования: что выбрать для вычислений, анализа данных и моделирования?&lt;/h2&gt;
 &lt;p&gt;Научные расчёты, обработка данных и численное моделирование требуют не только знаний математики, но и правильных инструментов. Вот &lt;strong&gt;топ языков&lt;/strong&gt;, которые используют учёные, инженеры и аналитики:&lt;/p&gt;
 &lt;h2 id=&#34;python--универсальный-лидер&#34;&gt;Python — универсальный лидер&lt;/h2&gt;
@@ -199,9 +199,9 @@
     
     <item>
       <title>Отчёт</title>
-      <link>https://example.com/ru/post/otchet/</link>
+      <link>http://localhost:1313/ru/post/otchet/</link>
       <pubDate>Sat, 26 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/otchet/</guid>
+      <guid>http://localhost:1313/ru/post/otchet/</guid>
       <description>&lt;h1 id=&#34;отчёт&#34;&gt;Отчёт&lt;/h1&gt;
 &lt;p&gt;Для создания отчёта по какой либо работе или исследованию, необходимо выполнить несколько основных пунктов.&lt;/p&gt;
 &lt;h1 id=&#34;стилистика&#34;&gt;Стилистика&lt;/h1&gt;
@@ -215,9 +215,9 @@
     
     <item>
       <title>Пост по прошедшей недели</title>
-      <link>https://example.com/ru/post/last-week4/</link>
+      <link>http://localhost:1313/ru/post/last-week4/</link>
       <pubDate>Sat, 26 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/last-week4/</guid>
+      <guid>http://localhost:1313/ru/post/last-week4/</guid>
       <description>&lt;p&gt;Моя прошедшая неделя была очень интересной!&lt;/p&gt;
 &lt;h2 id=&#34;понедельник&#34;&gt;Понедельник&lt;/h2&gt;
 &lt;p&gt;У меня начался понедельник с диктанта по русскому языку, среди всего первого курса, а далее он прошёл, как обычно шесть пар (три пары английского с 15:00 по 19:20, линейная алгебра лекция с 13:30 по 14:50, компьютерные науки и технологии программирования(дистанционно) с 9:00 по 10:20.&lt;/p&gt;
@@ -238,9 +238,9 @@
     
     <item>
       <title>Легковесный язык разметки Markdown</title>
-      <link>https://example.com/ru/post/markdown/</link>
+      <link>http://localhost:1313/ru/post/markdown/</link>
       <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/markdown/</guid>
+      <guid>http://localhost:1313/ru/post/markdown/</guid>
       <description>&lt;p&gt;Удобство и простота&lt;/p&gt;
 &lt;h2 id=&#34;markdown&#34;&gt;Markdown&lt;/h2&gt;
 &lt;p&gt;Markdown - облегчённый язык разметки, созданный с целью обозначения форматирования в простом тексте, с максимальным сохранением его читаемость человеком, и пригодным для машинного преобразования в языки продвинутых публикаций (HTML, Rich Text и других).&lt;/p&gt;
@@ -290,9 +290,9 @@
     
     <item>
       <title>Пост по второй прошедшей недели</title>
-      <link>https://example.com/ru/post/last-week-8/</link>
+      <link>http://localhost:1313/ru/post/last-week-8/</link>
       <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/last-week-8/</guid>
+      <guid>http://localhost:1313/ru/post/last-week-8/</guid>
       <description>&lt;p&gt;Мне очень понравились события, которые произошли со мной на этой недели.&lt;/p&gt;
 &lt;h2 id=&#34;понедельник&#34;&gt;Понедельник&lt;/h2&gt;
 &lt;p&gt;Понедельник на этой неделе был чудесным. Утро у меня началось прекрасно с дистанционной пары по одному из моих любимых предметов, дискретной математики. Далее я поехала в университет, там у нас был фестиваль весны, где я выступала в двух сценках, пела песню Despacito и рассказывала стих про весну. Поехала домой в прекрасном настроении и легла спать.&lt;/p&gt;
@@ -313,9 +313,9 @@
     
     <item>
       <title>Пост по прошедшей недели</title>
-      <link>https://example.com/ru/post/last-week/</link>
+      <link>http://localhost:1313/ru/post/last-week/</link>
       <pubDate>Sun, 16 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/last-week/</guid>
+      <guid>http://localhost:1313/ru/post/last-week/</guid>
       <description>&lt;p&gt;Моя прошедшая неделя была очень насыщенной и интересной!&lt;/p&gt;
 &lt;h2 id=&#34;понедельник&#34;&gt;Понедельник&lt;/h2&gt;
 &lt;p&gt;Понедельник - день тяжёлый, у меня шесть пар (три пары английского с 15:00 по 19:20, линейная алгебра лекция с 13:30 по 14:50, компьютерные науки и технологии программирования(дистанционно) с 9:00 по 10:20, сразу же после них я выхожу из дома и спешу на линейную алгебру.&lt;/p&gt;
@@ -336,9 +336,9 @@
     
     <item>
       <title>Пост по прошедшей недели</title>
-      <link>https://example.com/ru/post/last-week6/</link>
+      <link>http://localhost:1313/ru/post/last-week6/</link>
       <pubDate>Sun, 16 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/last-week6/</guid>
+      <guid>http://localhost:1313/ru/post/last-week6/</guid>
       <description>&lt;p&gt;Моя прошедшая неделя была очень насыщенной и интересной!&lt;/p&gt;
 &lt;h2 id=&#34;понедельник&#34;&gt;Понедельник&lt;/h2&gt;
 &lt;p&gt;Понедельник - день тяжёлый, у меня шесть пар (три пары английского с 15:00 по 19:20, линейная алгебра лекция с 13:30 по 14:50, компьютерные науки и технологии программирования(дистанционно) с 9:00 по 10:20, сразу же после них я выхожу из дома и спешу на линейную алгебру. После них я пошла гулять со своей подругой.&lt;/p&gt;
@@ -359,9 +359,9 @@
     
     <item>
       <title>Система контроля версий Git</title>
-      <link>https://example.com/ru/post/git/</link>
+      <link>http://localhost:1313/ru/post/git/</link>
       <pubDate>Sun, 16 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/git/</guid>
+      <guid>http://localhost:1313/ru/post/git/</guid>
       <description>&lt;p&gt;Информация про системы контроля версий Git и команды&lt;/p&gt;
 &lt;h2 id=&#34;что-это&#34;&gt;Что это?&lt;/h2&gt;
 &lt;ul&gt;

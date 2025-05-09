@@ -1,0 +1,4605 @@
+<!doctype html>
+<!-- This site was created with Hugo Blox. https://hugoblox.com -->
+<!-- Last Published: May 9, 2025 --><html lang="en" dir="ltr"
+      data-wc-theme-default="system">
+  
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="generator" content="Hugo Blox Builder 0.3.1" />
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Golovina Masha" />
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Я познакомилась с операционной системой Linux и её базовыми возможностями. " />
+
+  
+    <link rel="alternate" hreflang="ru" href="https://migolovina.github.io/project/stepik/" />
+  
+  <link rel="alternate" hreflang="en" href="https://migolovina.github.io/en/project/stepik/" />
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="/css/themes/emerald.min.css" />
+  
+
+  
+  
+    
+    <link href="/dist/wc.min.css" rel="stylesheet" />
+  
+
+  
+  
+  
+
+  
+
+  <script>
+     
+    window.hbb = {
+       defaultTheme: document.documentElement.dataset.wcThemeDefault,
+       setDarkTheme: () => {
+        document.documentElement.classList.add("dark");
+        document.documentElement.style.colorScheme = "dark";
+      },
+       setLightTheme: () => {
+        document.documentElement.classList.remove("dark");
+        document.documentElement.style.colorScheme = "light";
+      }
+    }
+
+    console.debug(`Default Hugo Blox Builder theme is ${window.hbb.defaultTheme}`);
+
+    if ("wc-color-theme" in localStorage) {
+      localStorage.getItem("wc-color-theme") === "dark" ? window.hbb.setDarkTheme() : window.hbb.setLightTheme();
+    } else {
+      window.hbb.defaultTheme === "dark" ? window.hbb.setDarkTheme() : window.hbb.setLightTheme();
+      if (window.hbb.defaultTheme === "system") {
+        window.matchMedia("(prefers-color-scheme: dark)").matches ? window.hbb.setDarkTheme() : window.hbb.setLightTheme();
+      }
+    }
+  </script>
+
+  <script>
+    
+    document.addEventListener('DOMContentLoaded', function () {
+      
+      let checkboxes = document.querySelectorAll('li input[type=\'checkbox\'][disabled]');
+      checkboxes.forEach(e => {
+        e.parentElement.parentElement.classList.add('task-list');
+      });
+
+      
+      const liNodes = document.querySelectorAll('.task-list li');
+      liNodes.forEach(nodes => {
+        let textNodes = Array.from(nodes.childNodes).filter(node => node.nodeType === 3 && node.textContent.trim().length > 1);
+        if (textNodes.length > 0) {
+          const span = document.createElement('label');
+          textNodes[0].after(span);  
+          span.appendChild(nodes.querySelector('input[type=\'checkbox\']'));
+          span.appendChild(textNodes[0]);
+        }
+      });
+    });
+  </script>
+
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+  
+  <link rel="icon" type="image/png" href="/media/icon_hu_bc0201af0c2cc90e.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu_870d65381493536f.png" />
+
+  <link rel="canonical" href="https://migolovina.github.io/en/project/stepik/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary_large_image" />
+  
+    <meta property="twitter:site" content="@GetResearchDev" />
+    <meta property="twitter:creator" content="@GetResearchDev" />
+  
+  <meta property="og:site_name" content="My Multilingual Site" />
+  <meta property="og:url" content="https://migolovina.github.io/en/project/stepik/" />
+  <meta property="og:title" content="Прохождение внешнего курса на Stepik (&#34;Введение в Linux&#34;) | My Multilingual Site" />
+  <meta property="og:description" content="Я познакомилась с операционной системой Linux и её базовыми возможностями. " /><meta property="og:image" content="https://migolovina.github.io/en/project/stepik/featured.png" />
+    <meta property="twitter:image" content="https://migolovina.github.io/en/project/stepik/featured.png" /><meta property="og:locale" content="en" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2025-03-24T00:00:00&#43;00:00"
+      />
+    
+    <meta property="article:modified_time" content="2025-03-24T00:00:00&#43;00:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://migolovina.github.io/en/project/stepik/"
+  },
+  "headline": "Прохождение внешнего курса на Stepik (\"Введение в Linux\")",
+  
+  "image": [
+    "https://migolovina.github.io/en/project/stepik/featured.png"
+  ],
+  
+  "datePublished": "2025-03-24T00:00:00Z",
+  "dateModified": "2025-03-24T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Golovina Masha"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "My Multilingual Site",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://migolovina.github.io/media/icon_hu_f99fb7fee9699ac.png"
+    }
+  },
+  "description": "Я познакомилась с операционной системой Linux и её базовыми возможностями. "
+}
+</script>
+
+  
+
+  
+
+
+  <title>Прохождение внешнего курса на Stepik (&#34;Введение в Linux&#34;) | My Multilingual Site</title>
+
+  
+  
+  
+  
+  
+    
+    
+  
+  
+  <style>
+    @font-face {
+      font-family: 'Inter var';
+      font-style: normal;
+      font-weight: 100 900;
+      font-display: swap;
+      src: url(/dist/font/Inter.var.woff2) format(woff2);
+    }
+  </style>
+
+  
+
+  
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+  
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+  
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+  
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+    
+  
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+  
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+  
+  
+
+
+
+
+
+
+
+<link type="text/css" rel="stylesheet" href="/dist/pagefind/pagefind-ui.be766eb419317a14ec769d216e9779bfe8f3737c80e780f4ba0dafb57a41a482.css" integrity="sha256-vnZutBkxehTsdp0hbpd5v&#43;jzc3yA54D0ug2vtXpBpII=" />
+
+
+<script src="/dist/pagefind/pagefind-ui.87693d7c6f2b3b347ce359d0ede762c033419f0a32b22ce508c335a81d841f1b.js" integrity="sha256-h2k9fG8rOzR841nQ7ediwDNBnwoysizlCMM1qB2EHxs="></script>
+
+
+<script>window.hbb.pagefind = {"baseUrl":"/"};</script>
+
+<style>
+  html.dark {
+    --pagefind-ui-primary: #eeeeee;
+    --pagefind-ui-text: #eeeeee;
+    --pagefind-ui-background: #152028;
+    --pagefind-ui-border: #152028;
+    --pagefind-ui-tag: #152028;
+  }
+</style>
+
+<script>
+  window.addEventListener('DOMContentLoaded', (event) => {
+    new PagefindUI({
+      element: "#search",
+      showSubResults: true,
+      baseUrl: window.hbb.pagefind.baseUrl,
+      bundlePath: window.hbb.pagefind.baseUrl + "pagefind/",
+    });
+  });
+  document.addEventListener('DOMContentLoaded', () => {
+    let element = document.getElementById('search');
+    let trigger = document.getElementById('search_toggle');
+
+    if (trigger) {
+      trigger.addEventListener('click', () => {
+        element.classList.toggle('hidden');
+        element.querySelector("input").value = ""
+        element.querySelector("input").focus()
+
+        if (!element.classList.contains('hidden')) {
+          let clear_trigger = document.querySelector('.pagefind-ui__search-clear');
+
+          if (clear_trigger && !clear_trigger.hasAttribute('listenerOnClick')) {
+            clear_trigger.setAttribute('listenerOnClick', 'true');
+
+            clear_trigger.addEventListener('click', () => {
+              element.classList.toggle('hidden');
+            });
+          }
+        }
+
+      });
+    }
+  });
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  <script
+    defer
+    src="/js/hugo-blox-en.min.8c8ea06bd0420f5067e52fa727b9f92303757322ba4431774153d59a9735eadb.js"
+    integrity="sha256-jI6ga9BCD1Bn5S&#43;nJ7n5IwN1cyK6RDF3QVPVmpc16ts="
+  ></script>
+
+  
+  
+
+
+
+
+
+
+
+
+  
+    
+      
+      <script async defer src="https://buttons.github.io/buttons.js"></script>
+
+      
+    
+  
+
+
+
+
+</head>
+
+  <body class="dark:bg-hb-dark dark:text-white page-wrapper" id="top">
+    <div id="page-bg"></div>
+    <div class="page-header sticky top-0 z-30">
+      
+      
+      
+        
+        
+        
+          <header id="site-header" class="header">
+  <nav class="navbar px-3 flex justify-left">
+    <div class="order-0 h-100">
+      
+      <a class="navbar-brand" href="/en/" title="My Multilingual Site">
+        Your Name
+      </a>
+    </div>
+    
+    <input id="nav-toggle" type="checkbox" class="hidden" />
+    <label
+      for="nav-toggle"
+      class="order-3 cursor-pointer flex items-center lg:hidden text-dark dark:text-white lg:order-1">
+      <svg id="show-button" class="h-6 fill-current block" viewBox="0 0 20 20">
+        <title>Open Menu</title>
+        <path d="M0 3h20v2H0V3z m0 6h20v2H0V9z m0 6h20v2H0V0z"></path>
+      </svg>
+      <svg id="hide-button" class="h-6 fill-current hidden" viewBox="0 0 20 20">
+        <title>Close Menu</title>
+        <polygon
+          points="11 9 22 9 22 11 11 11 11 22 9 22 9 11 -2 11 -2 9 9 9 9 -2 11 -2"
+          transform="rotate(45 10 10)"></polygon>
+      </svg>
+    </label>
+    
+
+    
+    
+    <ul
+      id="nav-menu"
+      class="navbar-nav order-3 hidden lg:flex w-full pb-6 lg:order-1 lg:w-auto lg:space-x-2 lg:pb-0 xl:space-x-8 justify-left
+      ">
+      
+      
+      
+      
+      
+      
+      <li class="nav-item">
+        <a
+          class="nav-link "
+          
+          href="/en/"
+        >Bio</a
+        >
+      </li>
+      
+      
+      
+      
+      
+      
+      <li class="nav-item">
+        <a
+          class="nav-link "
+          
+          href="/en/#papers"
+        >Papers</a
+        >
+      </li>
+      
+      
+      
+      
+      
+      
+      <li class="nav-item">
+        <a
+          class="nav-link "
+          
+          href="/en/#talks"
+        >Talks</a
+        >
+      </li>
+      
+      
+      
+      
+      
+      
+      <li class="nav-item">
+        <a
+          class="nav-link "
+          
+          href="/en/#news"
+        >News</a
+        >
+      </li>
+      
+      
+      
+      
+      
+      
+      <li class="nav-item">
+        <a
+          class="nav-link "
+          
+          href="/en/experience/"
+        >Experience</a
+        >
+      </li>
+      
+      
+      
+      
+      
+      
+      <li class="nav-item">
+        <a
+          class="nav-link "
+          
+          href="/en/projects/"
+        >Projects</a
+        >
+      </li>
+      
+      
+      
+      
+      
+      
+      <li class="nav-item">
+        <a
+          class="nav-link "
+          
+          href="/en/teaching/"
+        >Teaching</a
+        >
+      </li>
+      
+      
+      
+    </ul>
+
+    <div class="order-1 ml-auto flex items-center md:order-2 lg:ml-0">
+
+      
+      
+      
+      <button
+        aria-label="search"
+        class="text-black hover:text-primary  inline-block px-3 text-xl dark:text-white"
+        id="search_toggle">
+        <svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 512 512" fill="currentColor"><path d="M416 208c0 45.9-14.9 88.3-40 122.7L502.6 457.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376c-34.4 25.2-76.8 40-122.7 40C93.1 416 0 322.9 0 208S93.1 0 208 0S416 93.1 416 208zM208 352a144 144 0 1 0 0-288 144 144 0 1 0 0 288z"/></svg>
+      </button>
+      
+
+      
+      
+      <div class="px-3 text-black hover:text-primary-700 dark:text-white dark:hover:text-primary-300
+            [&.active]:font-bold [&.active]:text-black/90 dark:[&.active]:text-white">
+        <button class="theme-toggle mt-1" accesskey="t" title="appearance">
+          <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+               fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+               stroke-linejoin="round" class="dark:hidden">
+            <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+          </svg>
+          <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+               fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+               stroke-linejoin="round" class=" dark:block [&:not(dark)]:hidden">
+            <circle cx="12" cy="12" r="5"></circle>
+            <line x1="12" y1="1" x2="12" y2="3"></line>
+            <line x1="12" y1="21" x2="12" y2="23"></line>
+            <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+            <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+            <line x1="1" y1="12" x2="3" y2="12"></line>
+            <line x1="21" y1="12" x2="23" y2="12"></line>
+            <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+            <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+          </svg>
+        </button>
+      </div>
+      
+
+      
+      
+      <div class="pl-1 mr-5 text-gray-600 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-200
+            [&.active]:font-bold [&.active]:text-black/90 dark:[&.active]:text-white">
+
+
+<div class="flex justify-items-start ">
+    <button
+      title="Languages"
+      data-state="closed"
+      data-hb-language-chooser
+      class="grow h-7 rounded-md px-2 text-left text-xs font-medium text-gray-600 transition-colors dark:text-gray-400 hover:bg-gray-100 hover:text-gray-900 dark:hover:bg-primary-100/5 dark:hover:text-gray-50"
+      type="button"
+      aria-label="Languages"
+    >
+      <div class="flex items-center gap-2 capitalize">
+        <svg height=18 xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M12 21a9.004 9.004 0 0 0 8.716-6.747M12 21a9.004 9.004 0 0 1-8.716-6.747M12 21c2.485 0 4.5-4.03 4.5-9S14.485 3 12 3m0 18c-2.485 0-4.5-4.03-4.5-9S9.515 3 12 3m0 0a8.997 8.997 0 0 1 7.843 4.582M12 3a8.997 8.997 0 0 0-7.843 4.582m15.686 0A11.953 11.953 0 0 1 12 10.5c-2.998 0-5.74-1.1-7.843-2.918m15.686 0A8.959 8.959 0 0 1 21 12c0 .778-.099 1.533-.284 2.253m0 0A17.919 17.919 0 0 1 12 16.5a17.92 17.92 0 0 1-8.716-2.247m0 0A9.015 9.015 0 0 1 3 12c0-1.605.42-3.113 1.157-4.418"/></svg><span>English</span></div>
+    </button>
+    <ul
+      class="fixed m-0 min-w-[100px] hidden z-20 max-h-64 overflow-auto rounded-md ring-1 ring-black/5 bg-white py-1 text-sm shadow-lg dark:ring-white/20 dark:bg-neutral-800"
+      style="inset: auto auto 0 0;"
+    >
+      
+        <li class="flex flex-col">
+          <a
+            href="https://migolovina.github.io/project/stepik/"
+            class="relative cursor-pointer text-gray-800 dark:text-gray-100 hover:bg-primary-50 hover:text-primary-600 hover:dark:bg-primary-500/10 hover:dark:text-primary-200 whitespace-nowrap py-1.5 transition-colors ltr:pl-3 ltr:pr-9 rtl:pr-3 rtl:pl-9"
+          >Русский</a>
+        </li>
+      </ul>
+  </div></div>
+      
+
+      
+      
+    </div>
+  </nav>
+</header>
+
+
+<div id="search" class="hidden p-3"></div>
+
+
+        
+      
+    </div>
+    <div class="page-body  my-10">
+      
+
+
+
+
+
+<div class="mx-auto flex max-w-screen-xl">
+  
+
+
+
+<aside class="hb-sidebar-container max-lg:[transform:translate3d(0,-100%,0)] lg:hidden xl:block">
+  
+  <div class="px-4 pt-4 lg:hidden">
+    
+    
+  </div>
+  <div class="hb-scrollbar lg:h-[calc(100vh-var(--navbar-height))]">
+    <ul class="flex flex-col gap-1 lg:hidden">
+      
+      
+        <li class=""><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/en/post/"
+    
+  >Blog
+        <span data-hb-sidebar-toggle>
+            <svg fill="none" viewBox="0 0 24 24" stroke="currentColor" class="h-[18px] min-w-[18px] rounded-sm p-0.5 hover:bg-gray-800/5 dark:hover:bg-gray-100/5"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" class="origin-center transition-transform rtl:-rotate-180"></path></svg>
+        </span>
+    </a><div class="ltr:pr-0 overflow-hidden">
+        <ul class="hb-sidebar-list"><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/en/post/ii/"
+    
+  >Artificial intelligence
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/en/post/last-week6/"
+    
+  >Post about the past week
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/en/post/last-week5/"
+    
+  >Last week&#39;s post
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/en/post/prog/"
+    
+  >Scientific programming languages
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/en/post/last-week4/"
+    
+  >Post about the past week
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/en/post/otchet/"
+    
+  >Report
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/en/post/markdown/"
+    
+  >Markdown Lightweight Markup Language
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/en/post/last-week-8/"
+    
+  >Post about the second past week
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/en/post/git/"
+    
+  >Git Version Control System
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/en/post/last-week/"
+    
+  >Post about the past week
+    </a>
+              
+            </li></ul>
+      </div></li>
+        <li class="open"><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/en/project/"
+    
+  >Projects
+        <span data-hb-sidebar-toggle>
+            <svg fill="none" viewBox="0 0 24 24" stroke="currentColor" class="h-[18px] min-w-[18px] rounded-sm p-0.5 hover:bg-gray-800/5 dark:hover:bg-gray-100/5"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" class="origin-center transition-transform rtl:-rotate-180"></path></svg>
+        </span>
+    </a><div class="ltr:pr-0 overflow-hidden">
+        <ul class="hb-sidebar-list"><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/en/project/generation/"
+    
+  >Secure Password Generator
+    </a>
+              
+            </li><li class="flex flex-col open"><a
+    class="hb-sidebar-custom-link
+      sidebar-active-item bg-primary-100 font-semibold text-primary-800 dark:bg-primary-300 dark:text-primary-900"
+    href="/en/project/stepik/"
+    
+  >Прохождение внешнего курса на Stepik (&#34;Введение в Linux&#34;)
+    </a>
+  
+    <ul class="hb-sidebar-mobile-toc"><li>
+              <a
+                href="#%d1%86%d0%b5%d0%bb%d1%8c"
+                class="hb-docs-link"
+              >Цель</a>
+            </li>
+          <li>
+              <a
+                href="#%d0%b7%d0%b0%d0%b4%d0%b0%d0%bd%d0%b8%d1%8f"
+                class="hb-docs-link"
+              >Задания</a>
+            </li>
+          <li>
+              <a
+                href="#%d1%8d%d1%82%d0%b0%d0%bf-1"
+                class="hb-docs-link"
+              >Этап 1</a>
+            </li>
+          <li>
+              <a
+                href="#%d1%8d%d1%82%d0%b0%d0%bf-2"
+                class="hb-docs-link"
+              >Этап 2</a>
+            </li>
+          <li>
+              <a
+                href="#%d1%8d%d1%82%d0%b0%d0%bf-3"
+                class="hb-docs-link"
+              >Этап 3</a>
+            </li>
+          <li>
+              <a
+                href="#%d0%b8%d1%82%d0%be%d0%b3"
+                class="hb-docs-link"
+              >Итог</a>
+            </li>
+          <li>
+              <a
+                href="#%d0%b2%d1%8b%d0%b2%d0%be%d0%b4"
+                class="hb-docs-link"
+              >Вывод</a>
+            </li>
+          <li>
+              <a
+                href="#%d1%81%d0%bf%d0%b8%d1%81%d0%be%d0%ba-%d0%bb%d0%b8%d1%82%d0%b5%d1%80%d0%b0%d1%82%d1%83%d1%80%d1%8b"
+                class="hb-docs-link"
+              >Список литературы</a>
+            </li>
+          <li>
+              <a
+                href="#%d0%bc%d0%be%d0%b9-%d1%81%d0%b5%d1%80%d1%82%d0%b8%d1%84%d0%b8%d0%ba%d0%b0%d1%82"
+                class="hb-docs-link"
+              >Мой сертификат</a>
+            </li>
+          <li>
+              <a
+                href="#%d0%b2%d0%b8%d0%b4%d0%b5%d0%be-%d0%bd%d0%b0-%d0%bf%d1%80%d0%be%d1%85%d0%be%d0%b6%d0%b4%d0%b5%d0%bd%d0%b8%d0%b5"
+                class="hb-docs-link"
+              >Видео на прохождение</a>
+            </li>
+          </ul>
+  
+              
+            </li></ul>
+      </div></li>
+        <li class=""><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/en/experience/"
+    
+  >Experience
+    </a></li>
+        <li class=""><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/en/projects/"
+    
+  >Projects
+    </a></li>
+        <li class=""><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href=""
+    
+  >
+        <span data-hb-sidebar-toggle>
+            <svg fill="none" viewBox="0 0 24 24" stroke="currentColor" class="h-[18px] min-w-[18px] rounded-sm p-0.5 hover:bg-gray-800/5 dark:hover:bg-gray-100/5"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" class="origin-center transition-transform rtl:-rotate-180"></path></svg>
+        </span>
+    </a><div class="ltr:pr-0 overflow-hidden">
+        <ul class="hb-sidebar-list"><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href=""
+    
+  >Golovina Masha
+    </a>
+              
+            </li></ul>
+      </div></li>
+        <li class=""><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/en/publication/"
+    
+  >Publications
+    </a></li>
+        <li class=""><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/en/event/"
+    
+  >Recent &amp; Upcoming Talks
+    </a></li>
+        <li class=""><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/en/teaching/"
+    
+  >Teaching
+    </a></li>
+    </ul>
+
+    <div class="max-xl:hidden h-0 w-64 shrink-0"></div></div>
+
+</aside>
+  
+
+<nav class="hb-toc order-last hidden w-64 shrink-0 xl:block print:hidden px-4" aria-label="table of contents">
+  
+
+
+
+
+
+
+
+
+
+
+
+  <div class="hb-scrollbar text-sm [hyphens:auto] sticky top-16 overflow-y-auto pr-4 pt-6 max-h-[calc(100vh-var(--navbar-height)-env(safe-area-inset-bottom))] -mr-4 rtl:-ml-4"><p class="mb-4 font-semibold tracking-tight">On this page</p><ul>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="font-semibold inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#%d1%86%d0%b5%d0%bb%d1%8c">Цель</a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="font-semibold inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#%d0%b7%d0%b0%d0%b4%d0%b0%d0%bd%d0%b8%d1%8f">Задания</a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="font-semibold inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#%d1%8d%d1%82%d0%b0%d0%bf-1">Этап 1</a>
+      </li></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="font-semibold inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#%d1%8d%d1%82%d0%b0%d0%bf-2">Этап 2</a>
+      </li></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="font-semibold inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#%d1%8d%d1%82%d0%b0%d0%bf-3">Этап 3</a>
+      </li></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul></ul><ul>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="font-semibold inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#%d0%b8%d1%82%d0%be%d0%b3">Итог</a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="font-semibold inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#%d0%b2%d1%8b%d0%b2%d0%be%d0%b4">Вывод</a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="font-semibold inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#%d1%81%d0%bf%d0%b8%d1%81%d0%be%d0%ba-%d0%bb%d0%b8%d1%82%d0%b5%d1%80%d0%b0%d1%82%d1%83%d1%80%d1%8b">Список литературы</a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="font-semibold inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#%d0%bc%d0%be%d0%b9-%d1%81%d0%b5%d1%80%d1%82%d0%b8%d1%84%d0%b8%d0%ba%d0%b0%d1%82">Мой сертификат</a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="font-semibold inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#%d0%b2%d0%b8%d0%b4%d0%b5%d0%be-%d0%bd%d0%b0-%d0%bf%d1%80%d0%be%d1%85%d0%be%d0%b6%d0%b4%d0%b5%d0%bd%d0%b8%d0%b5">Видео на прохождение</a>
+      </li></ul>
+
+  
+  
+    
+    
+  
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+  </nav>
+
+
+  <article class="w-full break-words flex min-h-[calc(100vh-var(--navbar-height))] min-w-0 justify-center pb-8 pr-[calc(env(safe-area-inset-right)-1.5rem)]">
+    <main class="w-full min-w-0 max-w-6xl px-6 pt-4 md:px-12">
+
+      
+
+      <h1 class="mt-2 text-4xl font-bold tracking-tight text-slate-900 dark:text-slate-100">Прохождение внешнего курса на Stepik (&#34;Введение в Linux&#34;)</h1>
+
+      <div class="mt-4 mb-16">
+      <div class="text-gray-500 dark:text-gray-300 text-sm flex items-center flex-wrap gap-y-2"><span class="mr-1">Mar 24, 2025</span><span class="mx-1">·</span>
+        
+
+        
+        <span class="mx-1">·</span>
+        <span class="mx-1">
+          4 min read
+        </span>
+        
+        </div>
+
+        <div class="mt-3">
+          
+
+
+
+
+<div class="">
+  
+  <a class="btn btn-outline-primary my-1" href="https://github.com/migolovina/stepik" target="_blank" rel="noopener">Go to Project Site</a>
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+        </div>
+      </div>
+
+
+
+      
+      
+      
+      
+      
+
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <div class="article-header article-container featured-image-wrapper mt-4 mb-16" style="max-width: 497px; max-height: 498px;">
+        <div style="position: relative">
+          <img src="/en/project/stepik/featured_hu_f84c2b60b55a7859.webp" width="497" height="498" alt="" class="featured-image">
+          <span class="article-header-caption"><a href="https://upload.wikimedia.org/wikipedia/commons/4/42/Stepik_logotype.png" target="_blank" rel="noopener">Stepik</a></span>
+        </div>
+      </div>
+      
+
+      
+      
+
+      <div class="prose prose-slate lg:prose-xl dark:prose-invert">
+        <p>Моё подробное прохождение курса &ldquo;Введение в Linux&rdquo;</p>
+<h2 id="цель">Цель</h2>
+<p>Познакомиться с операционной системой Linux и её базовыми возможностями. </p>
+<h2 id="задания">Задания</h2>
+<ol>
+<li>Введение</li>
+<li>Общая информация о курсе</li>
+<li>Как установить Linux</li>
+<li>Осваиваем Linux</li>
+<li>Terminal: основы</li>
+<li>Запуск исполняемых файлов</li>
+<li>Ввод / вывод</li>
+<li>Скачивание файлов из интернета</li>
+<li>Работа с архивами</li>
+<li>Поиск файлов и слов в файлах</li>
+<li>Работа на сервере</li>
+<li>Знакомство с сервером</li>
+<li>Обмен файлами</li>
+<li>Запуск приложений</li>
+<li>Контроль запускаемых программ</li>
+<li>Многопоточные приложения</li>
+<li>Менеджер терминалов tmux</li>
+<li>Как установить Linux: расширенное руководство</li>
+<li>Продвинутые темы</li>
+<li>Текстовый редактор vim</li>
+<li>Скрипты на bash: основы</li>
+<li>Скрипты на bash: ветвления и циклы</li>
+<li>Скрипты на bash: разное</li>
+<li>Продвинутый поиск и редактирование</li>
+<li>Строим графики в gnuplot</li>
+<li>Разное</li>
+</ol>
+<h2 id="этап-1">Этап 1</h2>
+<p>В первом этапе внешнего курса мне нужно было: рассмотреть общую информацию, рассмотреть способы установки Linux, освоить Linux, запустить Terminal, а также изучить несколько базовых команд для работы в нём, рассмотреть запуск исполняемых файлов, рассмотреть ввод/вывод, рассмотреть скачивание файлов из интернета, рассмотреть работу с архивами, рассмотреть способы поиска файлов и ответить на тестовые вопросы.</p>
+<p><strong>После просмотра общей информации, мне нужно было ответить на следующие тестовые вопросы:</strong></p>
+<h1 id="задание-113">Задание 1.1.3</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/1_hu_a2be4eb268d07a1f.webp 400w,
+               /en/project/stepik/image/1_hu_ef96d976615b2bf6.webp 760w,
+               /en/project/stepik/image/1_hu_76fb1a14600a0078.webp 1200w"
+               src="/en/project/stepik/image/1_hu_a2be4eb268d07a1f.webp"
+               width="651"
+               height="380"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-115">Задание 1.1.5</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/2_hu_79141a2cd2a1d077.webp 400w,
+               /en/project/stepik/image/2_hu_8d5e14755892bfaf.webp 760w,
+               /en/project/stepik/image/2_hu_310f0c1992c78934.webp 1200w"
+               src="/en/project/stepik/image/2_hu_79141a2cd2a1d077.webp"
+               width="760"
+               height="358"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p><strong>После просмотра способов установки Linux, мне нужно было ответить на следующие тестовые вопросы:</strong></p>
+<h1 id="задание-126">Задание 1.2.6</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/3_hu_6778a28bdc7a0879.webp 400w,
+               /en/project/stepik/image/3_hu_1a05f344069ae0c8.webp 760w,
+               /en/project/stepik/image/3_hu_df41156a66b6bcf1.webp 1200w"
+               src="/en/project/stepik/image/3_hu_6778a28bdc7a0879.webp"
+               width="760"
+               height="328"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-128">Задание 1.2.8</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/4_hu_633622397cf6df68.webp 400w,
+               /en/project/stepik/image/4_hu_2ad6d696eaf37a4e.webp 760w,
+               /en/project/stepik/image/4_hu_70fdd7055e6d80fd.webp 1200w"
+               src="/en/project/stepik/image/4_hu_633622397cf6df68.webp"
+               width="760"
+               height="340"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-1210">Задание 1.2.10</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/5_hu_a48075a7472cc1e5.webp 400w,
+               /en/project/stepik/image/5_hu_989f4f2055bb1e.webp 760w,
+               /en/project/stepik/image/5_hu_f3f78448110d354a.webp 1200w"
+               src="/en/project/stepik/image/5_hu_a48075a7472cc1e5.webp"
+               width="760"
+               height="299"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p><strong>После освоения Linux, мне нужно было ответить на следующие тестовые вопросы:</strong></p>
+<h1 id="задание-134">Задание 1.3.4</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/6_hu_279ef4d20bed9c29.webp 400w,
+               /en/project/stepik/image/6_hu_fc9b398f5537bfd.webp 760w,
+               /en/project/stepik/image/6_hu_c4019a06b128928b.webp 1200w"
+               src="/en/project/stepik/image/6_hu_279ef4d20bed9c29.webp"
+               width="760"
+               height="485"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-136">Задание 1.3.6</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/7_hu_25234c685a97bb64.webp 400w,
+               /en/project/stepik/image/7_hu_3eee3ed0dab711f2.webp 760w,
+               /en/project/stepik/image/7_hu_744d12a817f4597f.webp 1200w"
+               src="/en/project/stepik/image/7_hu_25234c685a97bb64.webp"
+               width="760"
+               height="381"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-138">Задание 1.3.8</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/8_hu_38817533829863d7.webp 400w,
+               /en/project/stepik/image/8_hu_cc2e769054e05a4b.webp 760w,
+               /en/project/stepik/image/8_hu_ee514a5ab424c65f.webp 1200w"
+               src="/en/project/stepik/image/8_hu_38817533829863d7.webp"
+               width="760"
+               height="346"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-1310">Задание 1.3.10</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/9_hu_535d970f99fdd6bb.webp 400w,
+               /en/project/stepik/image/9_hu_c458724a1f59675e.webp 760w,
+               /en/project/stepik/image/9_hu_b034c7ff7ffe32a2.webp 1200w"
+               src="/en/project/stepik/image/9_hu_535d970f99fdd6bb.webp"
+               width="760"
+               height="387"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p><strong>После запуска Terminal, а также изучения нескольких базовых команд для работы в нём, мне нужно было ответить на следующие тестовые вопросы:</strong></p>
+<h1 id="задание-143">Задание 1.4.3</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/10_hu_b122a157ada2f55c.webp 400w,
+               /en/project/stepik/image/10_hu_edc5d3fdcbc88e5.webp 760w,
+               /en/project/stepik/image/10_hu_b7e8ea89109c2b2.webp 1200w"
+               src="/en/project/stepik/image/10_hu_b122a157ada2f55c.webp"
+               width="760"
+               height="350"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-145">Задание 1.4.5</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/11_hu_f1ea65e55b13169.webp 400w,
+               /en/project/stepik/image/11_hu_e5e558ac92eeea09.webp 760w,
+               /en/project/stepik/image/11_hu_53d03e9ee95df353.webp 1200w"
+               src="/en/project/stepik/image/11_hu_f1ea65e55b13169.webp"
+               width="760"
+               height="353"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-147">Задание 1.4.7</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/12_hu_7b0d32359791fe45.webp 400w,
+               /en/project/stepik/image/12_hu_54d9668f4cbbf9c7.webp 760w,
+               /en/project/stepik/image/12_hu_59752f28fbc8810e.webp 1200w"
+               src="/en/project/stepik/image/12_hu_7b0d32359791fe45.webp"
+               width="760"
+               height="518"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-1410">Задание 1.4.10</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/13_hu_59150dea4556972f.webp 400w,
+               /en/project/stepik/image/13_hu_8ec527aa6b2c5485.webp 760w,
+               /en/project/stepik/image/13_hu_9de81bec140d3b2b.webp 1200w"
+               src="/en/project/stepik/image/13_hu_59150dea4556972f.webp"
+               width="760"
+               height="447"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-1412">Задание 1.4.12</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/14_hu_1b273a22cdea6d22.webp 400w,
+               /en/project/stepik/image/14_hu_9106d3e52a73db55.webp 760w,
+               /en/project/stepik/image/14_hu_d72faff63cd2caf9.webp 1200w"
+               src="/en/project/stepik/image/14_hu_1b273a22cdea6d22.webp"
+               width="760"
+               height="349"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p><strong>После просмотра запуска исполняемых файлов, мне нужно было ответить на следующие тестовые вопросы:</strong></p>
+<h1 id="задание-153">Задание 1.5.3</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/15_hu_3634985a63e59315.webp 400w,
+               /en/project/stepik/image/15_hu_4c6d96a5bbc451fe.webp 760w,
+               /en/project/stepik/image/15_hu_ec20a6e5826720fb.webp 1200w"
+               src="/en/project/stepik/image/15_hu_3634985a63e59315.webp"
+               width="760"
+               height="398"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-156">Задание 1.5.6</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/16_hu_8e9594a949f0ae45.webp 400w,
+               /en/project/stepik/image/16_hu_107ff4d2036a5f46.webp 760w,
+               /en/project/stepik/image/16_hu_4520dfac545642a9.webp 1200w"
+               src="/en/project/stepik/image/16_hu_8e9594a949f0ae45.webp"
+               width="760"
+               height="319"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-157">Задание 1.5.7</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/17_hu_4c662d0d272e0e03.webp 400w,
+               /en/project/stepik/image/17_hu_8a976ed301bf3575.webp 760w,
+               /en/project/stepik/image/17_hu_71bef7132d63c7e9.webp 1200w"
+               src="/en/project/stepik/image/17_hu_4c662d0d272e0e03.webp"
+               width="760"
+               height="333"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p><strong>После просмотра ввода/вывода, мне нужно было ответить на следующие тестовые вопросы:</strong></p>
+<h1 id="задание-164">Задание 1.6.4</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/18_hu_9c090db685086a49.webp 400w,
+               /en/project/stepik/image/18_hu_dd9037ae7441a73d.webp 760w,
+               /en/project/stepik/image/18_hu_8a6382684de41b0e.webp 1200w"
+               src="/en/project/stepik/image/18_hu_9c090db685086a49.webp"
+               width="760"
+               height="323"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-165">Задание 1.6.5</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/19_hu_4737150e79bb9822.webp 400w,
+               /en/project/stepik/image/19_hu_e146dc413cd733ee.webp 760w,
+               /en/project/stepik/image/19_hu_47ecfde9a9de5491.webp 1200w"
+               src="/en/project/stepik/image/19_hu_4737150e79bb9822.webp"
+               width="760"
+               height="388"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-168">Задание 1.6.8</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/20_hu_15a458c4f9172818.webp 400w,
+               /en/project/stepik/image/20_hu_6391df94b084bfe1.webp 760w,
+               /en/project/stepik/image/20_hu_d750869fe6513ad1.webp 1200w"
+               src="/en/project/stepik/image/20_hu_15a458c4f9172818.webp"
+               width="760"
+               height="388"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p><strong>После просмотра скачивания файлов из интернета, мне нужно было ответить на следующие тестовые вопросы:</strong></p>
+<h1 id="задание-173">Задание 1.7.3</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/21_hu_80cce54207b308d.webp 400w,
+               /en/project/stepik/image/21_hu_ea0ec2aa4373e222.webp 760w,
+               /en/project/stepik/image/21_hu_a41746c502f5e028.webp 1200w"
+               src="/en/project/stepik/image/21_hu_80cce54207b308d.webp"
+               width="760"
+               height="367"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-175">Задание 1.7.5</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/21_hu_80cce54207b308d.webp 400w,
+               /en/project/stepik/image/21_hu_ea0ec2aa4373e222.webp 760w,
+               /en/project/stepik/image/21_hu_a41746c502f5e028.webp 1200w"
+               src="/en/project/stepik/image/21_hu_80cce54207b308d.webp"
+               width="760"
+               height="367"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-177">Задание 1.7.7</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/23_hu_c8a80839588ef7e0.webp 400w,
+               /en/project/stepik/image/23_hu_179cf7bc5081fa53.webp 760w,
+               /en/project/stepik/image/23_hu_cbe1174b285f9fc7.webp 1200w"
+               src="/en/project/stepik/image/23_hu_c8a80839588ef7e0.webp"
+               width="760"
+               height="431"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p><strong>После просмотра работы с архивами, мне нужно было ответить на следующие тестовые вопросы:</strong></p>
+<h1 id="задание-183">Задание 1.8.3</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/24_hu_36cda087b5e487f.webp 400w,
+               /en/project/stepik/image/24_hu_816def6a32d9dc56.webp 760w,
+               /en/project/stepik/image/24_hu_9bc05211f5911911.webp 1200w"
+               src="/en/project/stepik/image/24_hu_36cda087b5e487f.webp"
+               width="760"
+               height="380"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-185">Задание 1.8.5</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/25_hu_1566eb306784a0b1.webp 400w,
+               /en/project/stepik/image/25_hu_2f3b98d650cd663e.webp 760w,
+               /en/project/stepik/image/25_hu_6976d65817a1a901.webp 1200w"
+               src="/en/project/stepik/image/25_hu_1566eb306784a0b1.webp"
+               width="760"
+               height="345"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-187">Задание 1.8.7</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/26_hu_86d3a35543a0c885.webp 400w,
+               /en/project/stepik/image/26_hu_69377aaf64fd15b5.webp 760w,
+               /en/project/stepik/image/26_hu_b9877b1e67d4a39a.webp 1200w"
+               src="/en/project/stepik/image/26_hu_86d3a35543a0c885.webp"
+               width="760"
+               height="362"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p><strong>После просмотра способов поиска файлов и слов, мне нужно было ответить на следующие тестовые вопросы:</strong></p>
+<h1 id="задание-193">Задание 1.9.3</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/27_hu_840f2dc2abf7634c.webp 400w,
+               /en/project/stepik/image/27_hu_986f47fd4ddaad86.webp 760w,
+               /en/project/stepik/image/27_hu_5bc5103e195551c7.webp 1200w"
+               src="/en/project/stepik/image/27_hu_840f2dc2abf7634c.webp"
+               width="760"
+               height="406"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-195">Задание 1.9.5</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/28_hu_e7dd9623d4e4a1eb.webp 400w,
+               /en/project/stepik/image/28_hu_88760f71218b9244.webp 760w,
+               /en/project/stepik/image/28_hu_dd701890107badfc.webp 1200w"
+               src="/en/project/stepik/image/28_hu_e7dd9623d4e4a1eb.webp"
+               width="760"
+               height="447"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-196">Задание 1.9.6</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/29_hu_bc1a05cb2e36c12e.webp 400w,
+               /en/project/stepik/image/29_hu_4eca8e5b4755325a.webp 760w,
+               /en/project/stepik/image/29_hu_809b497423ccf799.webp 1200w"
+               src="/en/project/stepik/image/29_hu_bc1a05cb2e36c12e.webp"
+               width="760"
+               height="340"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p><strong>Я закончила выполнение первого этапа внешнего курса, приступила к второму этапу.</strong></p>
+<h2 id="этап-2">Этап 2</h2>
+<p>Во втором этапе внешнего курса мне нужно было: познакомиться с сервером, рассмотреть обмен файлами, рассмотреть запуск приложений, рассмотреть контроль запускаемых приложений, познакомиться с многопоточными приложениями, познакомиться с Менеджером терминалов tmux и ответить на тестовые вопросы.</p>
+<p><strong>После знакомства с сервером, мне нужно было ответить на следующие тестовые вопросы:</strong></p>
+<h1 id="задание-213">Задание 2.1.3</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/30_hu_1f6bcacbf88e418e.webp 400w,
+               /en/project/stepik/image/30_hu_a519b1de0faa2c31.webp 760w,
+               /en/project/stepik/image/30_hu_49cb5bb3e7916106.webp 1200w"
+               src="/en/project/stepik/image/30_hu_1f6bcacbf88e418e.webp"
+               width="760"
+               height="320"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-216">Задание 2.1.6</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/31_hu_1bfc5197ad97b588.webp 400w,
+               /en/project/stepik/image/31_hu_d8fb81dac6da9f85.webp 760w,
+               /en/project/stepik/image/31_hu_6df761e8618df85f.webp 1200w"
+               src="/en/project/stepik/image/31_hu_1bfc5197ad97b588.webp"
+               width="760"
+               height="336"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p><strong>После просмотра обмена файлами, мне нужно было ответить на следующие тестовые вопросы:</strong></p>
+<h1 id="задание-224">Задание 2.2.4</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/32_hu_533a92c8f5a0f5aa.webp 400w,
+               /en/project/stepik/image/32_hu_e183fdb8ccf2f3b7.webp 760w,
+               /en/project/stepik/image/32_hu_39d24152cc347b3.webp 1200w"
+               src="/en/project/stepik/image/32_hu_533a92c8f5a0f5aa.webp"
+               width="760"
+               height="315"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-226">Задание 2.2.6</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/33_hu_953164f24aa2c8a8.webp 400w,
+               /en/project/stepik/image/33_hu_73de7581734592c1.webp 760w,
+               /en/project/stepik/image/33_hu_92b3e15705638ee5.webp 1200w"
+               src="/en/project/stepik/image/33_hu_953164f24aa2c8a8.webp"
+               width="760"
+               height="341"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-228">Задание 2.2.8</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/34_hu_518a82de0b290515.webp 400w,
+               /en/project/stepik/image/34_hu_cd167b6c29017c00.webp 760w,
+               /en/project/stepik/image/34_hu_bf7dc1dc3e29f4ec.webp 1200w"
+               src="/en/project/stepik/image/34_hu_518a82de0b290515.webp"
+               width="760"
+               height="327"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p><strong>После просмотра запуска приложений, мне нужно было ответить на следующие тестовые вопросы:</strong></p>
+<h1 id="задание-234">Задание 2.3.4</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/35_hu_83bc28a0ae56e513.webp 400w,
+               /en/project/stepik/image/35_hu_f8543d4f4b033b30.webp 760w,
+               /en/project/stepik/image/35_hu_b3aea63670bb3c05.webp 1200w"
+               src="/en/project/stepik/image/35_hu_83bc28a0ae56e513.webp"
+               width="760"
+               height="318"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-236">Задание 2.3.6</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/36_hu_5be5086feaf07efd.webp 400w,
+               /en/project/stepik/image/36_hu_30f780a3db7afefe.webp 760w,
+               /en/project/stepik/image/36_hu_b822478b766278a9.webp 1200w"
+               src="/en/project/stepik/image/36_hu_5be5086feaf07efd.webp"
+               width="760"
+               height="369"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-237">Задание 2.3.7</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/37_hu_f50697acdbcf4dca.webp 400w,
+               /en/project/stepik/image/37_hu_1e44e4900b9b48e2.webp 760w,
+               /en/project/stepik/image/37_hu_8af7c48b11184492.webp 1200w"
+               src="/en/project/stepik/image/37_hu_f50697acdbcf4dca.webp"
+               width="755"
+               height="535"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-238">Задание 2.3.8</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/38_hu_692a879059a5bf2c.webp 400w,
+               /en/project/stepik/image/38_hu_95000e4432ddbced.webp 760w,
+               /en/project/stepik/image/38_hu_de42986a4d70a859.webp 1200w"
+               src="/en/project/stepik/image/38_hu_692a879059a5bf2c.webp"
+               width="760"
+               height="489"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p><strong>После просмотра контроля запускаемых приложений, мне нужно было ответить на следующие тестовые вопросы:</strong></p>
+<h1 id="задание-245">Задание 2.4.5</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/39_hu_4f41e08247d97dc3.webp 400w,
+               /en/project/stepik/image/39_hu_c2ff852221a332f0.webp 760w,
+               /en/project/stepik/image/39_hu_87fe9b3c763678f0.webp 1200w"
+               src="/en/project/stepik/image/39_hu_4f41e08247d97dc3.webp"
+               width="760"
+               height="438"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-248">Задание 2.4.8</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/40_hu_2a5ac60bf2a52ef2.webp 400w,
+               /en/project/stepik/image/40_hu_b3519c6c4ec1d953.webp 760w,
+               /en/project/stepik/image/40_hu_ad2cb7e61b979faa.webp 1200w"
+               src="/en/project/stepik/image/40_hu_2a5ac60bf2a52ef2.webp"
+               width="760"
+               height="374"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-2410">Задание 2.4.10</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/41_hu_f2774665d88a8018.webp 400w,
+               /en/project/stepik/image/41_hu_539e08aedf90e784.webp 760w,
+               /en/project/stepik/image/41_hu_f456fbddc39bdbb4.webp 1200w"
+               src="/en/project/stepik/image/41_hu_f2774665d88a8018.webp"
+               width="760"
+               height="322"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-2411">Задание 2.4.11</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/42_hu_75c857f9ca40a36b.webp 400w,
+               /en/project/stepik/image/42_hu_891d23881055bdc4.webp 760w,
+               /en/project/stepik/image/42_hu_4eb61543684ee5b9.webp 1200w"
+               src="/en/project/stepik/image/42_hu_75c857f9ca40a36b.webp"
+               width="760"
+               height="343"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p><strong>После знакомства с многопоточными приложениями, мне нужно было ответить на следующие тестовые вопросы:</strong></p>
+<h1 id="задание-257">Задание 2.5.7</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/43_hu_4f2ec11153ed9cb.webp 400w,
+               /en/project/stepik/image/43_hu_93b1b797fc53c323.webp 760w,
+               /en/project/stepik/image/43_hu_eb359f5bbac1e5f4.webp 1200w"
+               src="/en/project/stepik/image/43_hu_4f2ec11153ed9cb.webp"
+               width="760"
+               height="506"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-258">Задание 2.5.8</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/44_hu_c6f93ffe29c45647.webp 400w,
+               /en/project/stepik/image/44_hu_6c4ab65a21c09d3c.webp 760w,
+               /en/project/stepik/image/44_hu_de9a3c85702480e1.webp 1200w"
+               src="/en/project/stepik/image/44_hu_c6f93ffe29c45647.webp"
+               width="760"
+               height="460"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-259">Задание 2.5.9</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/45_hu_64c69d8782b04f97.webp 400w,
+               /en/project/stepik/image/45_hu_c520fede7a915079.webp 760w,
+               /en/project/stepik/image/45_hu_9b0a18f0c537fe8c.webp 1200w"
+               src="/en/project/stepik/image/45_hu_64c69d8782b04f97.webp"
+               width="760"
+               height="444"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-2512">Задание 2.5.12</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/46_hu_bee0cd1f88ae1860.webp 400w,
+               /en/project/stepik/image/46_hu_95b33a2dcc95bce6.webp 760w,
+               /en/project/stepik/image/46_hu_f277da1939675383.webp 1200w"
+               src="/en/project/stepik/image/46_hu_bee0cd1f88ae1860.webp"
+               width="760"
+               height="403"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-2513">Задание 2.5.13</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/47_hu_520771d93b1a8e9e.webp 400w,
+               /en/project/stepik/image/47_hu_81d790df423d094b.webp 760w,
+               /en/project/stepik/image/47_hu_39b94bb055a00f00.webp 1200w"
+               src="/en/project/stepik/image/47_hu_520771d93b1a8e9e.webp"
+               width="760"
+               height="550"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p><strong>После знакомства с Менеджером терминалов tmux, мне нужно было ответить на следующие тестовые вопросы:</strong></p>
+<h1 id="задание-265">Задание 2.6.5</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/48_hu_340d1b7a94df5ae0.webp 400w,
+               /en/project/stepik/image/48_hu_52e6a14ca3e422ff.webp 760w,
+               /en/project/stepik/image/48_hu_d8bd53a0fb1aa217.webp 1200w"
+               src="/en/project/stepik/image/48_hu_340d1b7a94df5ae0.webp"
+               width="760"
+               height="365"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-2610">Задание 2.6.10</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/49_hu_fb1d4e68a488afc8.webp 400w,
+               /en/project/stepik/image/49_hu_61e93cece981f481.webp 760w,
+               /en/project/stepik/image/49_hu_d987ce126c06a517.webp 1200w"
+               src="/en/project/stepik/image/49_hu_fb1d4e68a488afc8.webp"
+               width="760"
+               height="347"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-2614">Задание 2.6.14</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/50_hu_cd0af7b3bcc65b14.webp 400w,
+               /en/project/stepik/image/50_hu_63cf11afc95f5ccf.webp 760w,
+               /en/project/stepik/image/50_hu_30c231865bb169a1.webp 1200w"
+               src="/en/project/stepik/image/50_hu_cd0af7b3bcc65b14.webp"
+               width="760"
+               height="382"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-2615">Задание 2.6.15</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/51_hu_d6c42db5343fa526.webp 400w,
+               /en/project/stepik/image/51_hu_6df133ee831a2163.webp 760w,
+               /en/project/stepik/image/51_hu_53e19970d044490a.webp 1200w"
+               src="/en/project/stepik/image/51_hu_d6c42db5343fa526.webp"
+               width="755"
+               height="357"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-2618">Задание 2.6.18</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/52_hu_ed7ee2875e7418a0.webp 400w,
+               /en/project/stepik/image/52_hu_d9fa1472b09cba0e.webp 760w,
+               /en/project/stepik/image/52_hu_23eb47b73d803c54.webp 1200w"
+               src="/en/project/stepik/image/52_hu_ed7ee2875e7418a0.webp"
+               width="751"
+               height="428"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-2619">Задание 2.6.19</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/53_hu_190622b1540e24ca.webp 400w,
+               /en/project/stepik/image/53_hu_19463d7b9632eb78.webp 760w,
+               /en/project/stepik/image/53_hu_a352f54faa9b1673.webp 1200w"
+               src="/en/project/stepik/image/53_hu_190622b1540e24ca.webp"
+               width="591"
+               height="475"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p><strong>Я закончила выполнение второго этапа внешнего курса, приступила к третьему этапу.</strong></p>
+<h2 id="этап-3">Этап 3</h2>
+<p>В третьем этапе внешнего курса мне нужно было: познакомиться с Текстовым редактор vim, познакомиться с основами скриптов на bash, изучить скрипты на bash: ветвления и циклы, изучить скрипты на bash: разное, изучить продвинутый поиск и редактирование, изучить построение графиков в gnuplot, изучить пункт Разное и ответить на тестовые вопросы.</p>
+<p><strong>После знакомства с Текстовым редактор vim, мне нужно было ответить на следующие тестовые вопросы:</strong></p>
+<h1 id="задание-315">Задание 3.1.5</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/54_hu_1bfcad9666f691ca.webp 400w,
+               /en/project/stepik/image/54_hu_80ec6dc8467d8494.webp 760w,
+               /en/project/stepik/image/54_hu_90b0619bf6c3be40.webp 1200w"
+               src="/en/project/stepik/image/54_hu_1bfcad9666f691ca.webp"
+               width="760"
+               height="396"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-317">Задание 3.1.7</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/55_hu_8cbf1648ceb4d2d6.webp 400w,
+               /en/project/stepik/image/55_hu_358c14d2e9b978a7.webp 760w,
+               /en/project/stepik/image/55_hu_f68cb4789e66ef1f.webp 1200w"
+               src="/en/project/stepik/image/55_hu_8cbf1648ceb4d2d6.webp"
+               width="633"
+               height="499"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-318">Задание 3.1.8</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/56_hu_ef42c7187e052d3f.webp 400w,
+               /en/project/stepik/image/56_hu_c61b58f3ce46c18b.webp 760w,
+               /en/project/stepik/image/56_hu_2c53bdab429a0309.webp 1200w"
+               src="/en/project/stepik/image/56_hu_ef42c7187e052d3f.webp"
+               width="760"
+               height="550"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-3110">Задание 3.1.10</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/57_hu_c9f7e4d9ec310a9.webp 400w,
+               /en/project/stepik/image/57_hu_7f56108ca98575db.webp 760w,
+               /en/project/stepik/image/57_hu_f5d1a5c09181b85e.webp 1200w"
+               src="/en/project/stepik/image/57_hu_c9f7e4d9ec310a9.webp"
+               width="728"
+               height="429"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-3111">Задание 3.1.11</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/58_hu_fc51b96193df5e23.webp 400w,
+               /en/project/stepik/image/58_hu_99106f53c7184571.webp 760w,
+               /en/project/stepik/image/58_hu_105f06af855869ef.webp 1200w"
+               src="/en/project/stepik/image/58_hu_fc51b96193df5e23.webp"
+               width="760"
+               height="515"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p><strong>После знакомства с основами скриптов на bash, мне нужно было ответить на следующие тестовые вопросы:</strong></p>
+<h1 id="задание-323">Задание 3.2.3</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/59_hu_f4c379158139e427.webp 400w,
+               /en/project/stepik/image/59_hu_669a07b9bc6216ad.webp 760w,
+               /en/project/stepik/image/59_hu_ae2d2a84a39dc944.webp 1200w"
+               src="/en/project/stepik/image/59_hu_f4c379158139e427.webp"
+               width="760"
+               height="449"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-325">Задание 3.2.5</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/60_hu_4e3eb028e95ac420.webp 400w,
+               /en/project/stepik/image/60_hu_801168ce905f2f89.webp 760w,
+               /en/project/stepik/image/60_hu_4b169b08af93054a.webp 1200w"
+               src="/en/project/stepik/image/60_hu_4e3eb028e95ac420.webp"
+               width="760"
+               height="490"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-327">Задание 3.2.7</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/61_hu_fb597d297c62294.webp 400w,
+               /en/project/stepik/image/61_hu_878de1107a19b033.webp 760w,
+               /en/project/stepik/image/61_hu_a2339536129ff16f.webp 1200w"
+               src="/en/project/stepik/image/61_hu_fb597d297c62294.webp"
+               width="760"
+               height="499"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-3210">Задание 3.2.10</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/62_hu_32fbda0803b694a7.webp 400w,
+               /en/project/stepik/image/62_hu_ac54be38ebc02a84.webp 760w,
+               /en/project/stepik/image/62_hu_3ee151969308f4b3.webp 1200w"
+               src="/en/project/stepik/image/62_hu_32fbda0803b694a7.webp"
+               width="602"
+               height="462"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p><strong>После изучения скриптов на bash: ветвления и циклы, мне нужно было ответить на следующие тестовые вопросы:</strong></p>
+<h1 id="задание-333">Задание 3.3.3</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/63_hu_da3f4682f3a1f8a4.webp 400w,
+               /en/project/stepik/image/63_hu_b4bb386336e515e5.webp 760w,
+               /en/project/stepik/image/63_hu_673a01608a870654.webp 1200w"
+               src="/en/project/stepik/image/63_hu_da3f4682f3a1f8a4.webp"
+               width="592"
+               height="569"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-335">Задание 3.3.5</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/64_hu_ffef6e7fad9c7787.webp 400w,
+               /en/project/stepik/image/64_hu_37058f021c70e79e.webp 760w,
+               /en/project/stepik/image/64_hu_1a5bc70c96137571.webp 1200w"
+               src="/en/project/stepik/image/64_hu_ffef6e7fad9c7787.webp"
+               width="609"
+               height="485"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-336">Задание 3.3.6</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/65_hu_a70468abcff535f0.webp 400w,
+               /en/project/stepik/image/65_hu_66725de6bbf037dc.webp 760w,
+               /en/project/stepik/image/65_hu_7aa7574d173f9990.webp 1200w"
+               src="/en/project/stepik/image/65_hu_a70468abcff535f0.webp"
+               width="602"
+               height="577"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-338">Задание 3.3.8</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/66_hu_c72ddb605975c0c2.webp 400w,
+               /en/project/stepik/image/66_hu_99bfb9f7b5ed5b86.webp 760w,
+               /en/project/stepik/image/66_hu_9e299581557e551a.webp 1200w"
+               src="/en/project/stepik/image/66_hu_c72ddb605975c0c2.webp"
+               width="575"
+               height="429"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-339">Задание 3.3.9</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/67_hu_c7cb6f6f8dbf2743.webp 400w,
+               /en/project/stepik/image/67_hu_9cbbd09478a5e272.webp 760w,
+               /en/project/stepik/image/67_hu_8f9985403ad0afed.webp 1200w"
+               src="/en/project/stepik/image/67_hu_c7cb6f6f8dbf2743.webp"
+               width="729"
+               height="537"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p><strong>После изучения скриптов на bash: разное, мне нужно было ответить на следующие тестовые вопросы:</strong></p>
+<h1 id="задание-343">Задание 3.4.3</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/68_hu_503bf626fea15ac7.webp 400w,
+               /en/project/stepik/image/68_hu_533837108eae415c.webp 760w,
+               /en/project/stepik/image/68_hu_1b10fe21fa219579.webp 1200w"
+               src="/en/project/stepik/image/68_hu_503bf626fea15ac7.webp"
+               width="760"
+               height="532"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-345">Задание 3.4.5</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/69_hu_387db27618f9098e.webp 400w,
+               /en/project/stepik/image/69_hu_ea90609c71e1f1a3.webp 760w,
+               /en/project/stepik/image/69_hu_193a4f0a1bcf4d1c.webp 1200w"
+               src="/en/project/stepik/image/69_hu_387db27618f9098e.webp"
+               width="760"
+               height="521"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-346">Задание 3.4.6</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/70_hu_5722a53fa33fc832.webp 400w,
+               /en/project/stepik/image/70_hu_d53168b220f41726.webp 760w,
+               /en/project/stepik/image/70_hu_3d331e4f8fbdaa7f.webp 1200w"
+               src="/en/project/stepik/image/70_hu_5722a53fa33fc832.webp"
+               width="760"
+               height="530"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-348">Задание 3.4.8</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/71_hu_a9a660dfd0794772.webp 400w,
+               /en/project/stepik/image/71_hu_395f9ba5480017ac.webp 760w,
+               /en/project/stepik/image/71_hu_d78a9e4c38b532a0.webp 1200w"
+               src="/en/project/stepik/image/71_hu_a9a660dfd0794772.webp"
+               width="610"
+               height="521"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-349">Задание 3.4.9</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/72_hu_a9a0ac0edf979b03.webp 400w,
+               /en/project/stepik/image/72_hu_4c16f64aa3e43cdd.webp 760w,
+               /en/project/stepik/image/72_hu_7dbe1007e866d93.webp 1200w"
+               src="/en/project/stepik/image/72_hu_a9a0ac0edf979b03.webp"
+               width="741"
+               height="561"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-3410">Задание 3.4.10</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/73_hu_c79c27362309de5f.webp 400w,
+               /en/project/stepik/image/73_hu_19e83fb0a50dbe57.webp 760w,
+               /en/project/stepik/image/73_hu_2dc5d26c2c05034b.webp 1200w"
+               src="/en/project/stepik/image/73_hu_c79c27362309de5f.webp"
+               width="760"
+               height="515"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p><strong>После изучения продвинутого поиска и редактирования, мне нужно было ответить на следующие тестовые вопросы:</strong></p>
+<h1 id="задание-353">Задание 3.5.3</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/74_hu_42cf1d1c9eceec25.webp 400w,
+               /en/project/stepik/image/74_hu_59cfc27b5663938.webp 760w,
+               /en/project/stepik/image/74_hu_ef3b259a00d4eea7.webp 1200w"
+               src="/en/project/stepik/image/74_hu_42cf1d1c9eceec25.webp"
+               width="760"
+               height="472"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-354">Задание 3.5.4</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/75_hu_2eeb6b3ef45d7838.webp 400w,
+               /en/project/stepik/image/75_hu_71af55630067d78c.webp 760w,
+               /en/project/stepik/image/75_hu_fdbd1dcbc14597a5.webp 1200w"
+               src="/en/project/stepik/image/75_hu_2eeb6b3ef45d7838.webp"
+               width="760"
+               height="475"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-355">Задание 3.5.5</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/76_hu_a38a26abc6cfd2d5.webp 400w,
+               /en/project/stepik/image/76_hu_83a0db18a31ed268.webp 760w,
+               /en/project/stepik/image/76_hu_2c35be335afa3b08.webp 1200w"
+               src="/en/project/stepik/image/76_hu_a38a26abc6cfd2d5.webp"
+               width="760"
+               height="435"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-357">Задание 3.5.7</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/77_hu_31906511be5eccfc.webp 400w,
+               /en/project/stepik/image/77_hu_22d1a2ba42a57406.webp 760w,
+               /en/project/stepik/image/77_hu_454c7d221ae6ede8.webp 1200w"
+               src="/en/project/stepik/image/77_hu_31906511be5eccfc.webp"
+               width="760"
+               height="435"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-359">Задание 3.5.9</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/78_hu_9e86084ccd71aa3a.webp 400w,
+               /en/project/stepik/image/78_hu_7bee89e43ac0458c.webp 760w,
+               /en/project/stepik/image/78_hu_52f16486ce3afa4b.webp 1200w"
+               src="/en/project/stepik/image/78_hu_9e86084ccd71aa3a.webp"
+               width="760"
+               height="387"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-3511">Задание 3.5.11</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/79_hu_66e8ad2369caf9c6.webp 400w,
+               /en/project/stepik/image/79_hu_1b43934cdad521f9.webp 760w,
+               /en/project/stepik/image/79_hu_c6bf97ec4e9a0f1c.webp 1200w"
+               src="/en/project/stepik/image/79_hu_66e8ad2369caf9c6.webp"
+               width="760"
+               height="384"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-3512">Задание 3.5.12</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/80_hu_c70cf1e343000295.webp 400w,
+               /en/project/stepik/image/80_hu_d187604e9ea3d816.webp 760w,
+               /en/project/stepik/image/80_hu_3938ecf3dca2ae73.webp 1200w"
+               src="/en/project/stepik/image/80_hu_c70cf1e343000295.webp"
+               width="760"
+               height="275"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p><strong>После изучения построения графиков в gnuplot, мне нужно было ответить на следующие тестовые вопросы:</strong></p>
+<h1 id="задание-363">Задание 3.6.3</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/81_hu_4d0a75b178aad120.webp 400w,
+               /en/project/stepik/image/81_hu_9436c5e4ebf30f4e.webp 760w,
+               /en/project/stepik/image/81_hu_2bc445e4668f73d.webp 1200w"
+               src="/en/project/stepik/image/81_hu_4d0a75b178aad120.webp"
+               width="760"
+               height="434"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-365">Задание 3.6.5</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/82_hu_2e916f7ccf756368.webp 400w,
+               /en/project/stepik/image/82_hu_ca5953a806bc09fe.webp 760w,
+               /en/project/stepik/image/82_hu_7e07a1475067bca5.webp 1200w"
+               src="/en/project/stepik/image/82_hu_2e916f7ccf756368.webp"
+               width="760"
+               height="377"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-367">Задание 3.6.7</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/83_hu_b34a1ddc1da6e89e.webp 400w,
+               /en/project/stepik/image/83_hu_eecd5187247c1ac.webp 760w,
+               /en/project/stepik/image/83_hu_b446a1876dd0e18f.webp 1200w"
+               src="/en/project/stepik/image/83_hu_b34a1ddc1da6e89e.webp"
+               width="760"
+               height="261"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-3610">Задание 3.6.10</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/84_hu_e3eb1ede9ae42239.webp 400w,
+               /en/project/stepik/image/84_hu_36daf386f3aa253b.webp 760w,
+               /en/project/stepik/image/84_hu_81f844f3363b70a1.webp 1200w"
+               src="/en/project/stepik/image/84_hu_e3eb1ede9ae42239.webp"
+               width="760"
+               height="346"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p><strong>После изучения пункта Разное, мне нужно было ответить на следующие тестовые вопросы:</strong></p>
+<h1 id="задание-374">Задание 3.7.4</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/84_hu_e3eb1ede9ae42239.webp 400w,
+               /en/project/stepik/image/84_hu_36daf386f3aa253b.webp 760w,
+               /en/project/stepik/image/84_hu_81f844f3363b70a1.webp 1200w"
+               src="/en/project/stepik/image/84_hu_e3eb1ede9ae42239.webp"
+               width="760"
+               height="346"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-375">Задание 3.7.5</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/84_hu_e3eb1ede9ae42239.webp 400w,
+               /en/project/stepik/image/84_hu_36daf386f3aa253b.webp 760w,
+               /en/project/stepik/image/84_hu_81f844f3363b70a1.webp 1200w"
+               src="/en/project/stepik/image/84_hu_e3eb1ede9ae42239.webp"
+               width="760"
+               height="346"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-377">Задание 3.7.7</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/84_hu_e3eb1ede9ae42239.webp 400w,
+               /en/project/stepik/image/84_hu_36daf386f3aa253b.webp 760w,
+               /en/project/stepik/image/84_hu_81f844f3363b70a1.webp 1200w"
+               src="/en/project/stepik/image/84_hu_e3eb1ede9ae42239.webp"
+               width="760"
+               height="346"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-378">Задание 3.7.8</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/84_hu_e3eb1ede9ae42239.webp 400w,
+               /en/project/stepik/image/84_hu_36daf386f3aa253b.webp 760w,
+               /en/project/stepik/image/84_hu_81f844f3363b70a1.webp 1200w"
+               src="/en/project/stepik/image/84_hu_e3eb1ede9ae42239.webp"
+               width="760"
+               height="346"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h1 id="задание-3710">Задание 3.7.10</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/84_hu_e3eb1ede9ae42239.webp 400w,
+               /en/project/stepik/image/84_hu_36daf386f3aa253b.webp 760w,
+               /en/project/stepik/image/84_hu_81f844f3363b70a1.webp 1200w"
+               src="/en/project/stepik/image/84_hu_e3eb1ede9ae42239.webp"
+               width="760"
+               height="346"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h2 id="итог">Итог</h2>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/90_hu_ca110736dea4aed7.webp 400w,
+               /en/project/stepik/image/90_hu_4a55bf4d2566e2c3.webp 760w,
+               /en/project/stepik/image/90_hu_8cec28791f1f0b31.webp 1200w"
+               src="/en/project/stepik/image/90_hu_ca110736dea4aed7.webp"
+               width="486"
+               height="411"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p><strong>Я закончила прохождение внешнего курса и получила сертификат с отличием</strong></p>
+<h2 id="вывод">Вывод</h2>
+<p>Я познакомилась с операционной системой Linux и её базовыми возможностями. </p>
+<h2 id="список-литературы">Список литературы</h2>
+<ol>
+<li><a href="http://rus-linux.net/" target="_blank" rel="noopener">http://rus-linux.net/</a>  &ndash; виртуальная энциклопедия ﻿Linux ﻿</li>
+<li>﻿http://www.f-notes.info/linux:linux_command &ndash; довольно обширный список полезных команд терминала.</li>
+<li>﻿http://ru.najomi.org/_nix &ndash; полезные примеры использования команд терминала</li>
+<li>﻿http://forum.ubuntu.ru/ &ndash; форум русскоязычного сообщества Ubuntu.</li>
+<li><a href="http://ru.najomi.org/vim" target="_blank" rel="noopener">http://ru.najomi.org/vim</a> &ndash; команды vim</li>
+<li>﻿http://lib.ru/LINUXGUIDE/torvalds_jast_for_fun.txt &ndash; книга создателя Linux Линуса Торвальдса &ldquo;Just for fun&rdquo;.</li>
+</ol>
+<h2 id="мой-сертификат">Мой сертификат</h2>
+<p>Ссылка: <a href="https://stepik.org/cert/2791854" target="_blank" rel="noopener">https://stepik.org/cert/2791854</a></p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="" srcset="
+               /en/project/stepik/image/1_hu_82ad71534b974804.webp 400w,
+               /en/project/stepik/image/1_hu_9488d3c12ff3b76d.webp 760w,
+               /en/project/stepik/image/1_hu_b6d4e9079a926d35.webp 1200w"
+               src="/en/project/stepik/image/1_hu_82ad71534b974804.webp"
+               width="760"
+               height="545"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h2 id="видео-на-прохождение">Видео на прохождение</h2>
+<p>Также моё прохождение внешнего курса Вы можете посмотреть на моих каналах:</p>
+<p><strong>Rutube:</strong> <a href="https://rutube.ru/channel/57162217/" target="_blank" rel="noopener">https://rutube.ru/channel/57162217/</a></p>
+<p><strong>plvideo:</strong> <a href="https://plvideo.ru/@0Z9TEc1ngakg" target="_blank" rel="noopener">https://plvideo.ru/@0Z9TEc1ngakg</a></p>
+
+      </div>
+
+      
+  <time class="mt-12 mb-8 block text-xs text-gray-500 ltr:text-right rtl:text-left dark:text-gray-400" datetime="2025-03-24T00:00:00.000Z">
+    <span>Last updated on</span>
+    Mar 24, 2025</time>
+
+      <div class="container mx-auto prose prose-slate lg:prose-xl dark:prose-invert mt-5">
+        
+        <div class="max-w-prose print:hidden">
+  
+  
+
+  
+
+<div class="flex justify-center">
+  
+  <a class="no-underline bg-primary-100 hover:bg-primary-300 text-primary-800 text-xs font-medium mr-2 px-2.5 py-0.5 lg:px-5 lg:py-2 rounded dark:bg-primary-900 dark:hover:bg-primary-700 dark:text-primary-300" href="/en/tags/%D0%B2%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B9-%D0%BA%D1%83%D1%80%D1%81/">Внешний Курс</a>
+  
+  <a class="no-underline bg-primary-100 hover:bg-primary-300 text-primary-800 text-xs font-medium mr-2 px-2.5 py-0.5 lg:px-5 lg:py-2 rounded dark:bg-primary-900 dark:hover:bg-primary-700 dark:text-primary-300" href="/en/tags/stepik/">Stepik</a>
+  
+</div>
+
+
+  
+<section class="flex flex-row flex-wrap justify-center pt-4 text-xl">
+  
+
+  
+  
+  
+  
+  
+  
+  <a
+    target="_blank" rel="noopener"
+    class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
+    href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fmigolovina.github.io%2Fen%2Fproject%2Fstepik%2F&amp;text=%D0%9F%D1%80%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5&#43;%D0%B2%D0%BD%D0%B5%D1%88%D0%BD%D0%B5%D0%B3%D0%BE&#43;%D0%BA%D1%83%D1%80%D1%81%D0%B0&#43;%D0%BD%D0%B0&#43;Stepik&#43;%28%22%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5&#43;%D0%B2&#43;Linux%22%29"
+    title="X"
+    aria-label="X"
+    id="share-link-x"
+  >
+    <svg style="height: 1em;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"/></svg>
+  </a>
+  
+
+  
+  
+  
+  
+  
+  
+  <a
+    target="_blank" rel="noopener"
+    class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
+    href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fmigolovina.github.io%2Fen%2Fproject%2Fstepik%2F&amp;t=%D0%9F%D1%80%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5&#43;%D0%B2%D0%BD%D0%B5%D1%88%D0%BD%D0%B5%D0%B3%D0%BE&#43;%D0%BA%D1%83%D1%80%D1%81%D0%B0&#43;%D0%BD%D0%B0&#43;Stepik&#43;%28%22%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5&#43;%D0%B2&#43;Linux%22%29"
+    title="Facebook"
+    aria-label="Facebook"
+    id="share-link-facebook"
+  >
+    <svg style="height: 1em;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="currentColor" d="M22 12c0-5.52-4.48-10-10-10S2 6.48 2 12c0 4.84 3.44 8.87 8 9.8V15H8v-3h2V9.5C10 7.57 11.57 6 13.5 6H16v3h-2c-.55 0-1 .45-1 1v2h3v3h-3v6.95c5.05-.5 9-4.76 9-9.95z"/></svg>
+  </a>
+  
+
+  
+  
+  
+  
+  
+  
+    
+  
+  <a
+    target="_blank" rel="noopener"
+    class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
+    href="mailto:?subject=%D0%9F%D1%80%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%D0%BD%D0%B5%D1%88%D0%BD%D0%B5%D0%B3%D0%BE%20%D0%BA%D1%83%D1%80%D1%81%D0%B0%20%D0%BD%D0%B0%20Stepik%20%28%22%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20Linux%22%29&amp;body=https%3A%2F%2Fmigolovina.github.io%2Fen%2Fproject%2Fstepik%2F"
+    title="Email"
+    aria-label="Email"
+    id="share-link-email"
+  >
+    <svg style="height: 1em;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="1.5" d="M16.5 12a4.5 4.5 0 1 1-9 0a4.5 4.5 0 0 1 9 0Zm0 0c0 1.657 1.007 3 2.25 3S21 13.657 21 12a9 9 0 1 0-2.636 6.364M16.5 12V8.25"/></svg>
+  </a>
+  
+
+  
+  
+  
+  
+  
+  
+  <a
+    target="_blank" rel="noopener"
+    class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
+    href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fmigolovina.github.io%2Fen%2Fproject%2Fstepik%2F&amp;title=%D0%9F%D1%80%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5&#43;%D0%B2%D0%BD%D0%B5%D1%88%D0%BD%D0%B5%D0%B3%D0%BE&#43;%D0%BA%D1%83%D1%80%D1%81%D0%B0&#43;%D0%BD%D0%B0&#43;Stepik&#43;%28%22%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5&#43;%D0%B2&#43;Linux%22%29"
+    title="LinkedIn"
+    aria-label="LinkedIn"
+    id="share-link-linkedin"
+  >
+    <svg style="height: 1em;" xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><path fill="currentColor" d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"/></svg>
+  </a>
+  
+
+  
+  
+  
+  
+  
+  
+  <a
+    target="_blank" rel="noopener"
+    class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
+    href="whatsapp://send?text=%D0%9F%D1%80%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5&#43;%D0%B2%D0%BD%D0%B5%D1%88%D0%BD%D0%B5%D0%B3%D0%BE&#43;%D0%BA%D1%83%D1%80%D1%81%D0%B0&#43;%D0%BD%D0%B0&#43;Stepik&#43;%28%22%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5&#43;%D0%B2&#43;Linux%22%29%20https%3A%2F%2Fmigolovina.github.io%2Fen%2Fproject%2Fstepik%2F"
+    title="WhatsApp"
+    aria-label="WhatsApp"
+    id="share-link-whatsapp"
+  >
+    <svg style="height: 1em;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" fill="currentColor"><path d="m187.58 144.84-32-16a8 8 0 0 0-8 .5l-14.69 9.8a40.55 40.55 0 0 1-16-16l9.8-14.69a8 8 0 0 0 .5-8l-16-32A8 8 0 0 0 104 64a40 40 0 0 0-40 40 88.1 88.1 0 0 0 88 88 40 40 0 0 0 40-40 8 8 0 0 0-4.42-7.16ZM152 176a72.08 72.08 0 0 1-72-72 24 24 0 0 1 19.29-23.54l11.48 23L101 118a8 8 0 0 0-.73 7.51 56.47 56.47 0 0 0 30.15 30.15A8 8 0 0 0 138 155l14.61-9.74 23 11.48A24 24 0 0 1 152 176ZM128 24a104 104 0 0 0-91.82 152.88l-11.35 34.05a16 16 0 0 0 20.24 20.24l34.05-11.35A104 104 0 1 0 128 24Zm0 192a87.87 87.87 0 0 1-44.06-11.81 8 8 0 0 0-6.54-.67L40 216l12.47-37.4a8 8 0 0 0-.66-6.54A88 88 0 1 1 128 216Z"/></svg>
+  </a>
+  
+</section>
+
+
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+  
+  
+    
+    
+    
+      
+      
+    
+<div class="pt-1 no-prose w-full">
+  <hr class="border-dotted border-neutral-300 dark:border-neutral-600" />
+  <div class="flex flex-col md:flex-row flex-nowrap justify-between gap-5 pt-2">
+    <div class="">
+      
+        <a class="group flex no-underline" href="/en/project/generation/">
+          <span
+            class="mt-[-0.3rem] me-2 text-neutral-700 transition-transform group-hover:-translate-x-[2px] group-hover:text-primary-600 dark:text-neutral dark:group-hover:text-primary-400"
+          ><span class="ltr:inline rtl:hidden">&larr;</span></span>
+          <span class="flex flex-col">
+            <span
+              class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
+            >Secure Password Generator</span>
+            <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
+              
+                May 7, 2025
+              
+            </span>
+          </span>
+        </a>
+      
+    </div>
+    <div class="">
+      
+    </div>
+  </div>
+</div>
+
+
+
+  
+
+
+  
+
+
+
+</div>
+
+      </div>
+
+    </main>
+  </article>
+</div>
+
+    </div>
+    <div class="page-footer">
+      <footer class="container mx-auto flex flex-col justify-items-center text-sm leading-6 mt-24 mb-4 text-slate-700 dark:text-slate-200">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+
+<div class="mx-auto flex gap-3 py-2 px-4">
+  <div class="font-bold"><svg class="inline-block pr-1" style="height: 1em" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M12 21a9.004 9.004 0 0 0 8.716-6.747M12 21a9.004 9.004 0 0 1-8.716-6.747M12 21c2.485 0 4.5-4.03 4.5-9S14.485 3 12 3m0 18c-2.485 0-4.5-4.03-4.5-9S9.515 3 12 3m0 0a8.997 8.997 0 0 1 7.843 4.582M12 3a8.997 8.997 0 0 0-7.843 4.582m15.686 0A11.953 11.953 0 0 1 12 10.5c-2.998 0-5.74-1.1-7.843-2.918m15.686 0A8.959 8.959 0 0 1 21 12c0 .778-.099 1.533-.284 2.253m0 0A17.919 17.919 0 0 1 12 16.5a17.92 17.92 0 0 1-8.716-2.247m0 0A9.015 9.015 0 0 1 3 12c0-1.605.42-3.113 1.157-4.418"/></svg>Languages:
+  </div>
+  <div class="font-bold">English</div>
+  
+  <div><a href="https://migolovina.github.io/project/stepik/">Русский</a></div>
+  
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+    
+  
+  
+    
+  
+
+  
+
+  
+  <p class="powered-by text-center">
+    © 2025 Me. This work is licensed under <!-- raw HTML omitted -->CC BY NC ND 4.0<!-- raw HTML omitted -->
+  </p>
+  
+
+  <p class="powered-by footer-license-icons">
+    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank" aria-label="Creative Commons">
+      <i class="fab fa-creative-commons fa-2x" aria-hidden="true"></i>
+      <i class="fab fa-creative-commons-by fa-2x" aria-hidden="true"></i>
+      
+        <i class="fab fa-creative-commons-nc fa-2x" aria-hidden="true"></i>
+      
+      
+        <i class="fab fa-creative-commons-nd fa-2x" aria-hidden="true"></i>
+      
+    </a>
+  </p>
+
+
+
+
+
+  <p class="powered-by text-center">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <!-- raw HTML omitted -->Hugo Blox Builder<!-- raw HTML omitted --> — the free, <!-- raw HTML omitted -->open source<!-- raw HTML omitted --> website builder that empowers creators.
+    
+  </p>
+
+</footer>
+
+    </div>
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+  </body>
+</html>

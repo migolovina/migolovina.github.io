@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | My Multilingual Site</title>
-    <link>https://example.com/tags/</link>
-      <atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://migolovina.github.io/tags/</link>
+      <atom:link href="https://migolovina.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language><lastBuildDate>Fri, 09 May 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru</language><lastBuildDate>Fri, 09 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_ad98b3d5ac1ecd6f.png</url>
+      <url>https://migolovina.github.io/media/icon_hu_ad98b3d5ac1ecd6f.png</url>
       <title>Tags</title>
-      <link>https://example.com/tags/</link>
+      <link>https://migolovina.github.io/tags/</link>
     </image>
     
   </channel>
