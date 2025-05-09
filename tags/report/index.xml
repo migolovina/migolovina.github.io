@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Report | My Multilingual Site</title>
+    <link>https://example.com/tags/report/</link>
+      <atom:link href="https://example.com/tags/report/index.xml" rel="self" type="application/rss+xml" />
+    <description>Report</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language><lastBuildDate>Sat, 26 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_ad98b3d5ac1ecd6f.png</url>
+      <title>Report</title>
+      <link>https://example.com/tags/report/</link>
+    </image>
+    
+    <item>
+      <title>Report</title>
+      <link>https://example.com/post/otchet/</link>
+      <pubDate>Sat, 26 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/otchet/</guid>
+      <description>&lt;h1 id=&#34;report&#34;&gt;Report&lt;/h1&gt;
+&lt;p&gt;To create a report on any work or research, you need to complete several basic points.&lt;/p&gt;
+&lt;h1 id=&#34;style&#34;&gt;Style&lt;/h1&gt;
+&lt;p&gt;The report uses certain rules. The R&amp;amp;D report must be completed by any printing method on a typewriter or using a computer and printer on one side of a sheet of white A4 paper with one and a half spacing.&lt;/p&gt;
+&lt;p&gt;The report pages should be numbered in Arabic numerals, observing continuous numbering throughout the text of the report. The page number is placed in the center of the bottom of the sheet without a period. The title page is included in the general numbering of the report pages. The page number on the title page is not included. The font color should be black, the height of letters, numbers and other signs - not less than 1.8 mm (point size not less than 12). Bold font is not used.&lt;/p&gt;
+&lt;p&gt;The text of the report should be printed observing the following margin sizes: right - not less than 10 mm, top and bottom - not less than 20 mm, left - not less than 30 mm. The title page is the first page of the R&amp;amp;D report and serves as a source of information necessary for processing and searching for the document. The title page should contain the city and year of publication of the work.&lt;/p&gt;
+&lt;h1 id=&#34;description-of-work&#34;&gt;Description of work&lt;/h1&gt;
+&lt;p&gt;The report describes the main points of the conducted research, supported by images, tables, videos or graphs, which should also be formatted according to the standard.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

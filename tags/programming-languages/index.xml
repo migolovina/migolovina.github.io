@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programming Languages | My Multilingual Site</title>
+    <link>https://example.com/tags/programming-languages/</link>
+      <atom:link href="https://example.com/tags/programming-languages/index.xml" rel="self" type="application/rss+xml" />
+    <description>Programming Languages</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language><lastBuildDate>Wed, 07 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_ad98b3d5ac1ecd6f.png</url>
+      <title>Programming Languages</title>
+      <link>https://example.com/tags/programming-languages/</link>
+    </image>
+    
+    <item>
+      <title>Scientific programming languages</title>
+      <link>https://example.com/post/prog/</link>
+      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/prog/</guid>
+      <description>&lt;h2 id=&#34;scientific-programming-languages-what-to-choose-for-calculations-data-analysis-and-modeling&#34;&gt;Scientific programming languages: what to choose for calculations, data analysis and modeling?&lt;/h2&gt;
+&lt;p&gt;Scientific calculations, data processing and numerical modeling require not only knowledge of mathematics, but also the right tools. Here are the &lt;strong&gt;top languages&lt;/strong&gt; used by scientists, engineers and analysts:&lt;/p&gt;
+&lt;h2 id=&#34;python-is-a-universal-leader&#34;&gt;Python is a universal leader&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Pros&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;✅ Simple syntax + huge libraries (&lt;code&gt;NumPy&lt;/code&gt;, &lt;code&gt;SciPy&lt;/code&gt;, &lt;code&gt;Pandas&lt;/code&gt;, &lt;code&gt;Matplotlib&lt;/code&gt;).&lt;/p&gt;
+&lt;p&gt;✅ Suitable for machine learning (&lt;code&gt;TensorFlow&lt;/code&gt;, &lt;code&gt;PyTorch&lt;/code&gt;).&lt;/p&gt;
+&lt;p&gt;✅ Integration with Jupyter Notebook for interactive reports.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cons&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;❌ Slower than compiled languages ​​(but accelerated by &lt;code&gt;Cython&lt;/code&gt; or &lt;code&gt;Numba&lt;/code&gt;).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where it is used&lt;/strong&gt;: data analysis, bioinformatics, physical modeling.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;r--statistics-and-visualization&#34;&gt;R — statistics and visualization&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Pros&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;✅ Best for complex statistics and graphs (&lt;code&gt;ggplot2&lt;/code&gt;, &lt;code&gt;dplyr&lt;/code&gt;).&lt;/p&gt;
+&lt;p&gt;✅ Ready-made solutions for medicine, economics, sociology.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cons&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;❌ Inconvenient for general programming.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example&lt;/strong&gt;: calculations in psychology, financial analytics.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;julia--a-new-competitor&#34;&gt;Julia — a new competitor&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Pros&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;✅ Speed ​​like C, convenience like Python.&lt;/p&gt;
+&lt;p&gt;✅ Created specifically for science (&lt;code&gt;DifferentialEquations.jl&lt;/code&gt;, &lt;code&gt;Flux.jl&lt;/code&gt; for ML).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cons&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;❌ Fewer libraries than Python.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where it is used&lt;/strong&gt;: quantum physics, climate modeling.&lt;/p&gt;
+&lt;p&gt;&amp;ndash;&lt;/p&gt;
+&lt;h2 id=&#34;matlab--a-classic-of-engineering&#34;&gt;MATLAB — a classic of engineering&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Pros&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;✅ Ready-made toolboxes for mathematics, signals, robotics.&lt;/p&gt;
+&lt;p&gt;✅ Convenient work with matrices.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cons&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;❌ Expensive license (there are free analogs — Octave, Scilab).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;For what&lt;/strong&gt;: calculations in aviation, image processing.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fortran--cc--for-high-performance-computing-hpc&#34;&gt;Fortran &amp;amp; C/C++ — for high-performance computing (HPC)&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Pros&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;✅ Maximum speed (used in supercomputers).&lt;/p&gt;
+&lt;p&gt;✅ Optimized for physics, astronomy, meteorology.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cons&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;❌ Complex syntax, requires deep knowledge.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Examples&lt;/strong&gt;: nuclear reaction modeling, weather forecast.&lt;/p&gt;
+&lt;h2 id=&#34;how-to-choose&#34;&gt;How to choose?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;To start&lt;/strong&gt;: Python (+ libraries).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Statistics&lt;/strong&gt;: R.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Speed ​​+ science&lt;/strong&gt;: Julia.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Engineering&lt;/strong&gt;: MATLAB.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Extreme performance&lt;/strong&gt;: Fortran/C++.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

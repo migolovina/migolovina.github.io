@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News | My Multilingual Site</title>
+    <link>https://example.com/tags/news/</link>
+      <atom:link href="https://example.com/tags/news/index.xml" rel="self" type="application/rss+xml" />
+    <description>News</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language><lastBuildDate>Sat, 22 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_ad98b3d5ac1ecd6f.png</url>
+      <title>News</title>
+      <link>https://example.com/tags/news/</link>
+    </image>
+    
+    <item>
+      <title>Markdown Lightweight Markup Language</title>
+      <link>https://example.com/post/markdown/</link>
+      <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/markdown/</guid>
+      <description>&lt;p&gt;Convenience and Simplicity&lt;/p&gt;
+&lt;h2 id=&#34;markdown&#34;&gt;Markdown&lt;/h2&gt;
+&lt;p&gt;Markdown is a lightweight markup language created to indicate formatting in plain text, with maximum preservation of its human readability, and suitable for machine transformation into advanced publishing languages ​​(HTML, Rich Text, and others).&lt;/p&gt;
+&lt;h2 id=&#34;history&#34;&gt;History&lt;/h2&gt;
+&lt;p&gt;Originally created in 2004 by John Gruber and Aaron Swartz, many of the ideas for the language were borrowed from existing email markup conventions. Markdown implementations convert Markdown text to valid, well-formed XHTML and replace left angle brackets (&amp;quot;&amp;lt;&amp;quot;) and ampersands (&amp;quot;&amp;amp;&amp;quot;) with the appropriate entity codes. The first implementation of Markdown was Gruber&amp;rsquo;s Perl implementation, but many third-party implementations have appeared since then (see below). The Perl implementation is licensed under a BSD-type license. Markdown implementations in various programming languages ​​are included (or available as a plugin) in many content management systems.&lt;/p&gt;
+&lt;h2 id=&#34;syntax-examples&#34;&gt;Syntax Examples&lt;/h2&gt;
+&lt;p&gt;The following are examples of how to use Markdown, but this is not a complete guide. A full description of the language can be found on the official website. Characters that are normally treated as special in Markdown can be escaped with a backslash. For example, the sequence &amp;ldquo;*&amp;rdquo; will output the &amp;ldquo;*&amp;rdquo; character, rather than indicating the start of selected text. Also, Markdown does not convert text inside &amp;ldquo;raw&amp;rdquo; XHTML blocks. Thus, you can include XHTML sections in a Markdown document by enclosing them in block-level tags.&lt;/p&gt;
+&lt;h2 id=&#34;text-with-emphasis-or-logical-stress&#34;&gt;Text with emphasis or logical stress&lt;/h2&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;*emphasis* (e.g., italics)
+**strong emphasis** (e.g., bold)
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;program-code&#34;&gt;Program code&lt;/h2&gt;
+&lt;p&gt;Code elements can be inline or multi-line blocks. Inline code is marked with the &amp;ldquo;&lt;code&gt;&amp;quot; (backtick) character. An example of inline code is &lt;/code&gt;Hello world!`. A multi-line code block is indented by 4 spaces or one Tab.&lt;/p&gt;
+&lt;p&gt;Below begins a multi-line code block&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;    &amp;lt;!doctype html&amp;gt;
+    &amp;lt;html&amp;gt;
+        &amp;lt;head&amp;gt;
+            &amp;lt;!-- Заголовок документа --&amp;gt;
+        &amp;lt;/head&amp;gt;
+        &amp;lt;body&amp;gt;
+            &amp;lt;!-- Тело документа --&amp;gt;
+        &amp;lt;/body&amp;gt;
+    &amp;lt;/html&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Code block ended&lt;/p&gt;
+&lt;h2 id=&#34;strikethrough-text&#34;&gt;Strikethrough text&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;need to do ~~one~~other thing&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&#34;lists&#34;&gt;Lists&lt;/h2&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;* bulleted list item
+- another unordered list item
++ item bullets can be different
+&lt;/code&gt;&lt;/pre&gt;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;1. Numbered list item
+2. Item #2 of the same list
+9. Item #3 of the list — items are numbered sequentially, the number at the beginning of the line does not matter
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;headings&#34;&gt;Headings&lt;/h2&gt;
+&lt;p&gt;Headings are created by placing a pound sign before the heading text. The number of &amp;ldquo;#&amp;rdquo; signs corresponds to the heading level. HTML provides 6 levels of headings.&lt;/p&gt;
+&lt;h1 id=&#34;first-level-heading&#34;&gt;First level heading&lt;/h1&gt;
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+&lt;h3 id=&#34;third-level-heading&#34;&gt;Third level heading&lt;/h3&gt;
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+&lt;h6 id=&#34;sixth-level-heading&#34;&gt;Sixth level heading&lt;/h6&gt;
+&lt;h2 id=&#34;quotes&#34;&gt;Quotes&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This text will be enclosed in HTML tags &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;http://example.com/&#34; title=&#34;Optional link title&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link text&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GitHub | My Multilingual Site</title>
+    <link>https://example.com/ru/tags/github/</link>
+      <atom:link href="https://example.com/ru/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <description>GitHub</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru</language><lastBuildDate>Sun, 16 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_ad98b3d5ac1ecd6f.png</url>
+      <title>GitHub</title>
+      <link>https://example.com/ru/tags/github/</link>
+    </image>
+    
+    <item>
+      <title>Система контроля версий Git</title>
+      <link>https://example.com/ru/post/git/</link>
+      <pubDate>Sun, 16 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/git/</guid>
+      <description>&lt;p&gt;Информация про системы контроля версий Git и команды&lt;/p&gt;
+&lt;h2 id=&#34;что-это&#34;&gt;Что это?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Система контроля версий Git представляет собой набор программ камандной строки. Доступ к ним можно получить из терминала посредством ввода команды git с различными опциями.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Благодаря тому, что Git является распределённой системой контроля версий, резервную копию локального хранилища можно сделать простым копированием или архивацией.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;основные-команды-git&#34;&gt;Основные команды git:&lt;/h2&gt;
+&lt;dl&gt;
+&lt;dt&gt;Например в табл. @tbl:std-dir приведено краткое описание основных команд Git.&lt;/dt&gt;
+&lt;dd&gt;
+&lt;p&gt;Описание некоторых команд системы контроля версий Git {#tbl:std-dir}&lt;/p&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Команда&lt;/th&gt;
+          &lt;th&gt;Описание команды&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;git init&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;создание основного дерева репозитория&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;git pull &lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;получение обновлений (изменений) текущего дерева из центрального репозитория&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;git push&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;отправка всех произведённых изменений локального дерева в центральный репозиторий&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;git status&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;просмотр списка изменённых файлов в текущей директории&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;git diff&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;просмотр текущих изменения&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;git add&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;имена_файлов добавить конкретные изменённые и/или созданные файлы и/или каталоги&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;git rm&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;удалить файл и/или каталог из индекса репозитория (при этом файл и/или каталог остаётся в локальной директории)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;git rm имена_файлов&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;удалить файл и/или каталог из индекса репозитория (при этом файл и/или каталог остаётся в локальной директории)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;git commit -am &#39;Описание коммита&#39;&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Сохранение всех добавленных изменений с внесением комментария через встроенный редактор&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;git checkout -b имя_ветки&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Создание новой ветки, базирующейся на текущей&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;git branch -d имя_ветки&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Удаление локальной уже слитой с основным деревом ветки&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;git branch -D имя_ветки&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Принудительное удаление локальной ветки&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Полный список команд можно посмотреть на официальном сайте &lt;a href=&#34;https://docs.github.com/en/get-started/using-github/github-command-palette&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
